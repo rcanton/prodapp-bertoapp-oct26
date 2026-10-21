@@ -1,9 +1,371 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T15:38:39.875Z",
+  "exportedAt": "2026-10-21T18:30:36.329Z",
   "data": {
+    "prodapp_scripts": [
+      {
+        "id": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
+        "title": "BertoApp",
+        "content": "\n# PRODUCTION SCRIPT: *“BERTO: THE ANALYTIC AVENGER”*\n\n- **Format:** Audio-Visual Video Production Script (60–90 seconds)\n- **Genre:** Superhero Comedy / Tech Demo (PG-13)\n- **Characters:**\n  - **BERTO:** Charismatic, ultra-confident semi-superhero wearing a sleek cape over modern clothes. Serious expression, comedic deadpan delivery.\n  - **FRANTIC MANAGER / TEAM MEMBER (Silent/Comedic Extra):** Sweating, surrounded by chaotic stacks of paperwork, messy spreadsheets, and red alert charts. He’s about 40 years old, slight balding in his head.\n\n---\n\n## **SCENE 1: THE CRISIS**\n**Setting:** INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY  \n**Time:** 0:00 – 0:15  \n\n### **Visual & Action:**\nA dramatic close-up of a laptop screen glowing with chaotic error messages and messy dashboards. A Frantic Manager pulls his hair out in sheer panic. \n\nSuddenly, the room lights dim. A gust of mysterious wind blows. The camera pans to **BERTO**, standing heroically in the doorway with his arms crossed, his cape gently fluttering.\n\n### **Dialogue:**\n> **BERTO (English):**  \n> *(Deep, cinematic superhero voice, walking slowly toward the camera)*  \n> *\"They call upon other heroes when an alien armada attacks. But when your operations are spiraling out of control and nobody knows why? They call Berto.\"*\n\n> **BERTO (Español):**  \n> *(Voz profunda y cinematográfica, caminando hacia la cámara)*  \n> *\"Llaman a otros héroes cuando ataca una flota alienígena. Pero cuando las operaciones se salen de control y nadie sabe por qué... me llaman a mí: Berto.\"*\n\n---\n\n## **SCENE 2: THE POWER OF THE \"ANALYZE\" VISION**\n**Setting:** INT. THE WAR ROOM – DAY  \n**Time:** 0:15 – 0:40  \n\n### **Visual & Action:**\nBerto steps up behind the panicked manager. Berto taps the side of his temple. \n\nA glowing, futuristic HUD overlay projects from Berto’s eyes directly onto the screen—instantly revealing the **BertoApp \"Analyze\" Dashboard**. \n- Animated heatmaps, bottleneck alerts, and automated performance scores scan across the screen at hyper-speed.\n- Red warning bars instantly turn green as BertoApp groups patterns and isolates the exact operational leak.\n> **BERTO (English):**  \n> *(Deep, confidently calm, cinematic superhero voice, looking at the screens showing data)*  \n> *\"Let's pinpoint the issues using BertoApp.\"*\n\n> **BERTO (Español):**  \n> *(Voz profunda, de una calma segura —al estilo de un superhéroe de cine—, mientras observa las pantallas que muestran datos)*\n> *\"Localicemos los problemas usando BertoApp.\"*\n\n### **Dialogue:**\n> **BERTO (English):**  \n> *(Gesturing at the glowing holographic metrics with precision)*  \n> *\"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity. While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp. It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"*\n\n> **BERTO (Español):**  \n> *(Señalando los gráficos holográficos con precisión)*  \n> *\"Algunos héroes disparan rayos por los ojos. ¿Mi super poder? Claridad diagnóstica absoluta. Mientras los mortales pierden 40 horas armando tablas dinámicas, yo activo el motor de Análisis de BertoApp. Desglosa miles de datos, detecta cuellos de botella en tres segundos y frena las pérdidas operativas antes de que sean fatales.\"*\n\n---\n\n## **SCENE 3: THE COMEDIC INTERVENTION**\n**Setting:** INT. WAR ROOM / OFFICE CORRIDOR – DAY  \n**Time:** 0:40 – 1:00  \n\n### **Visual & Action:**\nBerto turns the manager’s screen around. The screen displays a bright, clean summary card from BertoApp Analyze labeled: **\"Root Cause Identified: Inefficient Process in Sector B\"**. The manager’s jaw drops in disbelief. \n\nBerto pats the manager on the shoulder, giving a smug, knowing smirk to the camera.\n\n### **Dialogue:**\n> **BERTO (English):**  \n> *(Deadpan, conversational)*  \n> *\"See that? You thought it was a market crash. BertoApp’s Analyze proved it was just Bob from accounting re-routing the workflow to avoid Monday morning meetings. Crisis averted.\"*\n\n> **BERTO (Español):**  \n> *(Tono cómico y relajado)*  \n> *\"¿Ves eso? Creías que era una crisis de mercado. El Análisis de BertoApp demostró que solo era Roberto de contabilidad desviando el flujo de trabajo para saltarse las juntas de los lunes. Crisis evitada.\"*\n\n---\n\n## **SCENE 4: THE HEROIC CLOSE & CALL TO ACTION**\n**Setting:** INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY  \n**Time:** 1:00 – 1:20  \n\n### **Visual & Action:**\nBerto walks into a bright, sleek modern room. Sleek 3D graphics of the BertoApp UI float around him, showing real-time reporting, trend predictions, and the Analyze tool in all its glory. \n\nBerto takes a heroic stance, pointing directly into the camera lens with a charismatic grin. \n\nIn the background, a breakroom refrigerator is visible with a glowing red highlight box over a labeled lunch container.\n\n### **Dialogue:**\n> **BERTO (English):**  \n> *(Upbeat, authoritative, closing pitch)*  \n> *\"You don't need superhuman genetics to dominate your market. You just need the intelligence to see the full picture. Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"*  \n> *(Pauses, glances sideways at the fridge)*  \n> *\"Now if you’ll excuse me… my analysis just detected that someone stole my empanada from the fridge… and justice is coming.\"*\n\n> **BERTO (Español):**  \n> *(Enérgico y seguro, cierre directo a cámara)*  \n> *\"No necesitas genética sobrehumana para dominar tu mercado. Solo necesitas la inteligencia para ver el panorama completo. Deja de adivinar tus números. Desata el poder de Análisis con BertoApp.\"*  \n> *(Pausa cómica, mira de reojo al refrigerador)*  \n> *\"Y ahora, con su permiso… mi análisis acaba de detectar quién se robó mi empanada del refrigerador… y la justicia no perdona.\"*\n\n---\n\n## **SCENE 5: OUTRO & LOGO REVEAL**\n**Time:** 1:20 – 1:25  \n- **Visual:** Cinematic smash cut to the **BertoApp Logo** with the tagline: *\"Turn Data Into Superpowers. Try BertoApp Analyze Today.\"*\n- **Audio / SFX:** Heroic cinematic brass hit + whoosh.\n\n",
+        "updatedAt": 1792607094176,
+        "characters": [
+          {
+            "name": "Berto",
+            "description": "Berto is a charismatic, ultra-confident man in his early-to-mid 30s with an athletic build, neatly styled dark hair, and light-toned skin. He wears a sleek, tailored superhero cape draped over sharp, modern business-casual clothing, exuding theatrical authority. He maintains an intensely serious, deadpan expression with a commanding yet comedic presence."
+          },
+          {
+            "name": "Frantic Manager / Team Member",
+            "description": "The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation."
+          }
+        ],
+        "scenes": [
+          {
+            "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
+            "description": "A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background.",
+            "staging": "The Frantic Manager sits hunched over his chaotic desk in sheer panic, pulling his hair out as laptop error alerts flash, before the room lights dim and Berto appears heroically in the doorway with his arms crossed and cape fluttering.",
+            "timeOfDay": "Day",
+            "mood": "Panicked, dramatic, comedic",
+            "scriptExcerpt": "## **SCENE 1: THE CRISIS**\n**Setting:** INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY  \n**Time:** 0:00 – 0:15  \n\n### **Visual & Action:**\nA dramatic close-up of a laptop screen glowing with chaotic error messages and messy dashboards. A Frantic Manager pulls his hair out in sheer panic. \n\nSuddenly, the room lights dim. A gust of mysterious wind blows. The camera pans to **BERTO**, standing heroically in the doorway with his arms crossed, his cape gently fluttering.\n\n### **Dialogue:**\n> **BERTO (English):**  \n> *(Deep, cinematic superhero voice, walking slowly toward the camera)*  \n> *\"They call upon other heroes when an alien armada attacks. But when your operations are spiraling out of control and nobody knows why? They call Berto.\"*\n\n> **BERTO (Español):**  \n> *(Voz profunda y cinematográfica, caminando hacia la cámara)*  \n> *\"Llaman a otros héroes cuando ataca una flota alienígena. Pero cuando las operaciones se salen de control y nadie sabe por qué... me llaman a mí: Berto.\"*"
+          },
+          {
+            "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
+            "description": "A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior.",
+            "staging": "Berto steps up behind the panicked manager at the workstation, tapping his temple to project a futuristic HUD overlay directly onto the screen to dissect operational bottlenecks.",
+            "timeOfDay": "Day",
+            "mood": "High-tech, confident, analytical",
+            "scriptExcerpt": "## **SCENE 2: THE POWER OF THE \"ANALYZE\" VISION**\n**Setting:** INT. THE WAR ROOM – DAY  \n**Time:** 0:15 – 0:40  \n\n### **Visual & Action:**\nBerto steps up behind the panicked manager. Berto taps the side of his temple. \n\nA glowing, futuristic HUD overlay projects from Berto’s eyes directly onto the screen—instantly revealing the **BertoApp \"Analyze\" Dashboard**. \n- Animated heatmaps, bottleneck alerts, and automated performance scores scan across the screen at hyper-speed.\n- Red warning bars instantly turn green as BertoApp groups patterns and isolates the exact operational leak.\n> **BERTO (English):**  \n> *(Deep, confidently calm, cinematic superhero voice, looking at the screens showing data)*  \n> *\"Let's pinpoint the issues using BertoApp.\"*\n\n> **BERTO (Español):**  \n> *(Voz profunda, de una calma segura —al estilo de un superhéroe de cine—, mientras observa las pantallas que muestran datos)*\n> *\"Localicemos los problemas usando BertoApp.\"*\n\n### **Dialogue:**\n> **BERTO (English):**  \n> *(Gesturing at the glowing holographic metrics with precision)*  \n> *\"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity. While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp. It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"*\n\n> **BERTO (Español):**  \n> *(Señalando los gráficos holográficos con precisión)*  \n> *\"Algunos héroes disparan rayos por los ojos. ¿Mi super poder? Claridad diagnóstica absoluta. Mientras los mortales pierden 40 horas armando tablas dinámicas, yo activo el motor de Análisis de BertoApp. Desglosa miles de datos, detecta cuellos de botella en tres segundos y frena las pérdidas operativas antes de que sean fatales.\"*"
+          },
+          {
+            "name": "Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY",
+            "description": "A transitional office zone links a glass-walled war room to a corporate corridor finished with carpet tile flooring and pale gray drywall. An ergonomic office desk holds a swiveling monitor oriented outward displaying a clean digital dashboard card, surrounded by branded stationery, empty coffee mugs, and neat file organizers. Soft daylight from corridor windows washes over the contemporary architectural setting alongside recessed neutral overhead lighting.",
+            "staging": "Berto turns the manager's monitor around to reveal the root cause summary card, then pats the astonished manager on the shoulder while delivering a knowing smirk to the camera.",
+            "timeOfDay": "Day",
+            "mood": "Relieved, humorous, triumphant",
+            "scriptExcerpt": "## **SCENE 3: THE COMEDIC INTERVENTION**\n**Setting:** INT. WAR ROOM / OFFICE CORRIDOR – DAY  \n**Time:** 0:40 – 1:00  \n\n### **Visual & Action:**\nBerto turns the manager’s screen around. The screen displays a bright, clean summary card from BertoApp Analyze labeled: **\"Root Cause Identified: Inefficient Process in Sector B\"**. The manager’s jaw drops in disbelief. \n\nBerto pats the manager on the shoulder, giving a smug, knowing smirk to the camera.\n\n### **Dialogue:**\n> **BERTO (English):**  \n> *(Deadpan, conversational)*  \n> *\"See that? You thought it was a market crash. BertoApp’s Analyze proved it was just Bob from accounting re-routing the workflow to avoid Monday morning meetings. Crisis averted.\"*\n\n> **BERTO (Español):**  \n> *(Tono cómico y relajado)*  \n> *\"¿Ves eso? Creías que era una crisis de mercado. El Análisis de BertoApp demostró que solo era Roberto de contabilidad desviando el flujo de trabajo para saltarse las juntas de los lunes. Crisis evitada.\"*"
+          },
+          {
+            "name": "Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY",
+            "description": "An ultra-modern, high-key studio space boasts seamless white cyclorama walls, glossy epoxy flooring, and minimalist architectural lines. Floating digital display fixtures and translucent acrylic pedestals are positioned around the open floor, while an open-concept breakroom kitchenette with a stainless-steel refrigerator is visible in the background. The set is flooded with balanced, bright studio key lighting and soft daylight fill that accentuates the pristine aesthetic.",
+            "staging": "Berto walks into the bright modern studio surrounded by floating UI graphics, strikes a heroic pose pointing at the camera lens, and then glances sideways toward the breakroom refrigerator.",
+            "timeOfDay": "Day",
+            "mood": "Empowering, upbeat, witty",
+            "scriptExcerpt": "## **SCENE 4: THE HEROIC CLOSE & CALL TO ACTION**\n**Setting:** INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY  \n**Time:** 1:00 – 1:20  \n\n### **Visual & Action:**\nBerto walks into a bright, sleek modern room. Sleek 3D graphics of the BertoApp UI float around him, showing real-time reporting, trend predictions, and the Analyze tool in all its glory. \n\nBerto takes a heroic stance, pointing directly into the camera lens with a charismatic grin. \n\nIn the background, a breakroom refrigerator is visible with a glowing red highlight box over a labeled lunch container.\n\n### **Dialogue:**\n> **BERTO (English):**  \n> *(Upbeat, authoritative, closing pitch)*  \n> *\"You don't need superhuman genetics to dominate your market. You just need the intelligence to see the full picture. Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"*  \n> *(Pauses, glances sideways at the fridge)*  \n> *\"Now if you’ll excuse me… my analysis just detected that someone stole my empanada from the fridge… and justice is coming.\"*\n\n> **BERTO (Español):**  \n> *(Enérgico y seguro, cierre directo a cámara)*  \n> *\"No necesitas genética sobrehumana para dominar tu mercado. Solo necesitas la inteligencia para ver el panorama completo. Deja de adivinar tus números. Desata el poder de Análisis con BertoApp.\"*  \n> *(Pausa cómica, mira de reojo al refrigerador)*  \n> *\"Y ahora, con su permiso… mi análisis acaba de detectar quién se robó mi empanada del refrigerador… y la justicia no perdona.\"*"
+          },
+          {
+            "name": "Scene 5 — SCENE 5: OUTRO & LOGO REVEAL",
+            "description": "A clean graphic presentation stage features a seamless high-gloss deep navy backdrop framed by dark architectural acoustic fins. Centered on the backdrop is a three-dimensional embossed metallic display panel configured for high-contrast digital projection. Crisp studio edge lights and a focused overhead spotlight illuminate the empty presentation space, creating a sleek, premium corporate look.",
+            "staging": "No characters are present as the scene smash-cuts directly to the bold BertoApp logo and promotional tagline display.",
+            "timeOfDay": "Unknown",
+            "mood": "Decisive, heroic, impactful",
+            "scriptExcerpt": "## **SCENE 5: OUTRO & LOGO REVEAL**\n**Time:** 1:20 – 1:25  \n- **Visual:** Cinematic smash cut to the **BertoApp Logo** with the tagline: *\"Turn Data Into Superpowers. Try BertoApp Analyze Today.\"*\n- **Audio / SFX:** Heroic cinematic brass hit + whoosh."
+          }
+        ]
+      }
+    ],
+    "prodapp_characters": [
+      {
+        "id": "1792607215570",
+        "name": "Frantic Manager / Team Member",
+        "description": "The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.",
+        "url": "idb-img:char:1792607215570:url:6eec880156bc74f6a203ad19",
+        "createdAt": 1792607215570,
+        "portraitPrompt": "Hyperrealistic portrait photograph of a person named Frantic Manager / Team Member. The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. PRODUCTION BIBLE & VISUAL DIRECTION (BertoApp): Logline & Tone: When an overworked corporate team drowns in catastrophic operational data, an ultra-confident, deadpan superhero named Berto swoops into the cubicle trenches to deliver diagnostic clarity via holographic app analytics. The visual register collides the sweeping, desaturated chiaroscuro of modern comic-book blockbusters with the high-tempo situational absurdity of corporate satire—treating spreadsheet bottlenecks and stolen breakroom lunches with t | Era, Setting & World: * **Time Period:** Present day / near-future contemporary (2024–2026), grounded in late-stage tech-corporate operations. * **Geography:** A generic Tier-1 tech metropolis (San Francisco / Austin / Frankfurt corridor), completely interior-bound inside an anonymous corporate monolith. * **Socioeconomic Texture:** Hyper-capitalist middle management on the brink of operational collapse, juxtaposed against elite, venture-funded technological poise. *  | Visual Style & Cinematography: * **Cinematography References:** Larry Fong (*Watchmen*, *Batman v Superman*) for hyper-stylized contrast and mythological hero framing; Barry Sonnenfeld (*Men in Black*) and Edgar Wright (*Hot Fuzz*) for dynamic comic timing, whip pans, and deadpan wide shots. * **Lens Feel:** 2.39:1 widescreen anamorphic (Cooke Anamorphic/i Full Frame Plus). Cinematic edge-falloff, horizontal streak flaring on holographic data elements, shallow depth of field i | Color Palette: * **Panic Crimson** (`#B3131B`): Dominates Scenes 1–2. Laptop error alerts, failing dashboard line graphs, manager’s stress flushed skin, and the warning box around the stolen empanada in Scene 4. * **Diagnostic Cyan** (`#00E5FF`): The core BertoApp signature. Volumetric HUD projections from Berto’s eyes, real-time node links, and resolved metric states. * **Corporate Slate** (`#1E222A`): Dominates environment architecture, divider screens, serve | Wardrobe & Styling Direction: * **Berto:** \"Savile Row Vigilante.\" Wears an impeccably tailored charcoal merino wool turtleneck, slim-tapered slate Italian trousers, and matte black leather Chelsea boots. Over this modern executive uniform hangs an architectural, heavy-drape midnight-navy cape with a structured military-style stand collar and matte black metal hardware. The cape behaves with weight and cinematic dignity (never costume satin or flimsy nylon). Grooming is razor | Environment & Lighting Direction: * **Key Architectural Materials:** Scratched industrial laminate, sound-dampening ribbed grey felt, brushed cold-rolled steel, smoked tempered glass, and seamless architectural plaster. * **Set-Dressing Motifs:** * *War Room (Scenes 1–3):* Towering, leaning stacks of 8.5x11 printed spreadsheets, cold dregs in branded corporate mugs, chaotic nests of Ethernet/HDMI cables, crushed energy drink cans, and multi-monitor rigs flashing conflicting warni | Consistency Rules: * **The Cape Is Never a Joke:** Berto’s cape must always be rendered and lit with absolute cinematic respect—heavy textile weight, elegant drape, and atmospheric wind-machine physics. It must never look like a cheap Halloween prop or party gag. * **Diegetic Volumetric HUD:** The BertoApp UI projected from Berto's temple/eyes is a true physical light emitter; it casts visible Diagnostic Cyan (`#00E5FF`) reflections onto actors' faces, eyeglasses, . Shot on a Sony A7R V with an 85mm f/1.4 lens, soft natural studio lighting, shallow depth of field, razor-sharp facial details, visible skin texture and pores, ultra high resolution, photorealistic, cinematic color grade, professional headshot.",
+        "visionDescription": "A Caucasian man in his early-to-mid 50s with an oval, flushed face, soft jawline, and average stocky build with a broad neck. He features unkempt, thinning dark brown hair with advanced temple recession and a high forehead marked by deep horizontal furrows. His fair complexion has pronounced ruddy undertones, prominent nasolabial folds, and heavy perspiration. He has wide-set, rounded hazel-brown eyes with significant under-eye puffiness, framed by thin, sparse dark brows. His nose is straight with a fleshy, bulbous tip, set above thin lips parted in distress, and his jawline and rounded chin are clean-shaven with faint dark shadow.",
+        "voiceId": "en-US-Chirp3-HD-Orus",
+        "voiceType": "google-tts",
+        "turnaroundUrl": "idb-img:char:1792607215570:turnaroundUrl:826954f59980eaf8c34b3e62",
+        "turnaroundPrompt": "Hyperrealistic multi-angle studio photograph sequence of a person named \"Frantic Manager / Team Member\". Using the real person in the reference portrait image, photograph the EXACT SAME person from four full-body angles arranged side by side in a clean horizontal row: full-body front view, full-body 3/4 left view, full-body left profile view, and full-body back view. Neutral standing pose with arms relaxed at sides. Maintain identical realistic face, skin texture, hairstyle, body build, and clothing across all four views. A Caucasian man in his early-to-mid 50s with an oval, flushed face, soft jawline, and average stocky build with a broad neck. He features unkempt, thinning dark brown hair with advanced temple recession and a high forehead marked by deep horizontal furrows. His fair complexion has pronounced ruddy undertones, prominent nasolabial folds, and heavy perspiration. He has wide-set, rounded hazel-brown eyes with significant under-eye puffiness, framed by thin, sparse dark brows. His nose is straight with a fleshy, bulbous tip, set above thin lips parted in distress, and his jawline and rounded chin are clean-shaven with faint dark shadow.. Wardrobe continuity: keep the character in the exact clothing they wear in the reference image — same garments, colors, materials, and footwear. Do not restyle or re-dress them. Shot on a Sony A7R V with 35mm lens, sharp focus, natural neutral studio lighting, plain light-gray studio backdrop, ultra-detailed photorealism, professional commercial photoshoot. NOT an illustration, NOT a drawing, NOT comic book art, NOT anime, NOT a cartoon, NOT cell-shaded, NOT 2D artwork."
+      },
+      {
+        "id": "1792607186622",
+        "name": "Berto",
+        "description": "Berto is a charismatic, ultra-confident man in his early-to-mid 30s with an athletic build, neatly styled dark hair, and light-toned skin. He wears a sleek, tailored superhero cape draped over sharp, modern business-casual clothing, exuding theatrical authority. He maintains an intensely serious, deadpan expression with a commanding yet comedic presence.",
+        "url": "idb-img:char:1792607186622:url:05e53c136da3aac10a823501",
+        "createdAt": 1792607186622,
+        "portraitPrompt": "Hyperrealistic portrait photograph of a person named Berto. Berto is a charismatic, ultra-confident man in his early-to-mid 30s with an athletic build, neatly styled dark hair, and light-toned skin. He wears a sleek, tailored superhero cape draped over sharp, modern business-casual clothing, exuding theatrical authority. He maintains an intensely serious, deadpan expression with a commanding yet comedic presence.. PRODUCTION BIBLE & VISUAL DIRECTION (BertoApp): Logline & Tone: When an overworked corporate team drowns in catastrophic operational data, an ultra-confident, deadpan superhero named Berto swoops into the cubicle trenches to deliver diagnostic clarity via holographic app analytics. The visual register collides the sweeping, desaturated chiaroscuro of modern comic-book blockbusters with the high-tempo situational absurdity of corporate satire—treating spreadsheet bottlenecks and stolen breakroom lunches with t | Era, Setting & World: * **Time Period:** Present day / near-future contemporary (2024–2026), grounded in late-stage tech-corporate operations. * **Geography:** A generic Tier-1 tech metropolis (San Francisco / Austin / Frankfurt corridor), completely interior-bound inside an anonymous corporate monolith. * **Socioeconomic Texture:** Hyper-capitalist middle management on the brink of operational collapse, juxtaposed against elite, venture-funded technological poise. *  | Visual Style & Cinematography: * **Cinematography References:** Larry Fong (*Watchmen*, *Batman v Superman*) for hyper-stylized contrast and mythological hero framing; Barry Sonnenfeld (*Men in Black*) and Edgar Wright (*Hot Fuzz*) for dynamic comic timing, whip pans, and deadpan wide shots. * **Lens Feel:** 2.39:1 widescreen anamorphic (Cooke Anamorphic/i Full Frame Plus). Cinematic edge-falloff, horizontal streak flaring on holographic data elements, shallow depth of field i | Color Palette: * **Panic Crimson** (`#B3131B`): Dominates Scenes 1–2. Laptop error alerts, failing dashboard line graphs, manager’s stress flushed skin, and the warning box around the stolen empanada in Scene 4. * **Diagnostic Cyan** (`#00E5FF`): The core BertoApp signature. Volumetric HUD projections from Berto’s eyes, real-time node links, and resolved metric states. * **Corporate Slate** (`#1E222A`): Dominates environment architecture, divider screens, serve | Wardrobe & Styling Direction: * **Berto:** \"Savile Row Vigilante.\" Wears an impeccably tailored charcoal merino wool turtleneck, slim-tapered slate Italian trousers, and matte black leather Chelsea boots. Over this modern executive uniform hangs an architectural, heavy-drape midnight-navy cape with a structured military-style stand collar and matte black metal hardware. The cape behaves with weight and cinematic dignity (never costume satin or flimsy nylon). Grooming is razor | Environment & Lighting Direction: * **Key Architectural Materials:** Scratched industrial laminate, sound-dampening ribbed grey felt, brushed cold-rolled steel, smoked tempered glass, and seamless architectural plaster. * **Set-Dressing Motifs:** * *War Room (Scenes 1–3):* Towering, leaning stacks of 8.5x11 printed spreadsheets, cold dregs in branded corporate mugs, chaotic nests of Ethernet/HDMI cables, crushed energy drink cans, and multi-monitor rigs flashing conflicting warni | Consistency Rules: * **The Cape Is Never a Joke:** Berto’s cape must always be rendered and lit with absolute cinematic respect—heavy textile weight, elegant drape, and atmospheric wind-machine physics. It must never look like a cheap Halloween prop or party gag. * **Diegetic Volumetric HUD:** The BertoApp UI projected from Berto's temple/eyes is a true physical light emitter; it casts visible Diagnostic Cyan (`#00E5FF`) reflections onto actors' faces, eyeglasses, . Shot on a Sony A7R V with an 85mm f/1.4 lens, soft natural studio lighting, shallow depth of field, razor-sharp facial details, visible skin texture and pores, ultra high resolution, photorealistic, cinematic color grade, professional headshot.",
+        "visionDescription": "A Hispanic man in his early-to-mid 50s with a broad-shouldered, sturdy frame and a wide, rectangular-oval face structure. He has a warm medium-olive skin tone, mild cheek ruddiness, and faint forehead creasing. His dark brown hair is cropped short and neatly combed, featuring a high, receding hairline at the temples. Dark, thick, gently arched eyebrows sit over dark brown, hooded almond-shaped eyes with subtle under-eye fullness. He has a straight nose with a wide, fleshy rounded tip, and medium-thick lips set in a neutral resting expression. His facial hair is a neatly trimmed, full salt-and-pepper beard and mustache, featuring darker stubble along the cheeks and a dense concentration of bright silver-white hair across the front chin and lower jawline.",
+        "voiceId": "custom-sample",
+        "voiceType": "custom-sample",
+        "customVoiceId": "cv-1792604017125",
+        "customVoiceUrl": "idb-img:char:1792607186622:customVoiceUrl:8f2e4df1a098a6dc4cc27508",
+        "customVoiceName": "RC-MyVoice",
+        "customVoiceDescription": "A warm, deliberate masculine tenor voice speaking Hispanic-accented English at around 129 Hz, featuring clear articulation, measured storytelling cadence, and grounded chest resonance.",
+        "customVoiceGender": "M",
+        "customVoiceMatchedVoiceId": "en-US-Neural2-I",
+        "customVoiceCloningKey": "voice_84hqm6cogq1m",
+        "customVoiceSpeakingRate": 0.96,
+        "customVoicePitchSemitones": 0.7,
+        "customVoiceF0Hz": 129,
+        "customVoiceLowGainDb": 4.1,
+        "customVoiceMidGainDb": -1.8,
+        "customVoiceHighGainDb": -1.7,
+        "customVoiceLtasDb": [
+          -4.69,
+          -3.01,
+          -3.85,
+          -7.25,
+          -11.99,
+          -15.14,
+          -18.05,
+          -21.17,
+          -24.36
+        ],
+        "customVoiceAuditionUrl": "idb-img:char:1792607186622:customVoiceAuditionUrl:62130411f46bb953fd813002",
+        "turnaroundUrl": "idb-img:char:1792607186622:turnaroundUrl:a72fbb875f38baff9d748946",
+        "turnaroundPrompt": "Hyperrealistic multi-angle studio photograph sequence of a person named \"Berto\". Using the real person in the reference portrait image, photograph the EXACT SAME person from four full-body angles arranged side by side in a clean horizontal row: full-body front view, full-body 3/4 left view, full-body left profile view, and full-body back view. Neutral standing pose with arms relaxed at sides. Maintain identical realistic face, skin texture, hairstyle, body build, and clothing across all four views. A Hispanic man in his early-to-mid 50s with a broad-shouldered, sturdy frame and a wide, rectangular-oval face structure. He has a warm medium-olive skin tone, mild cheek ruddiness, and faint forehead creasing. His dark brown hair is cropped short and neatly combed, featuring a high, receding hairline at the temples. Dark, thick, gently arched eyebrows sit over dark brown, hooded almond-shaped eyes with subtle under-eye fullness. He has a straight nose with a wide, fleshy rounded tip, and medium-thick lips set in a neutral resting expression. His facial hair is a neatly trimmed, full salt-and-pepper beard and mustache, featuring darker stubble along the cheeks and a dense concentration of bright silver-white hair across the front chin and lower jawline.. Wardrobe continuity: keep the character in the exact clothing they wear in the reference image — same garments, colors, materials, and footwear. Do not restyle or re-dress them. Shot on a Sony A7R V with 35mm lens, sharp focus, natural neutral studio lighting, plain light-gray studio backdrop, ultra-detailed photorealism, professional commercial photoshoot. NOT an illustration, NOT a drawing, NOT comic book art, NOT anime, NOT a cartoon, NOT cell-shaded, NOT 2D artwork."
+      }
+    ],
+    "prodapp_custom_voices": [
+      {
+        "id": "cv-1792604017125",
+        "name": "RC-MyVoice",
+        "audioUrl": "idb-img:voice:cv-1792604017125:audioUrl:8f2e4df1a098a6dc4cc27508",
+        "auditionUrl": "idb-img:voice:cv-1792604017125:auditionUrl:62130411f46bb953fd813002",
+        "description": "A warm, deliberate masculine tenor voice speaking Hispanic-accented English at around 129 Hz, featuring clear articulation, measured storytelling cadence, and grounded chest resonance.",
+        "gender": "M",
+        "matchedVoiceId": "en-US-Neural2-I",
+        "voiceCloningKey": "voice_84hqm6cogq1m",
+        "speakingRate": 0.96,
+        "pitchSemitones": 0.7,
+        "f0Hz": 129,
+        "lowGainDb": 4.1,
+        "midGainDb": -1.8,
+        "highGainDb": -1.7,
+        "ltasDb": [
+          -4.69,
+          -3.01,
+          -3.85,
+          -7.25,
+          -11.99,
+          -15.14,
+          -18.05,
+          -21.17,
+          -24.36
+        ],
+        "cloneEngineVersion": 3,
+        "register": "Tenor",
+        "pitch": "Low-mid tenor (129 Hz) (129 Hz)",
+        "timbre": "Warm chest resonance, clear articulation, slightly dry narrative texture with subtle rasp",
+        "pacing": "Deliberate, steady, and dramatic narrative cadence",
+        "accent": "Hispanic-accented English",
+        "source": "uploaded",
+        "createdAt": 1792607348942,
+        "updatedAt": 1792607348953,
+        "originProjectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+        "originProjectName": "BertoApp-October"
+      },
+      {
+        "id": "cv-1792593687983",
+        "name": "RC-MyVoice",
+        "audioUrl": "idb-img:voice:cv-1792593687983:audioUrl:2bde434795b50735849ae37d",
+        "auditionUrl": "idb-img:voice:cv-1792593687983:auditionUrl:40176da69dfc49020bfd16f5",
+        "description": "A measured, dramatic male tenor voice at 130 Hz with intimate chest warmth, subtle breathiness, and a deliberate cinematic narrative cadence.",
+        "gender": "M",
+        "matchedVoiceId": "en-US-Studio-Q",
+        "speakingRate": 0.93,
+        "pitchSemitones": 0.8,
+        "register": "Tenor",
+        "pitch": "Low-mid tenor (130 Hz) (130 Hz)",
+        "timbre": "Warm, intimate close-mic resonance with subtle breathiness and noir-style dramatic depth",
+        "pacing": "Deliberate, measured, and atmospheric",
+        "accent": "General American",
+        "source": "uploaded",
+        "createdAt": 1792593687983,
+        "updatedAt": 1792604043415,
+        "f0Hz": 130,
+        "lowGainDb": 4.9,
+        "midGainDb": -2.4,
+        "highGainDb": -1.8,
+        "cloneEngineVersion": 3,
+        "ltasDb": [
+          -3.81,
+          -3.27,
+          -4.41,
+          -7.67,
+          -12.5,
+          -16.22,
+          -18.96,
+          -21.18,
+          -23.84
+        ]
+      },
+      {
+        "id": "cv-1792599502596",
+        "name": "RC-MyVoice",
+        "audioUrl": "idb-img:voice:cv-1792599502596:audioUrl:8f2e4df1a098a6dc4cc27508",
+        "auditionUrl": "idb-img:voice:cv-1792599502596:auditionUrl:abb7470537ce077133701ec8",
+        "description": "Warm, measured masculine tenor voice at 129 Hz with a subtle Hispanic accent, grounded chest resonance, and deliberate dramatic storytelling delivery.",
+        "gender": "M",
+        "matchedVoiceId": "en-US-Neural2-I",
+        "speakingRate": 0.95,
+        "pitchSemitones": 0.7,
+        "f0Hz": 129,
+        "lowGainDb": 4.1,
+        "midGainDb": -1.8,
+        "highGainDb": -1.7,
+        "cloneEngineVersion": 3,
+        "register": "Tenor",
+        "pitch": "Mid-low (129 Hz) (129 Hz)",
+        "timbre": "Warm chest resonance with subtle dry texture, clear articulation, and intimate close-mic presence",
+        "pacing": "Deliberate, measured, and evocative narrative cadence",
+        "accent": "Hispanic-accented English",
+        "source": "uploaded",
+        "createdAt": 1792599502596,
+        "updatedAt": 1792604003454,
+        "voiceCloningKey": "voice_l2gf5eecq9m8",
+        "ltasDb": [
+          -4.69,
+          -3.01,
+          -3.85,
+          -7.25,
+          -11.99,
+          -15.14,
+          -18.05,
+          -21.17,
+          -24.36
+        ]
+      }
+    ],
+    "prodapp_artifacts": [
+      {
+        "type": "character",
+        "name": "Berto — Turnaround",
+        "prompt": "Hyperrealistic multi-angle studio photograph sequence of a person named \"Berto\". Using the real person in the reference portrait image, photograph the EXACT SAME person from four full-body angles arranged side by side in a clean horizontal row: full-body front view, full-body 3/4 left view, full-body left profile view, and full-body back view. Neutral standing pose with arms relaxed at sides. Maintain identical realistic face, skin texture, hairstyle, body build, and clothing across all four views. A Hispanic man in his early-to-mid 50s with a broad-shouldered, sturdy frame and a wide, rectangular-oval face structure. He has a warm medium-olive skin tone, mild cheek ruddiness, and faint forehead creasing. His dark brown hair is cropped short and neatly combed, featuring a high, receding hairline at the temples. Dark, thick, gently arched eyebrows sit over dark brown, hooded almond-shaped eyes with subtle under-eye fullness. He has a straight nose with a wide, fleshy rounded tip, and medium-thick lips set in a neutral resting expression. His facial hair is a neatly trimmed, full salt-and-pepper beard and mustache, featuring darker stubble along the cheeks and a dense concentration of bright silver-white hair across the front chin and lower jawline.. Wardrobe continuity: keep the character in the exact clothing they wear in the reference image — same garments, colors, materials, and footwear. Do not restyle or re-dress them. Shot on a Sony A7R V with 35mm lens, sharp focus, natural neutral studio lighting, plain light-gray studio backdrop, ultra-detailed photorealism, professional commercial photoshoot. NOT an illustration, NOT a drawing, NOT comic book art, NOT anime, NOT a cartoon, NOT cell-shaded, NOT 2D artwork.",
+        "model": "gemini-3-pro-image",
+        "referenceId": "1792607186622",
+        "metadata": {
+          "kind": "turnaround",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "9095f65d-4049-43ab-be92-49c962192b14",
+        "timestamp": 1792607401294
+      },
+      {
+        "type": "character",
+        "name": "Frantic Manager / Team Member — Turnaround",
+        "prompt": "Hyperrealistic multi-angle studio photograph sequence of a person named \"Frantic Manager / Team Member\". Using the real person in the reference portrait image, photograph the EXACT SAME person from four full-body angles arranged side by side in a clean horizontal row: full-body front view, full-body 3/4 left view, full-body left profile view, and full-body back view. Neutral standing pose with arms relaxed at sides. Maintain identical realistic face, skin texture, hairstyle, body build, and clothing across all four views. A Caucasian man in his early-to-mid 50s with an oval, flushed face, soft jawline, and average stocky build with a broad neck. He features unkempt, thinning dark brown hair with advanced temple recession and a high forehead marked by deep horizontal furrows. His fair complexion has pronounced ruddy undertones, prominent nasolabial folds, and heavy perspiration. He has wide-set, rounded hazel-brown eyes with significant under-eye puffiness, framed by thin, sparse dark brows. His nose is straight with a fleshy, bulbous tip, set above thin lips parted in distress, and his jawline and rounded chin are clean-shaven with faint dark shadow.. Wardrobe continuity: keep the character in the exact clothing they wear in the reference image — same garments, colors, materials, and footwear. Do not restyle or re-dress them. Shot on a Sony A7R V with 35mm lens, sharp focus, natural neutral studio lighting, plain light-gray studio backdrop, ultra-detailed photorealism, professional commercial photoshoot. NOT an illustration, NOT a drawing, NOT comic book art, NOT anime, NOT a cartoon, NOT cell-shaded, NOT 2D artwork.",
+        "model": "gemini-3-pro-image",
+        "referenceId": "1792607215570",
+        "metadata": {
+          "kind": "turnaround",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "092ce14e-eb15-4eec-90f3-82cfd9fe2756",
+        "timestamp": 1792607369198
+      },
+      {
+        "type": "character",
+        "name": "Berto",
+        "prompt": "Uploaded identity portrait for Berto (canton2.jpg)",
+        "model": "manual-upload",
+        "referenceId": "1792607186622",
+        "metadata": {
+          "description": "Berto is a charismatic, ultra-confident man in his early-to-mid 30s with an athletic build, neatly styled dark hair, and light-toned skin. He wears a sleek, tailored superhero cape draped over sharp, modern business-casual clothing, exuding theatrical authority. He maintains an intensely serious, deadpan expression with a commanding yet comedic presence.",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "d8733579-26a4-41a0-89a2-0eada73af603",
+        "timestamp": 1792607271702
+      },
+      {
+        "type": "character",
+        "name": "Frantic Manager / Team Member",
+        "prompt": "Hyperrealistic portrait photograph of a person named Frantic Manager / Team Member. The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. PRODUCTION BIBLE & VISUAL DIRECTION (BertoApp): Logline & Tone: When an overworked corporate team drowns in catastrophic operational data, an ultra-confident, deadpan superhero named Berto swoops into the cubicle trenches to deliver diagnostic clarity via holographic app analytics. The visual register collides the sweeping, desaturated chiaroscuro of modern comic-book blockbusters with the high-tempo situational absurdity of corporate satire—treating spreadsheet bottlenecks and stolen breakroom lunches with t | Era, Setting & World: * **Time Period:** Present day / near-future contemporary (2024–2026), grounded in late-stage tech-corporate operations. * **Geography:** A generic Tier-1 tech metropolis (San Francisco / Austin / Frankfurt corridor), completely interior-bound inside an anonymous corporate monolith. * **Socioeconomic Texture:** Hyper-capitalist middle management on the brink of operational collapse, juxtaposed against elite, venture-funded technological poise. *  | Visual Style & Cinematography: * **Cinematography References:** Larry Fong (*Watchmen*, *Batman v Superman*) for hyper-stylized contrast and mythological hero framing; Barry Sonnenfeld (*Men in Black*) and Edgar Wright (*Hot Fuzz*) for dynamic comic timing, whip pans, and deadpan wide shots. * **Lens Feel:** 2.39:1 widescreen anamorphic (Cooke Anamorphic/i Full Frame Plus). Cinematic edge-falloff, horizontal streak flaring on holographic data elements, shallow depth of field i | Color Palette: * **Panic Crimson** (`#B3131B`): Dominates Scenes 1–2. Laptop error alerts, failing dashboard line graphs, manager’s stress flushed skin, and the warning box around the stolen empanada in Scene 4. * **Diagnostic Cyan** (`#00E5FF`): The core BertoApp signature. Volumetric HUD projections from Berto’s eyes, real-time node links, and resolved metric states. * **Corporate Slate** (`#1E222A`): Dominates environment architecture, divider screens, serve | Wardrobe & Styling Direction: * **Berto:** \"Savile Row Vigilante.\" Wears an impeccably tailored charcoal merino wool turtleneck, slim-tapered slate Italian trousers, and matte black leather Chelsea boots. Over this modern executive uniform hangs an architectural, heavy-drape midnight-navy cape with a structured military-style stand collar and matte black metal hardware. The cape behaves with weight and cinematic dignity (never costume satin or flimsy nylon). Grooming is razor | Environment & Lighting Direction: * **Key Architectural Materials:** Scratched industrial laminate, sound-dampening ribbed grey felt, brushed cold-rolled steel, smoked tempered glass, and seamless architectural plaster. * **Set-Dressing Motifs:** * *War Room (Scenes 1–3):* Towering, leaning stacks of 8.5x11 printed spreadsheets, cold dregs in branded corporate mugs, chaotic nests of Ethernet/HDMI cables, crushed energy drink cans, and multi-monitor rigs flashing conflicting warni | Consistency Rules: * **The Cape Is Never a Joke:** Berto’s cape must always be rendered and lit with absolute cinematic respect—heavy textile weight, elegant drape, and atmospheric wind-machine physics. It must never look like a cheap Halloween prop or party gag. * **Diegetic Volumetric HUD:** The BertoApp UI projected from Berto's temple/eyes is a true physical light emitter; it casts visible Diagnostic Cyan (`#00E5FF`) reflections onto actors' faces, eyeglasses, . Shot on a Sony A7R V with an 85mm f/1.4 lens, soft natural studio lighting, shallow depth of field, razor-sharp facial details, visible skin texture and pores, ultra high resolution, photorealistic, cinematic color grade, professional headshot.",
+        "model": "gemini-3-pro-image-preview",
+        "referenceId": "1792607215570",
+        "metadata": {
+          "description": "The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "00d5c5cf-8728-4c9d-95f0-65744b2c4935",
+        "timestamp": 1792607215570
+      },
+      {
+        "type": "character",
+        "name": "Berto",
+        "prompt": "Hyperrealistic portrait photograph of a person named Berto. Berto is a charismatic, ultra-confident man in his early-to-mid 30s with an athletic build, neatly styled dark hair, and light-toned skin. He wears a sleek, tailored superhero cape draped over sharp, modern business-casual clothing, exuding theatrical authority. He maintains an intensely serious, deadpan expression with a commanding yet comedic presence.. PRODUCTION BIBLE & VISUAL DIRECTION (BertoApp): Logline & Tone: When an overworked corporate team drowns in catastrophic operational data, an ultra-confident, deadpan superhero named Berto swoops into the cubicle trenches to deliver diagnostic clarity via holographic app analytics. The visual register collides the sweeping, desaturated chiaroscuro of modern comic-book blockbusters with the high-tempo situational absurdity of corporate satire—treating spreadsheet bottlenecks and stolen breakroom lunches with t | Era, Setting & World: * **Time Period:** Present day / near-future contemporary (2024–2026), grounded in late-stage tech-corporate operations. * **Geography:** A generic Tier-1 tech metropolis (San Francisco / Austin / Frankfurt corridor), completely interior-bound inside an anonymous corporate monolith. * **Socioeconomic Texture:** Hyper-capitalist middle management on the brink of operational collapse, juxtaposed against elite, venture-funded technological poise. *  | Visual Style & Cinematography: * **Cinematography References:** Larry Fong (*Watchmen*, *Batman v Superman*) for hyper-stylized contrast and mythological hero framing; Barry Sonnenfeld (*Men in Black*) and Edgar Wright (*Hot Fuzz*) for dynamic comic timing, whip pans, and deadpan wide shots. * **Lens Feel:** 2.39:1 widescreen anamorphic (Cooke Anamorphic/i Full Frame Plus). Cinematic edge-falloff, horizontal streak flaring on holographic data elements, shallow depth of field i | Color Palette: * **Panic Crimson** (`#B3131B`): Dominates Scenes 1–2. Laptop error alerts, failing dashboard line graphs, manager’s stress flushed skin, and the warning box around the stolen empanada in Scene 4. * **Diagnostic Cyan** (`#00E5FF`): The core BertoApp signature. Volumetric HUD projections from Berto’s eyes, real-time node links, and resolved metric states. * **Corporate Slate** (`#1E222A`): Dominates environment architecture, divider screens, serve | Wardrobe & Styling Direction: * **Berto:** \"Savile Row Vigilante.\" Wears an impeccably tailored charcoal merino wool turtleneck, slim-tapered slate Italian trousers, and matte black leather Chelsea boots. Over this modern executive uniform hangs an architectural, heavy-drape midnight-navy cape with a structured military-style stand collar and matte black metal hardware. The cape behaves with weight and cinematic dignity (never costume satin or flimsy nylon). Grooming is razor | Environment & Lighting Direction: * **Key Architectural Materials:** Scratched industrial laminate, sound-dampening ribbed grey felt, brushed cold-rolled steel, smoked tempered glass, and seamless architectural plaster. * **Set-Dressing Motifs:** * *War Room (Scenes 1–3):* Towering, leaning stacks of 8.5x11 printed spreadsheets, cold dregs in branded corporate mugs, chaotic nests of Ethernet/HDMI cables, crushed energy drink cans, and multi-monitor rigs flashing conflicting warni | Consistency Rules: * **The Cape Is Never a Joke:** Berto’s cape must always be rendered and lit with absolute cinematic respect—heavy textile weight, elegant drape, and atmospheric wind-machine physics. It must never look like a cheap Halloween prop or party gag. * **Diegetic Volumetric HUD:** The BertoApp UI projected from Berto's temple/eyes is a true physical light emitter; it casts visible Diagnostic Cyan (`#00E5FF`) reflections onto actors' faces, eyeglasses, . Shot on a Sony A7R V with an 85mm f/1.4 lens, soft natural studio lighting, shallow depth of field, razor-sharp facial details, visible skin texture and pores, ultra high resolution, photorealistic, cinematic color grade, professional headshot.",
+        "model": "gemini-3-pro-image-preview",
+        "referenceId": "1792607186622",
+        "metadata": {
+          "description": "Berto is a charismatic, ultra-confident man in his early-to-mid 30s with an athletic build, neatly styled dark hair, and light-toned skin. He wears a sleek, tailored superhero cape draped over sharp, modern business-casual clothing, exuding theatrical authority. He maintains an intensely serious, deadpan expression with a commanding yet comedic presence.",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "23796182-c65c-4cea-884a-39c98f9d58fb",
+        "timestamp": 1792607186623
+      },
+      {
+        "type": "script-analysis",
+        "name": "BertoApp",
+        "prompt": "[SYSTEM PROMPT]\nYou are a film production assistant. Analyze this screenplay and extract two things:\n\n1. All unique named characters who appear in the story (not minor extras)\n2. Every individual scene exactly as labeled in the script\n\nFor scenes: treat each explicitly labeled scene (e.g. \"SCENE 1\", \"SCENE 2\", \"INT. KITCHEN - DAY\", \"EXT. PARK - NIGHT\", or any other scene heading) as a SEPARATE entry. Do NOT merge or deduplicate scenes that share the same location — if the script has SCENE 1 and SCENE 5 both set in a kitchen, return both as separate entries. Preserve the scene number or label in the name.\n\nReturn ONLY a valid JSON object with no extra text or markdown:\n{\n  \"characters\": [\n    {\n      \"name\": \"Character Name\",\n      \"description\": \"Physical appearance — age, build, hair, skin, clothing style, distinguishing features — 2-3 sentences\"\n    }\n  ],\n  \"scenes\": [\n    {\n      \"name\": \"Scene 1 — Location Name  (use the exact scene label from the script + the location)\",\n      \"description\": \"The EMPTY location as a film set — architecture, materials, furniture, props, colors, lighting, what makes this instance of the location distinct — 2-3 sentences. Describe the place only, as if the crew photographed it before the actors arrived.\",\n      \"staging\": \"Who is present and what is visually happening in this scene — 1-2 sentences naming the characters/extras, where they are placed, and the key action\",\n      \"timeOfDay\": \"Day\",\n      \"mood\": \"Emotional atmosphere of this scene in a few words\",\n      \"scriptExcerpt\": \"The COMPLETE verbatim text of this scene exactly as written in the script — every action line, dialogue, and stage direction, word for word\"\n    }\n  ]\n}\n\nRules:\n- timeOfDay must be exactly one of: \"Day\", \"Night\", \"Dawn\", \"Dusk\", \"Unknown\"\n- Scenes: one entry per scene heading — never collapse two numbered/labeled scenes into one. Scene numbering MUST be strictly continuous and sequential across the entire screenplay from 1 to N (e.g. \"Scene 1\", \"Scene 2\", \"Scene 3\", \"Scene 4\", \"Scene 5\", \"Scene 6\"...). Even if the script is divided into Acts, Sequences, or resets numbering, DO NOT reset to 1. Maintain continuous ascending numbers.\n- Characters: include only those with actual names or clear identities; skip unnamed extras\n- Character names must be copied EXACTLY as the script writes them (only normalize ALL-CAPS to Title Case). Never add, drop, or reorder titles, surnames, or epithets — analyses of the same script must always yield identical names.\n- If physical appearance of a character isn't described, infer reasonable defaults from context\n- Scene \"description\" must contain NO people, characters, crowds, or actions — those belong ONLY in \"staging\". The description is used to build the empty environment; the staging is used later to place actors into it.\n- If the story is set in a specific historical period, state that period explicitly in every scene description, describe the architecture and props as they existed in that era, and end the description with the anachronisms to exclude (e.g. \"Strictly 1910 — no modern vehicles, buildings, signage, or street furniture.\")\n- If a scene is set at a real landmark, do not rely on its name alone: concretely describe its actual architecture (form, height, materials, notable sculptures) as it looked in the story's era, plus its period-accurate surroundings.\n\n[SCRIPT SNIPPET]\n\n# PRODUCTION SCRIPT: *“BERTO: THE ANALYTIC AVENGER”*\n\n- **Format:** Audio-Visual Video Production Script (60–90 seconds)\n- **Genre:** Superhero Comedy / Tech Demo (PG-13)\n- **Characters:**\n  - **BERTO:** Charismatic, ultra-confident semi-superhero wearing a sleek cape over modern clothes. Serious expression, comedic deadpan delivery.\n  - **FRANTIC MANAGER / TEAM MEMBER (Silent/Comedic Extra):** Sweating, surrounded by chaotic stacks of paperwork, messy spreadsheets, and red alert charts. He’s a…",
+        "model": "gemini-3.8-flash",
+        "metadata": {
+          "characters": 2,
+          "scenes": 5,
+          "scriptLength": 6108,
+          "elapsedSeconds": 261,
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "8068d7ff-c45b-4091-8c5f-255f34b9ace7",
+        "timestamp": 1792607094158
+      }
+    ],
     "prodapp_prompts": {
       "scriptAnalysis": ""
+    },
+    "prodapp_pipeline": {
+      "research:81e3379f-5e1c-45d6-b733-9d86d1d35e21": {
+        "status": "approved",
+        "version": 1,
+        "stage": "01-research",
+        "updatedAt": 1792607136941
+      },
+      "character:1792607215570": {
+        "status": "locked",
+        "version": 1,
+        "stage": "02-characters",
+        "updatedAt": 1792607369201
+      },
+      "character:1792607186622": {
+        "status": "locked",
+        "version": 1,
+        "stage": "02-characters",
+        "updatedAt": 1792607401301
+      }
+    },
+    "prodapp_research": [
+      {
+        "id": "81e3379f-5e1c-45d6-b733-9d86d1d35e21",
+        "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
+        "scriptTitle": "BertoApp",
+        "content": "# Production Bible — BertoApp\n\n## Logline & Tone\nWhen an overworked corporate team drowns in catastrophic operational data, an ultra-confident, deadpan superhero named Berto swoops into the cubicle trenches to deliver diagnostic clarity via holographic app analytics. The visual register collides the sweeping, desaturated chiaroscuro of modern comic-book blockbusters with the high-tempo situational absurdity of corporate satire—treating spreadsheet bottlenecks and stolen breakroom lunches with the mythological gravitas of an alien invasion.\n\n## Era, Setting & World\n* **Time Period:** Present day / near-future contemporary (2024–2026), grounded in late-stage tech-corporate operations.\n* **Geography:** A generic Tier-1 tech metropolis (San Francisco / Austin / Frankfurt corridor), completely interior-bound inside an anonymous corporate monolith.\n* **Socioeconomic Texture:** Hyper-capitalist middle management on the brink of operational collapse, juxtaposed against elite, venture-funded technological poise.\n* **Architectural Vernacular:** A stark progression from a claustrophobic, 1990s-refurbished corporate bunker (cracked drop ceilings, worn industrial carpeting, suffocating laminate partitions) to a pristine Scandinavian-minimalist tech stage (seamless micro-cement, glass curtain walls, concealed linear architectural lighting).\n* **Level of Realism:** Heightened cinematic realism. The office environment is tangible, tactile, and grimy with panic, while Berto introduces stylized comic-book physics (unexplained interior wind, localized rim lighting, spatial holographic HUDs).\n\n## Visual Style & Cinematography\n* **Cinematography References:** Larry Fong (*Watchmen*, *Batman v Superman*) for hyper-stylized contrast and mythological hero framing; Barry Sonnenfeld (*Men in Black*) and Edgar Wright (*Hot Fuzz*) for dynamic comic timing, whip pans, and deadpan wide shots.\n* **Lens Feel:** 2.39:1 widescreen anamorphic (Cooke Anamorphic/i Full Frame Plus). Cinematic edge-falloff, horizontal streak flaring on holographic data elements, shallow depth of field isolating Berto from messy office clutter, and punchy center-weighted sharpness.\n* **Framing Philosophy:** \n  * *The Crisis (Scenes 1–3):* Oppressive, Dutch-tilted medium close-ups and low-angle handheld jitter capturing the manager's disorientation; countered by rock-solid, centered, low-angle hero pedestals for Berto.\n  * *The Resolution & Studio (Scenes 4–5):* Symmetrical, motorized tracking shots, deadpan locked-off wide masters, and fourth-wall-breaking medium close-ups with perfect optical alignment.\n* **Lighting Approach:** Motivated high-contrast chiaroscuro in the War Room (deep oceanic shadows, harsh blue monitor bounce, hot red alert accents) giving way to pristine, wrap-around high-key commercial lighting (soft overhead daylight bounces, 5600K diffusion) in the App Overview studio.\n* **Film Stock / Texture:** Arri Alexa Mini LF digital capture treated with fine 35mm film grain (Kodak 5219 emulation) to avoid a cheap corporate-video veneer; deep, uncrushed shadow detail with rich highlight roll-off.\n\n## Color Palette\n* **Panic Crimson** (`#B3131B`): Dominates Scenes 1–2. Laptop error alerts, failing dashboard line graphs, manager’s stress flushed skin, and the warning box around the stolen empanada in Scene 4.\n* **Diagnostic Cyan** (`#00E5FF`): The core BertoApp signature. Volumetric HUD projections from Berto’s eyes, real-time node links, and resolved metric states.\n* **Corporate Slate** (`#1E222A`): Dominates environment architecture, divider screens, server racks, and Berto’s tailored everyday base wardrobe.\n* **Heroic Midnight Navy** (`#0B132B`): Berto’s cape exterior and structural shadows throughout the corporate war room.\n* **Fluorescent Despair Ochre** (`#B59963`): Sickly office task lamp spill, aged manila folders, and yellowed paper stacks swarming the panicked manager’s desk.\n* **Studio Pure White** (`#F8F9FA`): Dominates Scene 4. Micro-cement floor reflections, clean UI backdrop card surfaces, and diffused fill lighting.\n\n## Wardrobe & Styling Direction\n* **Berto:** \"Savile Row Vigilante.\" Wears an impeccably tailored charcoal merino wool turtleneck, slim-tapered slate Italian trousers, and matte black leather Chelsea boots. Over this modern executive uniform hangs an architectural, heavy-drape midnight-navy cape with a structured military-style stand collar and matte black metal hardware. The cape behaves with weight and cinematic dignity (never costume satin or flimsy nylon). Grooming is razor-sharp: sculpted hair, clean lines, utterly impervious to sweat, static, or dust.\n* **Frantic Manager:** \"Cubicle Combat Fatigue.\" Ill-fitting pale blue poly-cotton dress shirt, heavily wrinkled, with visible circular sweat stains under the arms and a crumpled collar. Faded navy microfiber tie loosened and skewed 30 degrees. Unkempt thinning hair, oily forehead sheen, dark under-eye circles, and thick-rimmed tortoiseshell glasses perpetually smudged with fingerprints.\n* **Styling Evolution:** The manager looks as if he has lived in the office for 72 straight hours; Berto looks as if he just stepped out of a high-fashion wind tunnel.\n\n## Environment & Lighting Direction\n* **Key Architectural Materials:** Scratched industrial laminate, sound-dampening ribbed grey felt, brushed cold-rolled steel, smoked tempered glass, and seamless architectural plaster.\n* **Set-Dressing Motifs:** \n  * *War Room (Scenes 1–3):* Towering, leaning stacks of 8.5x11 printed spreadsheets, cold dregs in branded corporate mugs, chaotic nests of Ethernet/HDMI cables, crushed energy drink cans, and multi-monitor rigs flashing conflicting warning prompts.\n  * *Modern Studio & Breakroom (Scene 4):* Ultra-clean minimalist white-box studio with floating spatial graphics; in the deep background, a stark stainless steel breakroom refrigerator holding a single plastic container labeled \"BERTO\" under a red targeting reticle.\n* **Practical Light Sources:** Cluttered desk lamps casting pools of dirty tungsten, glowing PC monitors providing sharp under-chin fill, overhead fluorescent troffers flickering intermittently, and the brilliant cyan glow of Berto's ocular projection.\n* **Atmosphere Rules:** War Room must feel stale, trapped, and oxygen-depleted (blinds closed, localized pools of light cutting through ambient darkness). The studio transition must feel instantly expansive, ventilated, and optically pristine.\n\n## Sound & Music Direction\nThe auditory world pivots on a hard contrast between cinematic symphonic bombast and dry, unvarnished corporate realism. The score utilizes Hans Zimmer-style roaring low brass, cellos, and building hybrid percussion during Berto’s arrival, which violently cuts out into deadpan room-tone silence punctuated only by the buzz of fluorescent ballasts, frantic mouse clicks, and the low hum of the breakroom fridge. UI activations trigger crisp, harmonic glass tones and deep sub-bass diagnostic sweeps.\n\n## Consistency Rules\n* **The Cape Is Never a Joke:** Berto’s cape must always be rendered and lit with absolute cinematic respect—heavy textile weight, elegant drape, and atmospheric wind-machine physics. It must never look like a cheap Halloween prop or party gag.\n* **Diegetic Volumetric HUD:** The BertoApp UI projected from Berto's temple/eyes is a true physical light emitter; it casts visible Diagnostic Cyan (`#00E5FF`) reflections onto actors' faces, eyeglasses, and nearby reflective desk surfaces. It is never a flat 2D graphic overlay slapped on in post.\n* **Color-Coded Narrative Logic:** Red (`#B3131B`) is exclusively reserved for system errors, human panic, operational waste, and the stolen lunch. Cyan (`#00E5FF`) is strictly reserved for BertoApp intervention, algorithmic resolution, and clarity. Neither color may be used interchangeably.\n* **Deadpan Character Integrity:** Berto never winks, giggles, breaks fourth-wall composure, or acts goofy. His humor derives purely from an unflinching, stoic, mythological commitment to mundane corporate workflows.\n* **No Slapstick VFX:** Diagnostic powers manifest through sophisticated UI data architecture, scanning waves, and clean typography. No cartoonish lightning bolts, laser beams, or physical transformations are permitted.\n* **The Fridge Continuity:** In Scene 4, the breakroom refrigerator in the background must remain naturalistic and understated until the red alert box snaps onto the container. It must feel like an organic part of the studio background, not an isolated comedy prop dropped into the frame.",
+        "createdAt": 1792607094170,
+        "updatedAt": 1792607094170
+      }
+    ],
+    "prodapp_locked_character_voices": {
+      "1792607215570": {
+        "voiceId": "en-US-Chirp3-HD-Orus",
+        "voiceLabel": "Orus (Chirp 3 HD)",
+        "engine": "Google Cloud Chirp 3 HD",
+        "isClone": false
+      },
+      "frantic manager / team member": {
+        "voiceId": "en-US-Chirp3-HD-Orus",
+        "voiceLabel": "Orus (Chirp 3 HD)",
+        "engine": "Google Cloud Chirp 3 HD",
+        "isClone": false
+      },
+      "1792607186622": {
+        "voiceId": "custom-sample",
+        "voiceLabel": "RC-MyVoice (Cloned Voice · 129 Hz)",
+        "engine": "Biometric & Reference-Audio TTS Voice Clone",
+        "isClone": true
+      },
+      "berto": {
+        "voiceId": "custom-sample",
+        "voiceLabel": "RC-MyVoice (Cloned Voice · 129 Hz)",
+        "engine": "Biometric & Reference-Audio TTS Voice Clone",
+        "isClone": true
+      }
     },
     "prodapp_language_settings": {
       "promptLanguage": "en-US",
