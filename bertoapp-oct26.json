@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-21T18:30:36.329Z",
+  "exportedAt": "2026-10-21T19:01:22.266Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -74,7 +74,16 @@
         "voiceId": "en-US-Chirp3-HD-Orus",
         "voiceType": "google-tts",
         "turnaroundUrl": "idb-img:char:1792607215570:turnaroundUrl:826954f59980eaf8c34b3e62",
-        "turnaroundPrompt": "Hyperrealistic multi-angle studio photograph sequence of a person named \"Frantic Manager / Team Member\". Using the real person in the reference portrait image, photograph the EXACT SAME person from four full-body angles arranged side by side in a clean horizontal row: full-body front view, full-body 3/4 left view, full-body left profile view, and full-body back view. Neutral standing pose with arms relaxed at sides. Maintain identical realistic face, skin texture, hairstyle, body build, and clothing across all four views. A Caucasian man in his early-to-mid 50s with an oval, flushed face, soft jawline, and average stocky build with a broad neck. He features unkempt, thinning dark brown hair with advanced temple recession and a high forehead marked by deep horizontal furrows. His fair complexion has pronounced ruddy undertones, prominent nasolabial folds, and heavy perspiration. He has wide-set, rounded hazel-brown eyes with significant under-eye puffiness, framed by thin, sparse dark brows. His nose is straight with a fleshy, bulbous tip, set above thin lips parted in distress, and his jawline and rounded chin are clean-shaven with faint dark shadow.. Wardrobe continuity: keep the character in the exact clothing they wear in the reference image — same garments, colors, materials, and footwear. Do not restyle or re-dress them. Shot on a Sony A7R V with 35mm lens, sharp focus, natural neutral studio lighting, plain light-gray studio backdrop, ultra-detailed photorealism, professional commercial photoshoot. NOT an illustration, NOT a drawing, NOT comic book art, NOT anime, NOT a cartoon, NOT cell-shaded, NOT 2D artwork."
+        "turnaroundPrompt": "Hyperrealistic multi-angle studio photograph sequence of a person named \"Frantic Manager / Team Member\". Using the real person in the reference portrait image, photograph the EXACT SAME person from four full-body angles arranged side by side in a clean horizontal row: full-body front view, full-body 3/4 left view, full-body left profile view, and full-body back view. Neutral standing pose with arms relaxed at sides. Maintain identical realistic face, skin texture, hairstyle, body build, and clothing across all four views. A Caucasian man in his early-to-mid 50s with an oval, flushed face, soft jawline, and average stocky build with a broad neck. He features unkempt, thinning dark brown hair with advanced temple recession and a high forehead marked by deep horizontal furrows. His fair complexion has pronounced ruddy undertones, prominent nasolabial folds, and heavy perspiration. He has wide-set, rounded hazel-brown eyes with significant under-eye puffiness, framed by thin, sparse dark brows. His nose is straight with a fleshy, bulbous tip, set above thin lips parted in distress, and his jawline and rounded chin are clean-shaven with faint dark shadow.. Wardrobe continuity: keep the character in the exact clothing they wear in the reference image — same garments, colors, materials, and footwear. Do not restyle or re-dress them. Shot on a Sony A7R V with 35mm lens, sharp focus, natural neutral studio lighting, plain light-gray studio backdrop, ultra-detailed photorealism, professional commercial photoshoot. NOT an illustration, NOT a drawing, NOT comic book art, NOT anime, NOT a cartoon, NOT cell-shaded, NOT 2D artwork.",
+        "costumes": [
+          {
+            "id": "1fb05957-bd9a-4be7-b595-2b7abe90fb5d",
+            "name": "Base wardrobe (from turnaround)",
+            "url": "idb-img:costume:1fb05957-bd9a-4be7-b595-2b7abe90fb5d:url:826954f59980eaf8c34b3e62",
+            "createdAt": 1792609176189,
+            "description": "The outfit consists of an untucked, rumpled cornflower-blue cotton long-sleeve button-down shirt featuring a standard spread collar worn open at the neck, small translucent white buttons along the front placket, single-button cuffs, a left chest patch pocket, a curved hem, and heavy, dark sweat saturation across the upper back and center spine. The shirt is paired with straight-leg, dark navy-blue matte cotton trousers falling to the ankles with mild break folds. On the feet are weathered, lace-up medium-brown leather dress shoes with creased vamps, dark brown laces, rounded toes, and low dark heels. No belts, insignia, jewelry, or accessories are present."
+          }
+        ]
       },
       {
         "id": "1792607186622",
@@ -112,7 +121,16 @@
         ],
         "customVoiceAuditionUrl": "idb-img:char:1792607186622:customVoiceAuditionUrl:62130411f46bb953fd813002",
         "turnaroundUrl": "idb-img:char:1792607186622:turnaroundUrl:a72fbb875f38baff9d748946",
-        "turnaroundPrompt": "Hyperrealistic multi-angle studio photograph sequence of a person named \"Berto\". Using the real person in the reference portrait image, photograph the EXACT SAME person from four full-body angles arranged side by side in a clean horizontal row: full-body front view, full-body 3/4 left view, full-body left profile view, and full-body back view. Neutral standing pose with arms relaxed at sides. Maintain identical realistic face, skin texture, hairstyle, body build, and clothing across all four views. A Hispanic man in his early-to-mid 50s with a broad-shouldered, sturdy frame and a wide, rectangular-oval face structure. He has a warm medium-olive skin tone, mild cheek ruddiness, and faint forehead creasing. His dark brown hair is cropped short and neatly combed, featuring a high, receding hairline at the temples. Dark, thick, gently arched eyebrows sit over dark brown, hooded almond-shaped eyes with subtle under-eye fullness. He has a straight nose with a wide, fleshy rounded tip, and medium-thick lips set in a neutral resting expression. His facial hair is a neatly trimmed, full salt-and-pepper beard and mustache, featuring darker stubble along the cheeks and a dense concentration of bright silver-white hair across the front chin and lower jawline.. Wardrobe continuity: keep the character in the exact clothing they wear in the reference image — same garments, colors, materials, and footwear. Do not restyle or re-dress them. Shot on a Sony A7R V with 35mm lens, sharp focus, natural neutral studio lighting, plain light-gray studio backdrop, ultra-detailed photorealism, professional commercial photoshoot. NOT an illustration, NOT a drawing, NOT comic book art, NOT anime, NOT a cartoon, NOT cell-shaded, NOT 2D artwork."
+        "turnaroundPrompt": "Hyperrealistic multi-angle studio photograph sequence of a person named \"Berto\". Using the real person in the reference portrait image, photograph the EXACT SAME person from four full-body angles arranged side by side in a clean horizontal row: full-body front view, full-body 3/4 left view, full-body left profile view, and full-body back view. Neutral standing pose with arms relaxed at sides. Maintain identical realistic face, skin texture, hairstyle, body build, and clothing across all four views. A Hispanic man in his early-to-mid 50s with a broad-shouldered, sturdy frame and a wide, rectangular-oval face structure. He has a warm medium-olive skin tone, mild cheek ruddiness, and faint forehead creasing. His dark brown hair is cropped short and neatly combed, featuring a high, receding hairline at the temples. Dark, thick, gently arched eyebrows sit over dark brown, hooded almond-shaped eyes with subtle under-eye fullness. He has a straight nose with a wide, fleshy rounded tip, and medium-thick lips set in a neutral resting expression. His facial hair is a neatly trimmed, full salt-and-pepper beard and mustache, featuring darker stubble along the cheeks and a dense concentration of bright silver-white hair across the front chin and lower jawline.. Wardrobe continuity: keep the character in the exact clothing they wear in the reference image — same garments, colors, materials, and footwear. Do not restyle or re-dress them. Shot on a Sony A7R V with 35mm lens, sharp focus, natural neutral studio lighting, plain light-gray studio backdrop, ultra-detailed photorealism, professional commercial photoshoot. NOT an illustration, NOT a drawing, NOT comic book art, NOT anime, NOT a cartoon, NOT cell-shaded, NOT 2D artwork.",
+        "costumes": [
+          {
+            "id": "6521318f-ee05-42ef-8998-3667ca79bbef",
+            "name": "Base wardrobe (from turnaround)",
+            "url": "idb-img:costume:6521318f-ee05-42ef-8998-3667ca79bbef:url:a72fbb875f38baff9d748946",
+            "createdAt": 1792609177618,
+            "description": "A tailored single-breasted navy blue suit blazer featuring notch lapels, a two-button front closure (worn unbuttoned), a left chest welt pocket, two lower flap pockets, four cuff buttons, and dual back vents. Layered underneath is a light pink and white micro-check button-down dress shirt, worn open at the collar with no tie. Bottoms are straight-fit medium-dark wash blue denim jeans with mild thigh fading, five-pocket styling, and classic contrast stitching. A medium-brown leather belt with a rectangular silver-toned buckle secures the waist. Footwear consists of polished cognac-brown leather cap-toe derby shoes with tonal laces and low stacked heels. A simple silver-toned band is worn on the left ring finger."
+          }
+        ]
       }
     ],
     "prodapp_custom_voices": [
@@ -226,7 +244,129 @@
         ]
       }
     ],
+    "prodapp_scenes": [
+      {
+        "id": "1792609275086",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
+        "description": "A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior.",
+        "timeOfDay": "Day",
+        "mood": "High-tech, confident, analytical",
+        "imageUrl": "idb-img:scene:1792609275086:imageUrl:f0f20f9f83cb43f3ff6f5453",
+        "createdAt": 1792609275086,
+        "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
+        "projection": "panorama",
+        "prompt": "Equirectangular 360-degree panoramic HDRI photograph of Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY, formatted as a seamless horizontal wraparound environment. Unwrapped spherical projection, VR180, extreme ultra-wide angle, severe lens distortion. Empty location — no people, no characters, no humans, no figures, no silhouettes. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Time of day: Day. Atmosphere: High-tech, confident, analytical. The scene should read left-to-right as a continuous wrap — zero seams on left and right edges, they must match perfectly. Strictly period-accurate to the era stated in the description: no vehicles, buildings, signage, or technology from any other era than the one described. Cinematic lighting, hyper-detailed, photorealistic, 8k resolution. Environment only, completely empty of any living beings."
+      },
+      {
+        "id": "1792609219162",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
+        "description": "A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background.",
+        "timeOfDay": "Day",
+        "mood": "Panicked, dramatic, comedic",
+        "imageUrl": "idb-img:scene:1792609219162:imageUrl:a78a5a4038238da2199267bb",
+        "createdAt": 1792609219162,
+        "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
+        "projection": "panorama",
+        "prompt": "Equirectangular 360-degree panoramic HDRI photograph of Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY, formatted as a seamless horizontal wraparound environment. Unwrapped spherical projection, VR180, extreme ultra-wide angle, severe lens distortion. Empty location — no people, no characters, no humans, no figures, no silhouettes. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Time of day: Day. Atmosphere: Panicked, dramatic, comedic. The scene should read left-to-right as a continuous wrap — zero seams on left and right edges, they must match perfectly. Strictly period-accurate to the era stated in the description: no vehicles, buildings, signage, or technology from any other era than the one described. Cinematic lighting, hyper-detailed, photorealistic, 8k resolution. Environment only, completely empty of any living beings."
+      }
+    ],
     "prodapp_artifacts": [
+      {
+        "type": "scene",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
+        "prompt": "Equirectangular 360-degree panoramic HDRI photograph of Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY, formatted as a seamless horizontal wraparound environment. Unwrapped spherical projection, VR180, extreme ultra-wide angle, severe lens distortion. Empty location — no people, no characters, no humans, no figures, no silhouettes. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Time of day: Day. Atmosphere: High-tech, confident, analytical. The scene should read left-to-right as a continuous wrap — zero seams on left and right edges, they must match perfectly. Strictly period-accurate to the era stated in the description: no vehicles, buildings, signage, or technology from any other era than the one described. Cinematic lighting, hyper-detailed, photorealistic, 8k resolution. Environment only, completely empty of any living beings.",
+        "model": "gemini-3-pro-image",
+        "referenceId": "1792609275086",
+        "metadata": {
+          "timeOfDay": "Day",
+          "mood": "High-tech, confident, analytical",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "f38de1c3-ebeb-48f6-8bfe-057f8a57d87e",
+        "timestamp": 1792609275086
+      },
+      {
+        "type": "scene",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
+        "prompt": "Equirectangular 360-degree panoramic HDRI photograph of Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY, formatted as a seamless horizontal wraparound environment. Unwrapped spherical projection, VR180, extreme ultra-wide angle, severe lens distortion. Empty location — no people, no characters, no humans, no figures, no silhouettes. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Time of day: Day. Atmosphere: Panicked, dramatic, comedic. The scene should read left-to-right as a continuous wrap — zero seams on left and right edges, they must match perfectly. Strictly period-accurate to the era stated in the description: no vehicles, buildings, signage, or technology from any other era than the one described. Cinematic lighting, hyper-detailed, photorealistic, 8k resolution. Environment only, completely empty of any living beings.",
+        "model": "gemini-3-pro-image",
+        "referenceId": "1792609219162",
+        "metadata": {
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "1da6f262-a734-405b-aac7-d01bfec7e93e",
+        "timestamp": 1792609244645
+      },
+      {
+        "type": "scene",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
+        "prompt": "Equirectangular 360-degree panoramic HDRI photograph of Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY, formatted as a seamless horizontal wraparound environment. Unwrapped spherical projection, VR180, extreme ultra-wide angle, severe lens distortion. Empty location — no people, no characters, no humans, no figures, no silhouettes. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Time of day: Day. Atmosphere: Panicked, dramatic, comedic. The scene should read left-to-right as a continuous wrap — zero seams on left and right edges, they must match perfectly. Strictly period-accurate to the era stated in the description: no vehicles, buildings, signage, or technology from any other era than the one described. Cinematic lighting, hyper-detailed, photorealistic, 8k resolution. Environment only, completely empty of any living beings.",
+        "model": "gemini-3-pro-image",
+        "referenceId": "1792609219162",
+        "metadata": {
+          "timeOfDay": "Day",
+          "mood": "Panicked, dramatic, comedic",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "e28483b1-899a-4e9a-915b-42df25299765",
+        "timestamp": 1792609219162
+      },
+      {
+        "type": "character",
+        "name": "Berto — Costume: base wardrobe (adopted turnaround)",
+        "prompt": "Adopted the stage 2 turnaround as the stage 3 base-wardrobe costume.",
+        "model": "manual",
+        "referenceId": "1792607186622",
+        "metadata": {
+          "kind": "costume",
+          "costumeId": "6521318f-ee05-42ef-8998-3667ca79bbef",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "b0dd9a2f-e6c0-460f-b407-022be46d5a05",
+        "timestamp": 1792609177618
+      },
+      {
+        "type": "character",
+        "name": "Frantic Manager / Team Member — Costume: base wardrobe (adopted turnaround)",
+        "prompt": "Adopted the stage 2 turnaround as the stage 3 base-wardrobe costume.",
+        "model": "manual",
+        "referenceId": "1792607215570",
+        "metadata": {
+          "kind": "costume",
+          "costumeId": "1fb05957-bd9a-4be7-b595-2b7abe90fb5d",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "194c6123-9b76-4b1a-bd78-a51075b5ec16",
+        "timestamp": 1792609176189
+      },
+      {
+        "type": "character",
+        "name": "Berto — Costume: base wardrobe (adopted turnaround)",
+        "prompt": "Adopted the stage 2 turnaround as the stage 3 base-wardrobe costume.",
+        "model": "manual",
+        "referenceId": "1792607186622",
+        "metadata": {
+          "kind": "costume",
+          "costumeId": "6521318f-ee05-42ef-8998-3667ca79bbef",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "16cf4072-2ca1-44bd-92f4-d122366e643a",
+        "timestamp": 1792609162166
+      },
+      {
+        "type": "character",
+        "name": "Frantic Manager / Team Member — Costume: base wardrobe (adopted turnaround)",
+        "prompt": "Adopted the stage 2 turnaround as the stage 3 base-wardrobe costume.",
+        "model": "manual",
+        "referenceId": "1792607215570",
+        "metadata": {
+          "kind": "costume",
+          "costumeId": "1fb05957-bd9a-4be7-b595-2b7abe90fb5d",
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "b6a02681-8f82-43bb-acb6-4f3d50ddb0bd",
+        "timestamp": 1792609152488
+      },
       {
         "type": "character",
         "name": "Berto — Turnaround",
@@ -329,6 +469,36 @@
         "version": 1,
         "stage": "02-characters",
         "updatedAt": 1792607401301
+      },
+      "turnaround:1792607215570": {
+        "status": "locked",
+        "version": 1,
+        "stage": "02-characters",
+        "updatedAt": 1792609152488
+      },
+      "turnaround:1792607186622": {
+        "status": "locked",
+        "version": 1,
+        "stage": "02-characters",
+        "updatedAt": 1792609162165
+      },
+      "costume:1fb05957-bd9a-4be7-b595-2b7abe90fb5d": {
+        "status": "approved",
+        "version": 1,
+        "stage": "03-costume",
+        "updatedAt": 1792609176189
+      },
+      "costume:6521318f-ee05-42ef-8998-3667ca79bbef": {
+        "status": "approved",
+        "version": 1,
+        "stage": "03-costume",
+        "updatedAt": 1792609177618
+      },
+      "scene:1792609219162": {
+        "status": "approved",
+        "version": 1,
+        "stage": "04-environments",
+        "updatedAt": 1792609250611
       }
     },
     "prodapp_research": [
