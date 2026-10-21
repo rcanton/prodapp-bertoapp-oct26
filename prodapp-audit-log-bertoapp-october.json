@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "exportedAt": "2026-10-21T15:38:45.579Z",
+  "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+  "projectName": "BertoApp-October",
+  "count": 1,
+  "events": [
+    {
+      "action": "CustomVoice: created 1",
+      "type": "edit",
+      "ts": "2026-10-21T14:41:28.160Z",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "projectName": "BertoApp-October",
+      "detail": "{\"key\":\"prodapp_custom_voices\",\"created\":[\"cv-1792593687983\"],\"updated\":[],\"deleted\":[]}",
+      "email": "admin@robertocanton.altostrat.com"
+    }
+  ]
+}
