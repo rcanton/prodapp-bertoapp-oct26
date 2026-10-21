@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "exportedAt": "2026-10-21T15:38:39.875Z",
+  "data": {
+    "prodapp_prompts": {
+      "scriptAnalysis": ""
+    },
+    "prodapp_language_settings": {
+      "promptLanguage": "en-US",
+      "dialogLanguage": "en-US"
+    },
+    "prodapp_sync_prefs": {
+      "mode": "remind",
+      "autoIntervalSec": 300
+    },
+    "prodapp_custom_image_models": [
+      {
+        "id": "gemini-3-pro-image-preview",
+        "label": "Nano Banana Pro",
+        "summary": "New Preview image model",
+        "description": "Gemini 3 Pro Image Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-3.1-flash-image-preview",
+        "label": "Nano Banana 2",
+        "summary": "New Preview image model",
+        "description": "Gemini 3.1 Flash Image Preview.",
+        "stage": "preview"
+      }
+    ],
+    "prodapp_custom_video_models": [
+      {
+        "id": "veo-3.1-fast-generate-preview",
+        "label": "Veo 3.1 fast (preview)",
+        "audio": true,
+        "refImages": true,
+        "resolutions": [
+          "720p",
+          "1080p",
+          "4k"
+        ],
+        "defaultResolution": "720p",
+        "stage": "preview"
+      },
+      {
+        "id": "veo-3.1-generate-preview",
+        "label": "Veo 3.1 (preview)",
+        "audio": true,
+        "refImages": true,
+        "resolutions": [
+          "720p",
+          "1080p",
+          "4k"
+        ],
+        "defaultResolution": "720p",
+        "stage": "preview"
+      },
+      {
+        "id": "veo-3.1-lite-generate-preview",
+        "label": "Veo 3.1 lite (preview)",
+        "audio": true,
+        "refImages": true,
+        "resolutions": [
+          "720p",
+          "1080p",
+          "4k"
+        ],
+        "defaultResolution": "720p",
+        "stage": "preview"
+      }
+    ],
+    "prodapp_custom_text_models": [
+      {
+        "id": "gemini-2.5-flash-lite",
+        "label": "Gemini 2.5 Flash-Lite",
+        "summary": "New GA text & multimodal model",
+        "description": "Stable version of Gemini 2.5 Flash-Lite, released in July of 2025",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-2.5-pro",
+        "label": "Gemini 2.5 Pro",
+        "summary": "New GA text & multimodal model",
+        "description": "Stable release (June 17th, 2025) of Gemini 2.5 Pro",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-3.5-transcribe",
+        "label": "Gemini 3.5 Transcribe",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemini 3.5 Transcribe",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-3.5-transcribe-live",
+        "label": "Gemini 3.5 Transcribe Live",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemini 3.5 Transcribe Live",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-3.6-flash",
+        "label": "Gemini 3.6 Flash",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemini 3.6 Flash",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-flash-latest",
+        "label": "Gemini Flash Latest",
+        "summary": "New GA text & multimodal model",
+        "description": "Latest release of Gemini Flash",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-flash-lite-latest",
+        "label": "Gemini Flash-Lite Latest",
+        "summary": "New GA text & multimodal model",
+        "description": "Latest release of Gemini Flash-Lite",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-omni-1.1-flash",
+        "label": "Gemini Omni 1.1 Flash",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemini Omni 1.1 Flash ",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-pro-latest",
+        "label": "Gemini Pro Latest",
+        "summary": "New GA text & multimodal model",
+        "description": "Latest release of Gemini Pro",
+        "stage": "ga"
+      },
+      {
+        "id": "gemma-4-26b-a4b-it",
+        "label": "Gemma 4 26B A4B IT",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemma 4 26B A4B IT",
+        "stage": "ga"
+      },
+      {
+        "id": "gemma-4-31b-it",
+        "label": "Gemma 4 31B IT",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemma 4 31B IT",
+        "stage": "ga"
+      },
+      {
+        "id": "deep-research-pro-preview-12-2025",
+        "label": "Deep Research Pro Preview (Dec-12-2025)",
+        "summary": "New Preview text & multimodal model",
+        "description": "Preview release (December 12th, 2025) of Deep Research Pro",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-2.5-computer-use-preview-10-2025",
+        "label": "Gemini 2.5 Computer Use Preview 10-2025",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini 2.5 Computer Use Preview 10-2025",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-3-flash-preview",
+        "label": "Gemini 3 Flash Preview",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini 3 Flash Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-3.1-flash-lite-preview",
+        "label": "Gemini 3.1 Flash Lite Preview",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini 3.1 Flash Lite Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-3.1-flash-live-preview",
+        "label": "Gemini 3.1 Flash Live Preview",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini 3.1 Flash Live Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-3.1-pro-preview",
+        "label": "Gemini 3.1 Pro Preview",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini 3.1 Pro Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-3.1-pro-preview-customtools",
+        "label": "Gemini 3.1 Pro Preview Custom Tools",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini 3.1 Pro Preview optimized for custom tool usage",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-3.5-live-translate-preview",
+        "label": "Gemini 3.5 Live Translate Preview",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini 3.5 Live Translate Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-omni-flash-preview",
+        "label": "Gemini Omni Flash Preview",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini Omni Flash Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-robotics-er-2-preview",
+        "label": "Gemini Robotics-ER 2 Preview",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini Robotics-ER 2 Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-robotics-er-2-streaming-preview",
+        "label": "Gemini Robotics-ER 2 Streaming Preview",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini Robotics-ER 2 Streaming Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "nano-banana-pro-preview",
+        "label": "Nano Banana Pro",
+        "summary": "New Preview text & multimodal model",
+        "description": "Gemini 3 Pro Image Preview",
+        "stage": "preview"
+      },
+      {
+        "id": "gemini-3.8-live",
+        "label": "Gemini 3.8 Live",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemini 3.8 Live",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-3.8-live-extended-thinking",
+        "label": "Gemini 3.8 Live Extended Thinking",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemini 3.8 Live Extended Thinking",
+        "stage": "ga"
+      },
+      {
+        "id": "gemini-nano-banana-2.1",
+        "label": "Nano Banana 2.1",
+        "summary": "New GA text & multimodal model",
+        "description": "Gemini Nano Banana 2.1.",
+        "stage": "ga"
+      }
+    ],
+    "prodapp_project_gcloud_config": {
+      "project": "rc-prodapp-test1",
+      "location": "us-central1",
+      "bucket": "prodapp-bertoapp-oct26",
+      "imageModel": "gemini-3-pro-image-preview",
+      "videoModel": "gemini-omni-1.1-flash",
+      "videoResolution": "4k",
+      "textModel": "gemini-3.8-flash",
+      "thinkingLevel": "HIGH",
+      "voiceModel": "chirp3-hd"
+    }
+  }
+}
