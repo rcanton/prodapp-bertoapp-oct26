@@ -1,10 +1,73 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T17:15:39.208Z",
+  "exportedAt": "2026-10-22T20:04:52.830Z",
   "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
   "projectName": "BertoApp-October",
-  "count": 120,
+  "count": 127,
   "events": [
+    {
+      "detail": "{\"key\":\"prodapp_frames\",\"created\":[],\"updated\":[\"799e2958-325f-470d-af7d-043c8d5251cd\"],\"deleted\":[]}",
+      "ts": "2026-10-22T17:50:45.782Z",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "action": "Frame: updated 1",
+      "email": "admin@robertocanton.altostrat.com",
+      "type": "edit",
+      "projectName": "BertoApp-October"
+    },
+    {
+      "ts": "2026-10-22T17:50:29.337Z",
+      "projectName": "BertoApp-October",
+      "action": "v2",
+      "type": "new_version",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"frame:799e2958-325f-470d-af7d-043c8d5251cd\",\"stage\":\"06-master-frames\",\"version\":2}",
+      "email": "admin@robertocanton.altostrat.com"
+    },
+    {
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October",
+      "action": "approved",
+      "ts": "2026-10-22T17:50:20.170Z",
+      "detail": "{\"key\":\"frame:48c19cb3-b813-4b46-9fa6-01af8941bb28\",\"stage\":\"07-main-frames\",\"from\":\"draft\",\"to\":\"approved\"}",
+      "type": "approval",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+    },
+    {
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "projectName": "BertoApp-October",
+      "email": "admin@robertocanton.altostrat.com",
+      "action": "locked",
+      "ts": "2026-10-22T17:47:38.344Z",
+      "detail": "{\"key\":\"frame:7536f32f-4460-42a4-9e5d-fa90e4cbe1e5\",\"stage\":\"06-master-frames\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "type": "approval"
+    },
+    {
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October",
+      "action": "Frame: updated 1",
+      "type": "edit",
+      "ts": "2026-10-22T17:47:38.335Z",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"prodapp_frames\",\"created\":[],\"updated\":[\"48c19cb3-b813-4b46-9fa6-01af8941bb28\"],\"deleted\":[]}"
+    },
+    {
+      "projectName": "BertoApp-October",
+      "detail": "{\"key\":\"frame:7536f32f-4460-42a4-9e5d-fa90e4cbe1e5\",\"stage\":\"06-master-frames\",\"from\":\"draft\",\"to\":\"approved\"}",
+      "email": "admin@robertocanton.altostrat.com",
+      "type": "approval",
+      "ts": "2026-10-22T17:47:17.398Z",
+      "action": "approved",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+    },
+    {
+      "detail": "{\"key\":\"prodapp_frames\",\"created\":[],\"updated\":[\"7536f32f-4460-42a4-9e5d-fa90e4cbe1e5\"],\"deleted\":[]}",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "type": "edit",
+      "email": "admin@robertocanton.altostrat.com",
+      "ts": "2026-10-22T17:46:25.497Z",
+      "projectName": "BertoApp-October",
+      "action": "Frame: updated 1"
+    },
     {
       "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
       "type": "edit",
