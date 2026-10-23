@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T18:15:25.846Z",
+  "exportedAt": "2026-10-23T18:58:07.571Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -310,6 +310,58 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium wide shot, slow dolly in.\nBerto strides purposefully toward the viewer across the dimly lit corporate floor, cool blue and amber server glow catching his salt-and-pepper beard as his cape billows behind him (without Frantic Manager / Team Member). He speaks with unwavering cinematic authority directly into the lens, closing the distance as the camera tightens on his heroic expression.\n\nLOCATION: — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER — Day. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Mood: Panicked, dramatic, comedic.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto (A Hispanic man in his early-to-mid 50s with a broad-shouldered, sturdy frame and a wide, rectangular-oval face structure. He has a warm medium-olive skin tone, mild cheek ruddiness, and faint forehead) keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech. Do not show or introduce Frantic Manager anywhere in this shot. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame.\n\nVISUAL LIP-SYNC: The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: \"Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth., 129 Hz fundamental pitch): \"They call upon other heroes when an alien armada attacks. But when your operations are spiraling out of control and nobody knows why? They call Berto.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/06d34732-1be1-483a-9b9b-50bf3da77b85.mp4"
+        },
+        "id": "06d34732-1be1-483a-9b9b-50bf3da77b85",
+        "timestamp": 1792779866674
+      },
+      {
+        "type": "video",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium wide shot, slow dolly in.\nBerto strides purposefully toward the viewer across the dimly lit corporate floor, cool blue and amber server glow catching his salt-and-pepper beard as his cape billows behind him (without Frantic Manager / Team Member). He speaks with unwavering cinematic authority directly into the lens, closing the distance as the camera tightens on his heroic expression.\n\nLOCATION: — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER — Day. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Mood: Panicked, dramatic, comedic.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto (A Hispanic man in his early-to-mid 50s with a broad-shouldered, sturdy frame and a wide, rectangular-oval face structure. He has a warm medium-olive skin tone, mild cheek ruddiness, and faint forehead) keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech. Do not show or introduce Frantic Manager anywhere in this shot. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame.\n\nVISUAL LIP-SYNC: The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: \"Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth., 129 Hz fundamental pitch): \"They call upon other heroes when an alien armada attacks. But when your operations are spiraling out of control and nobody knows why? They call Berto.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/938d569b-0367-4573-a565-3b23f172f9b7.mp4"
+        },
+        "id": "938d569b-0367-4573-a565-3b23f172f9b7",
+        "timestamp": 1792779558688
+      },
       {
         "type": "video",
         "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 2",
@@ -1384,7 +1436,7 @@
     "prodapp_videos_uistate": {
       "audioTimingVersion": 2,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": null,
+      "selectedSceneName": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -1427,7 +1479,7 @@
           "shotType": "",
           "cameraMove": "",
           "state": "done",
-          "elapsed": 194,
+          "elapsed": 174,
           "opName": null,
           "videoSrc": null,
           "videoMime": "video/mp4",
@@ -1437,9 +1489,9 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "artifactId": "6e458078-18bf-42ec-acfb-7108ac633af1",
+          "artifactId": "938d569b-0367-4573-a565-3b23f172f9b7",
           "rawVideoBase64": null,
-          "interactionId": "v1_Chd2SmJiYXRuOEFwcmhfdU1Qdk4tOW9BSRIXdkpiYmF0bjhBcHJoX3VNUHZOLTlvQUk"
+          "interactionId": "v1_ChZoNlRiYXM2ekhhZmYtc0FQMmRYdFdREhZoNlRiYXM2ekhhZmYtc0FQMmRYdFdR"
         }
       ]
     },
