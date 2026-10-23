@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T15:24:21.226Z",
+  "exportedAt": "2026-10-23T16:39:18.092Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -30,9 +30,9 @@
               "rationale": "Clip 1 takes exactly 8 seconds to establish the escalating office crisis (4 seconds of manic desk panic followed by a 4-second pan revealing Berto during the lighting shift), while Clip 2 dedicates exactly 8 seconds to Berto's measured 25-word dramatic monologue delivered at a cinematic pace of roughly 3 words per second as he walks forward.",
               "clips": [
                 {
-                  "scriptPortion": "",
-                  "visualDescription": "Frantic Manager / Team Member pulls his hair in sheer panic before flashing multi-monitor error diagnostics and towering stacks of spreadsheets at his cluttered workstation desk. As the overhead fluorescent fixtures suddenly dim and an unexpected gust of wind scatters paperwork across the polished concrete floor, the frame sweeps past moody server racks to reveal Berto standing heroically in the doorway with his arms crossed and cape fluttering.",
-                  "cameraDirection": "medium shot, camera pans right"
+                  "cameraDirection": "close-up, slow dolly in",
+                  "visualDescription": "In the lower foreground, Frantic Manager / Team Member clutches his thinning hair in sweat-drenched panic as red error diagnostics flicker across his workstation and overhead office lights suddenly dim. Looming directly behind him in sharp focus, Berto stands impassive and heroic with arms crossed and his cape fluttering gently in a mysterious draft, cool blue server lights catching his salt-and-pepper beard.",
+                  "scriptPortion": ""
                 },
                 {
                   "scriptPortion": "BERTO: They call upon other heroes when an alien armada attacks. But when your operations are spiraling out of control and nobody knows why? They call Berto.",
@@ -381,6 +381,102 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 1",
+        "prompt": "MANDATORY AUDIO DIRECTION — SILENT VISUAL ACTION (NO SPOKEN DIALOGUE):\nThis is a non-speaking visual action shot. No character speaks, whispers, mouths words, lip-syncs, narrates, or vocalizes. Keep mouths naturally closed except for non-speech facial expressions. Generate cinematic ambient sound, room tone, holographic sound effects, and Foley only. Absolute zero spoken dialogue.\n\nMANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: A warm, deliberate masculine tenor voice speaking Hispanic-accented English at around 129 Hz, featuring clear articulation, measured storytelling cadence, and grounded chest resonance.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium shot, camera pans right.\nFrantic Manager / Team Member pulls his hair in sheer panic before flashing multi-monitor error diagnostics and towering stacks of spreadsheets at his cluttered workstation desk. As the overhead fluorescent fixtures suddenly dim and an unexpected gust of wind scatters paperwork across the polished concrete floor, the frame sweeps past moody server racks to pan back to Berto standing heroically with his arms crossed and cape fluttering.\n\nLOCATION: — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER — Day. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Mood: Panicked, dramatic, comedic.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech. Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame.\n\nAudio: Ambient room tone, foley, and sound effects only. No spoken dialogue or vocalizations.",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 1,
+          "voiceCast": "Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus) | Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            },
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/a94ee984-cc93-45cb-bf24-3f61708a12c4.mp4"
+        },
+        "id": "a94ee984-cc93-45cb-bf24-3f61708a12c4",
+        "timestamp": 1792769832562
+      },
+      {
+        "type": "video",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 1",
+        "prompt": "MANDATORY AUDIO DIRECTION — SILENT VISUAL ACTION (NO SPOKEN DIALOGUE):\nThis is a non-speaking visual action shot. No character speaks, whispers, mouths words, lip-syncs, narrates, or vocalizes. Keep mouths naturally closed except for non-speech facial expressions. Generate cinematic ambient sound, room tone, holographic sound effects, and Foley only. Absolute zero spoken dialogue.\n\nMANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium shot, camera pans right.\nFrantic Manager / Team Member pulls his hair in sheer panic before flashing multi-monitor error diagnostics and towering stacks of spreadsheets at his cluttered workstation desk. As the overhead fluorescent fixtures suddenly dim and an unexpected gust of wind scatters paperwork across the polished concrete floor, the frame sweeps past moody server racks to reveal Berto standing heroically in the doorway with his arms crossed and cape fluttering. Make sure it's the actual character Berto that has been specified with its exact look and not any other character.\n\nLOCATION: — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER — Day. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Mood: Panicked, dramatic, comedic.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech. Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame.\n\nAudio: Ambient room tone, foley, and sound effects only. No spoken dialogue or vocalizations.",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 1,
+          "voiceCast": "Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus) | Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            },
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/3c356737-08ce-4903-97aa-2e8d25fe8b43.mp4"
+        },
+        "id": "3c356737-08ce-4903-97aa-2e8d25fe8b43",
+        "timestamp": 1792769487359
+      },
+      {
+        "type": "video",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 1",
+        "prompt": "MANDATORY AUDIO DIRECTION — SILENT VISUAL ACTION (NO SPOKEN DIALOGUE):\nThis is a non-speaking visual action shot. No character speaks, whispers, mouths words, lip-syncs, narrates, or vocalizes. Keep mouths naturally closed except for non-speech facial expressions. Generate cinematic ambient sound, room tone, holographic sound effects, and Foley only. Absolute zero spoken dialogue.\n\nMANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium shot, camera pans right.\nFrantic Manager / Team Member pulls his hair in sheer panic before flashing multi-monitor error diagnostics and towering stacks of spreadsheets at his cluttered workstation desk. As the overhead fluorescent fixtures suddenly dim and an unexpected gust of wind scatters paperwork across the polished concrete floor, the frame sweeps past moody server racks to reveal Berto standing heroically in the doorway with his arms crossed and cape fluttering.\n\nLOCATION: — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER — Day. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Mood: Panicked, dramatic, comedic.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech. Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame.\n\nAudio: Ambient room tone, foley, and sound effects only. No spoken dialogue or vocalizations.",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 1,
+          "voiceCast": "Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus) | Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            },
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/c89feab3-f439-4e68-8424-7bb8e4a20e36.mp4"
+        },
+        "id": "c89feab3-f439-4e68-8424-7bb8e4a20e36",
+        "timestamp": 1792769227318
+      },
       {
         "type": "video",
         "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 1",
@@ -955,10 +1051,10 @@
         "updatedAt": 1792612257568
       },
       "shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY": {
-        "status": "locked",
-        "version": 1,
+        "status": "approved",
+        "version": 2,
         "stage": "05-shotlist",
-        "updatedAt": 1792610093448
+        "updatedAt": 1792769953092
       },
       "frame:7536f32f-4460-42a4-9e5d-fa90e4cbe1e5": {
         "status": "locked",
@@ -968,9 +1064,9 @@
       },
       "frame:48c19cb3-b813-4b46-9fa6-01af8941bb28": {
         "status": "locked",
-        "version": 3,
+        "version": 4,
         "stage": "07-main-frames",
-        "updatedAt": 1792768777689
+        "updatedAt": 1792769832572
       },
       "frame:76e6367d-b1be-4bde-aeca-dcc74206a053": {
         "status": "locked",
@@ -1249,10 +1345,11 @@
         "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
         "sceneName": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
         "clipIndex": 0,
-        "imageUrl": "idb-img:frame:48c19cb3-b813-4b46-9fa6-01af8941bb28:imageUrl:ea6cb72d471e26c84652852f",
-        "prompt": "MAIN FRAME — the definitive vertical 9:16 keyframe for Clip 1 of scene \"Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY\".\n\nRender a single continuous cinematic 9:16 still frame inside the CANONICAL MASTER FRAME & CINEMATIC GROUND TRUTH environment reference image. Preserve the environment's exact room architecture, wall materials, colors, lighting fixtures, windows, monitors, furniture, props, lighting direction, and color grade without alteration. Output ONE full-bleed vertical 9:16 photograph — NEVER output a collage, grid, split-screen, or multiple panels.\n\nTime of day: Day. Mood: Panicked, dramatic, comedic\n\nCAMERA SHOT: medium shot, camera pans right — framed from the front so the character faces toward the camera (clear front or 3/4-front view).\n\nACTION IN THIS 9:16 FRAME (single frozen moment): Frantic Manager faces the camera with hands at his sides and face completely uncovered in sheer panic before flashing multi-monitor error diagnostics and towering stacks of spreadsheets at his cluttered workstation desk. As the overhead fluorescent fixtures suddenly dim and an unexpected gust of wind scatters paperwork across the polished concrete floor, the frame sweeps past moody server racks to reveal Berto standing heroically in the doorway with his arms crossed and cape fluttering. (Stage this moment with Frantic Manager facing toward the camera in a clear front or 3/4-front view so their entire face is unobstructed; never cover a face with hands or props and never shoot from behind).\n\nMANDATORY 100% IMAGE-REFERENCE CHARACTER LOCK (1 character):\nThe following designated character(s) MUST appear in this 9:16 frame with clear front or 3/4-front facial visibility: Frantic Manager. Do NOT invent extra people and do NOT generate generic AI actors from text descriptions. Specifically, do NOT include or show Berto — they are not in this shot.\nEach character's physical appearance and clothing are defined EXCLUSIVELY by their attached reference images (\"PRIMARY GROUND TRUTH FACIAL IDENTITY of [Name]\" and \"WARDROBE & COSTUME REFERENCE for [Name]\"). Place those exact people directly into the scene, preserving 100% of their real face, hairline, hair, facial hair, skin tone, age, and wardrobe.\nIgnore the background of the character reference images and illuminate the character(s) naturally inside the room.\nCAMERA BLOCKING & FRONTAL FACE VISIBILITY RULE (CRITICAL):\n- Stage every designated character (Frantic Manager) in the FOREGROUND to NEAR-MIDGROUND (vertical 9:16 medium or medium-close-up framing, waist-up or chest-up) so every face is large, sharp, and unmistakable in the 9:16 frame. NEVER push a designated character into the far background as a tiny figure.\n- Every designated character MUST face TOWARD the camera (clear front view or 3/4-front view, never turned away showing only the back of their head or hidden behind hands) with their entire face, eyes, nose, mouth, hairline, and facial hair 100% visible and unobstructed.\n- STRICTLY FORBIDDEN: NEVER render any character from behind, NEVER show the back of a character's head (no rear views or over-the-shoulder back views), and NEVER cover a character's face or head with their hands, arms, or props. Position characters in front of the desk/monitors facing the camera so the viewer clearly sees their facial expression and exact actor likeness.\nDesignated Characters in this Main Frame:\n1. CHARACTER #1 (\"Frantic Manager\") — Render the EXACT person shown in the attached reference image(s) for \"Frantic Manager\" (\"PRIMARY GROUND TRUTH FACIAL IDENTITY for Frantic Manager\" for 100% of their face, hairline, hair, beard/mustache, skin tone, and age, and \"WARDROBE & COSTUME REFERENCE for Frantic Manager\" for their clothing garments, colors, cape, jacket, and accessories). CAMERA ANGLE FOR FRANTIC MANAGER: Frantic Manager's face MUST be turned toward the camera (clear front view or 3/4-front view) and 100% visible — NEVER show Frantic Manager from behind or cover their face. Wardrobe continuity: keep Frantic Manager in the exact same clothing garments, colors, and materials shown in the reference image. Do not re-dress or restyle them.\n\nStrictly period-accurate to the era of the environment — no anachronistic vehicles, buildings, signage, or technology.\n\nComposition: a cinematic vertical 9:16 shot inside the canonical room with all designated character(s) positioned in the foreground/midground facing toward the camera (front or 3/4-front view), identical room lighting and color grade, 35mm photorealistic cinema still, razor-sharp facial fidelity.",
+        "imageUrl": "idb-img:frame:48c19cb3-b813-4b46-9fa6-01af8941bb28:imageUrl:0f9aa1086509451d40f33bd9",
+        "prompt": "MAIN FRAME — the definitive vertical 9:16 keyframe for Clip 1 of scene \"Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY\".\n\nRender a single continuous cinematic 9:16 still frame inside the CANONICAL MASTER FRAME & CINEMATIC GROUND TRUTH environment reference image. Preserve the environment's exact room architecture, wall materials, colors, lighting fixtures, windows, monitors, furniture, props, lighting direction, and color grade without alteration. Output ONE full-bleed vertical 9:16 photograph — NEVER output a collage, grid, split-screen, or multiple panels.\n\nTime of day: Day. Mood: Panicked, dramatic, comedic. STAGING & BLOCKING: Frantic Manager Manager sits hunched over his chaotic desk in sheer panic, faces the camera with hands at his sides and face completely uncovered as laptop error alerts flash, before the room lights dim and Berto stands heroically in the background near a doorway with his arms crossed and cape fluttering.\n\nCAMERA SHOT: medium shot, camera pans right — framed from the front so every character faces toward the camera (clear front or 3/4-front view). However Berto is seeing behind Frantic Manager.\n\nACTION IN THIS 9:16 FRAME (single frozen moment): Frantic Manager faces the camera with hands at his sides and face completely uncovered in sheer panic before flashing multi-monitor error diagnostics and towering stacks of spreadsheets at his cluttered workstation desk. As the overhead fluorescent fixtures suddenly dim and an unexpected gust of wind scatters paperwork across the polished concrete floor, the frame sweeps past moody server racks to reveal Berto standing heroically in the doorway with his arms crossed and cape fluttering. (Stage this moment with Frantic Manager and Berto facing toward the camera in a clear front or 3/4-front view so their entire face is unobstructed; never cover a face with hands or props and never shoot from behind).\n\nMANDATORY 100% IMAGE-REFERENCE CHARACTER LOCK (2 characters):\nThe following designated character(s) MUST appear in this 9:16 frame with clear front or 3/4-front facial visibility: Frantic Manager, Berto. Do NOT invent extra people and do NOT generate generic AI actors from text descriptions.\nEach character's physical appearance and clothing are defined EXCLUSIVELY by their attached reference images (\"PRIMARY GROUND TRUTH FACIAL IDENTITY of [Name]\" and \"WARDROBE & COSTUME REFERENCE for [Name]\"). Place those exact people directly into the scene, preserving 100% of their real face, hairline, hair, facial hair, skin tone, age, and wardrobe.\nIgnore the background of the character reference images and illuminate the character(s) naturally inside the room.\nCAMERA BLOCKING & FRONTAL FACE VISIBILITY RULE (CRITICAL):\n- Stage every designated character (Frantic Manager, Berto) in the FOREGROUND to NEAR-MIDGROUND (vertical 9:16 medium or medium-close-up framing, waist-up or chest-up) so every face is large, sharp, and unmistakable in the 9:16 frame. NEVER push a designated character into the far background as a tiny figure.\n- Every designated character MUST face TOWARD the camera (clear front view or 3/4-front view, never turned away showing only the back of their head or hidden behind hands) with their entire face, eyes, nose, mouth, hairline, and facial hair 100% visible and unobstructed.\n- STRICTLY FORBIDDEN: NEVER render any character from behind, NEVER show the back of a character's head (no rear views or over-the-shoulder back views), and NEVER cover a character's face or head with their hands, arms, or props. Position characters in front of the desk/monitors facing the camera so the viewer clearly sees their facial expression and exact actor likeness.\nDesignated Characters in this Main Frame:\n1. CHARACTER #1 (\"Frantic Manager\") — Render the EXACT person shown in the attached reference image(s) for \"Frantic Manager\" (\"PRIMARY GROUND TRUTH FACIAL IDENTITY for Frantic Manager\" for 100% of their face, hairline, hair, beard/mustache, skin tone, and age, and \"WARDROBE & COSTUME REFERENCE for Frantic Manager\" for their clothing garments, colors, cape, jacket, and accessories). CAMERA ANGLE FOR FRANTIC MANAGER: Frantic Manager's face MUST be turned toward the camera (clear front view or 3/4-front view) and 100% visible — NEVER show Frantic Manager from behind or cover their face. Wardrobe continuity: keep Frantic Manager in the exact same clothing garments, colors, and materials shown in the reference image. Do not re-dress or restyle them.\n2. CHARACTER #2 (\"Berto\") — Render the EXACT person shown in the attached reference image(s) for \"Berto\" (\"PRIMARY GROUND TRUTH FACIAL IDENTITY for Berto\" for 100% of their face, hairline, hair, beard/mustache, skin tone, and age, and \"WARDROBE & COSTUME REFERENCE for Berto\" for their clothing garments, colors, cape, jacket, and accessories). CAMERA ANGLE FOR BERTO: Berto's face MUST be turned toward the camera (clear front view or 3/4-front view) and 100% visible — NEVER show Berto from behind or cover their face. Wardrobe continuity: keep Berto in the exact same clothing garments, colors, and materials shown in the reference image. Do not re-dress or restyle them.\n\nStrictly period-accurate to the era of the environment — no anachronistic vehicles, buildings, signage, or technology.\n\nComposition: a cinematic vertical 9:16 shot inside the canonical room with all designated character(s) positioned in the foreground/midground facing toward the camera (front or 3/4-front view), identical room lighting and color grade, 35mm photorealistic cinema still, razor-sharp facial fidelity.",
         "wardrobeByCharacter": {
-          "1792607215570": null
+          "1792607215570": null,
+          "1792607186622": null
         },
         "id": "48c19cb3-b813-4b46-9fa6-01af8941bb28",
         "createdAt": 1792610127447
@@ -1274,7 +1371,7 @@
     "prodapp_videos_uistate": {
       "audioTimingVersion": 2,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
+      "selectedSceneName": null,
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -1294,7 +1391,7 @@
           "shotType": "",
           "cameraMove": "",
           "state": "done",
-          "elapsed": 165,
+          "elapsed": 171,
           "opName": null,
           "videoSrc": null,
           "videoMime": "video/mp4",
@@ -1304,9 +1401,9 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "artifactId": "d78b929b-fed3-4b42-87ed-95d251f137f0",
+          "artifactId": "a94ee984-cc93-45cb-bf24-3f61708a12c4",
           "rawVideoBase64": null,
-          "interactionId": "v1_ChdhbnJiYXYzQ0JiMk5qckVQdTUtR3dRVRIXYW5yYmF2M0NCYjJOanJFUHU1LUd3UVU"
+          "interactionId": "v1_ChdnbjdiYXNmWUp0bWNfdU1QNGNIRTJBOBIXZ243YmFzZllKdG1jX3VNUDRjSEUyQTg"
         },
         {
           "id": "clip-1792767251099-1",
