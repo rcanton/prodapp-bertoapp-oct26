@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T20:37:58.935Z",
+  "exportedAt": "2026-10-23T14:52:48.434Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -843,10 +843,10 @@
         "updatedAt": 1792612257570
       },
       "frame:799e2958-325f-470d-af7d-043c8d5251cd": {
-        "status": "draft",
+        "status": "approved",
         "version": 2,
         "stage": "06-master-frames",
-        "updatedAt": 1792691429312
+        "updatedAt": 1792701873117
       },
       "frame:1b952d11-7658-4769-b237-1fb5959db7da": {
         "status": "approved",
@@ -1062,13 +1062,13 @@
         "kind": "master",
         "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
         "sceneName": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
-        "imageUrl": "idb-img:frame:799e2958-325f-470d-af7d-043c8d5251cd:imageUrl:95c22cbb87112c89bbc930fd",
-        "prompt": "MASTER FRAME — the single definitive 16:9 visual reference for the scene \"Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY\".\n\nRender a single continuous cinematic 16:9 still frame inside the CANONICAL LOCATION environment reference image. Preserve the environment's exact architecture, wall materials, colors, lighting fixtures, windows, furniture, and props without alteration.\n\nTime of day: Day. Mood: High-tech, confident, analytical. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior.\n\nSTAGING & BLOCKING: Berto steps up behind the panicked manager at the workstation, tapping his temple to project a futuristic HUD overlay directly onto the screen to dissect operational bottlenecks.\n\nPRODUCTION BIBLE & VISUAL DIRECTION (BertoApp): Logline & Tone: When an overworked corporate team drowns in catastrophic operational data, an ultra-confident, deadpan superhero named Berto swoops into the cubicle trenches to deliver diagnostic clarity via holographic app analytics. The visual register collides the sweeping, desaturated chiaroscuro of modern comic-book blockbusters with the high-tempo situational absurdity of corporate satire—treating spreadsheet bottlenecks and stolen breakroom lunches with t | Era, Setting & World: * **Time Period:** Present day / near-future contemporary (2024–2026), grounded in late-stage tech-corporate operations. * **Geography:** A generic Tier-1 tech metropolis (San Francisco / Austin / Frankfurt corridor), completely interior-bound inside an anonymous corporate monolith. * **Socioeconomic Texture:** Hyper-capitalist middle management on the brink of operational collapse, juxtaposed against elite, venture-funded technological poise. *  | Visual Style & Cinematography: * **Cinematography References:** Larry Fong (*Watchmen*, *Batman v Superman*) for hyper-stylized contrast and mythological hero framing; Barry Sonnenfeld (*Men in Black*) and Edgar Wright (*Hot Fuzz*) for dynamic comic timing, whip pans, and deadpan wide shots. * **Lens Feel:** 2.39:1 widescreen anamorphic (Cooke Anamorphic/i Full Frame Plus). Cinematic edge-falloff, horizontal streak flaring on holographic data elements, shallow depth of field i | Color Palette: * **Panic Crimson** (`#B3131B`): Dominates Scenes 1–2. Laptop error alerts, failing dashboard line graphs, manager’s stress flushed skin, and the warning box around the stolen empanada in Scene 4. * **Diagnostic Cyan** (`#00E5FF`): The core BertoApp signature. Volumetric HUD projections from Berto’s eyes, real-time node links, and resolved metric states. * **Corporate Slate** (`#1E222A`): Dominates environment architecture, divider screens, serve | Wardrobe & Styling Direction: * **Berto:** \"Savile Row Vigilante.\" Wears an impeccably tailored charcoal merino wool turtleneck, slim-tapered slate Italian trousers, and matte black leather Chelsea boots. Over this modern executive uniform hangs an architectural, heavy-drape midnight-navy cape with a structured military-style stand collar and matte black metal hardware. The cape behaves with weight and cinematic dignity (never costume satin or flimsy nylon). Grooming is razor | Environment & Lighting Direction: * **Key Architectural Materials:** Scratched industrial laminate, sound-dampening ribbed grey felt, brushed cold-rolled steel, smoked tempered glass, and seamless architectural plaster. * **Set-Dressing Motifs:** * *War Room (Scenes 1–3):* Towering, leaning stacks of 8.5x11 printed spreadsheets, cold dregs in branded corporate mugs, chaotic nests of Ethernet/HDMI cables, crushed energy drink cans, and multi-monitor rigs flashing conflicting warni | Consistency Rules: * **The Cape Is Never a Joke:** Berto’s cape must always be rendered and lit with absolute cinematic respect—heavy textile weight, elegant drape, and atmospheric wind-machine physics. It must never look like a cheap Halloween prop or party gag. * **Diegetic Volumetric HUD:** The BertoApp UI projected from Berto's temple/eyes is a true physical light emitter; it casts visible Diagnostic Cyan (`#00E5FF`) reflections onto actors' faces, eyeglasses, \n\nMANDATORY 100% IMAGE-REFERENCE CHARACTER LOCK (2 characters):\nThe following designated character(s) MUST appear in this scene: Frantic Manager / Team Member, Berto. Do NOT invent extra people and do NOT generate generic AI actors from text descriptions.\nEach character's physical appearance is defined EXCLUSIVELY by their attached reference image labelled \"PRIMARY GROUND TRUTH FACIAL IDENTITY for [Name]\". Place that exact person from their reference image directly into the scene, preserving 100% of their face, hairline, hair, facial hair, skin tone, and age.\nIgnore the background of the character portrait(s) and illuminate the character(s) naturally inside the CANONICAL LOCATION room. Dress each character in their specified wardrobe below (replacing any casual portrait clothing when an Assigned wardrobe is specified).\nCAMERA BLOCKING & FRONTAL FACE VISIBILITY RULE (CRITICAL):\n- Stage every designated character (Frantic Manager / Team Member, Berto) in the FOREGROUND to NEAR-MIDGROUND (medium-wide / medium-full framing, waist-up or knees-up) so every face is large, sharp, and unmistakable in the 16:9 frame. NEVER push a designated character into the far background as a tiny figure.\n- Every designated character MUST face TOWARD the camera (clear front view or 3/4-front view) with their entire face, eyes, nose, mouth, hairline, and facial hair 100% visible and unobstructed.\n- STRICTLY FORBIDDEN: NEVER render any character from behind, NEVER show the back of a character's head (no rear views or over-the-shoulder back views), and NEVER cover a character's face or head with their hands, arms, or props. Even if a character is looking at computer monitors, a desk, or an object in the room, place the camera in front of them (looking back past the monitors/desk toward their face) so the viewer clearly sees their facial expression and exact actor likeness.\nDesignated Characters in this Master Frame:\n1. CHARACTER #1 (\"Frantic Manager / Team Member\") — Render the EXACT person shown in the attached reference image labelled \"PRIMARY GROUND TRUTH FACIAL IDENTITY for Frantic Manager / Team Member\" (do NOT synthesize a new face from text; copy 100% of the face, bone structure, eyes, nose, jawline, hairline, hair, beard/mustache, skin tone, and age directly from that reference image). CAMERA ANGLE FOR FRANTIC MANAGER / TEAM MEMBER: Frantic Manager / Team Member's face MUST be turned toward the camera (clear front view or 3/4-front view) and 100% visible — NEVER show Frantic Manager / Team Member from behind or cover their face. Wardrobe continuity: keep Frantic Manager / Team Member in the exact same clothing garments, colors, and materials shown in the reference image. Do not re-dress or restyle them.\n2. CHARACTER #2 (\"Berto\") — Render the EXACT person shown in the attached reference image labelled \"PRIMARY GROUND TRUTH FACIAL IDENTITY for Berto\" (do NOT synthesize a new face from text; copy 100% of the face, bone structure, eyes, nose, jawline, hairline, hair, beard/mustache, skin tone, and age directly from that reference image). CAMERA ANGLE FOR BERTO: Berto's face MUST be turned toward the camera (clear front view or 3/4-front view) and 100% visible — NEVER show Berto from behind or cover their face. Wardrobe continuity: keep Berto in the exact same clothing garments, colors, and materials shown in the reference image. Do not re-dress or restyle them.\n\nStrictly period-accurate to the era of the environment — no anachronistic vehicles, buildings, signage, or technology.\n\nComposition: a cinematic medium-wide 16:9 shot inside the canonical room with all designated character(s) positioned in the foreground/midground facing toward the camera (front or 3/4-front view), film-quality lighting, 35mm photorealistic cinema still, razor-sharp facial fidelity.",
+        "imageUrl": "idb-img:frame:799e2958-325f-470d-af7d-043c8d5251cd:imageUrl:a1679397ecf955aca0d8eb4d",
+        "prompt": "MASTER FRAME — the single definitive 16:9 visual reference for the scene \"Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY\".\n\nRender a single continuous cinematic 16:9 still frame inside the CANONICAL LOCATION environment reference image. Preserve the environment's exact architecture, wall materials, colors, lighting fixtures, windows, furniture, and props without alteration.\n\nTime of day: Day. Mood: High-tech, confident, analytical. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white  ceiling LED paneling that illuminates the high-tech interior.\n\nSTAGING & BLOCKING: Berto stands beside Frantic Manager at the workstation, tapping his temple to project a futuristic HUD overlay directly onto the screen to dissect operational bottlenecks.\n\nPRODUCTION BIBLE & VISUAL DIRECTION (BertoApp): Era, Setting & World: * **Time Period:** Present day / near-future contemporary (2024–2026), grounded in late-stage tech-corporate operations. * **Geography:** A generic Tier-1 tech metropolis (San Francisco / Austin / Frankfurt corridor), completely interior-bound inside an anonymous corporate monolith. * **Socioeconomic Texture:** Hyper-capitalist middle management on the brink of operational collapse, juxtaposed against elite, venture-funded technological poise. * | Visual Style & Cinematography: * **Cinematography References:** Larry Fong (*Watchmen*, *Batman v Superman*) for hyper-stylized contrast and mythological hero framing; Barry Sonnenfeld (*Men in Black*) and Edgar Wright (*Hot Fuzz*) for dynamic comic timing, whip pans, and deadpan wide shots. * **Lens Feel:** 2.39:1 widescreen anamorphic (Cooke Anamorphic/i Full Frame Plus). Cinematic edge-falloff, horizontal streak flaring on holographic data elements, shallow depth of field i | Color Palette: * **Panic Crimson** (`#B3131B`): Dominates Scenes 1–2. Laptop error alerts, failing dashboard line graphs, manager’s stress flushed skin, and the warning box around the stolen empanada in Scene 4. * **Diagnostic Cyan** (`#00E5FF`): The core BertoApp signature. Volumetric HUD projections from Berto’s eyes, real-time node links, and resolved metric states. * **Corporate Slate** (`#1E222A`): Dominates environment architecture, divider screens, serve | Environment & Lighting Direction: * **Key Architectural Materials:** Scratched industrial laminate, sound-dampening ribbed grey felt, brushed cold-rolled steel, smoked tempered glass, and seamless architectural plaster. * **Set-Dressing Motifs:** * *War Room (Scenes 1–3):* Towering, leaning stacks of 8.5x11 printed spreadsheets, cold dregs in branded corporate mugs, chaotic nests of Ethernet/HDMI cables, crushed energy drink cans, and multi-monitor rigs flashing conflicting warni\n\nMANDATORY 100% IMAGE-REFERENCE CHARACTER LOCK (2 characters):\nThe following designated character(s) MUST appear in this scene: Frantic Manager, Berto. Do NOT invent extra people and do NOT generate generic AI actors from text descriptions.\nEach character's physical appearance is defined EXCLUSIVELY by their attached reference image labelled \"PRIMARY GROUND TRUTH FACIAL IDENTITY for [Name]\". Place that exact person from their reference image directly into the scene, preserving 100% of their face, hairline, hair, facial hair, skin tone, and age.\nIgnore the background of the character portrait(s) and illuminate the character(s) naturally inside the CANONICAL LOCATION room. Dress each character in their specified wardrobe below (replacing any casual portrait clothing when an Assigned wardrobe is specified).\nCAMERA BLOCKING & FRONTAL FACE VISIBILITY RULE (CRITICAL):\n- Stage every designated character (Frantic Manager, Berto) in the FOREGROUND to NEAR-MIDGROUND (medium-wide / medium-full framing, waist-up or knees-up) so every face is large, sharp, and unmistakable in the 16:9 frame. NEVER push a designated character into the far background as a tiny figure.\n- Every designated character MUST face TOWARD the camera (clear front view or 3/4-front view) with their entire face, eyes, nose, mouth, hairline, and facial hair 100% visible and unobstructed.\n- STRICTLY FORBIDDEN: NEVER render any character from behind, NEVER show the back of a character's head (no rear views or over-the-shoulder back views), and NEVER cover a character's face or head with their hands, arms, or props. Even if a character is looking at computer monitors, a desk, or an object in the room, place the camera in front of them (looking back past the monitors/desk toward their face) so the viewer clearly sees their facial expression and exact actor likeness.\nDesignated Characters in this Master Frame:\n1. CHARACTER #1 (\"Frantic Manager\") — Render the EXACT person shown in the attached reference image labelled \"PRIMARY GROUND TRUTH FACIAL IDENTITY for Frantic Manager\" (do NOT synthesize a new face from text; copy 100% of the face, bone structure, eyes, nose, jawline, hairline, hair, beard/mustache, skin tone, and age directly from that reference image). CAMERA ANGLE FOR FRANTIC MANAGER: Frantic Manager's face MUST be turned toward the camera (clear front view or 3/4-front view) and 100% visible — NEVER show Frantic Manager from behind or cover their face. Wardrobe continuity: keep Frantic Manager in the exact same clothing garments, colors, and materials shown in the reference image. Do not re-dress or restyle them.\n2. CHARACTER #2 (\"Berto\") — Render the EXACT person shown in the attached reference image labelled \"PRIMARY GROUND TRUTH FACIAL IDENTITY for Berto\" (do NOT synthesize a new face from text; copy 100% of the face, bone structure, eyes, nose, jawline, hairline, hair, beard/mustache, skin tone, and age directly from that reference image). CAMERA ANGLE FOR BERTO: Berto's face MUST be turned toward the camera (clear front view or 3/4-front view) and 100% visible — NEVER show Berto from behind or cover their face. Wardrobe continuity: keep Berto in the exact same clothing garments, colors, and materials shown in the reference image. Do not re-dress or restyle them.\n\nStrictly period-accurate to the era of the environment — no anachronistic vehicles, buildings, signage, or technology.\n\nComposition: a cinematic medium-wide 16:9 shot inside the canonical room with all designated character(s) positioned in the foreground/midground facing toward the camera (front or 3/4-front view), film-quality lighting, 35mm photorealistic cinema still, razor-sharp facial fidelity.",
         "id": "799e2958-325f-470d-af7d-043c8d5251cd",
         "createdAt": 1792610524876,
         "wardrobeByCharacter": {
-          "1792607215570": "1fb05957-bd9a-4be7-b595-2b7abe90fb5d",
-          "1792607186622": "6521318f-ee05-42ef-8998-3667ca79bbef"
+          "1792607215570": null,
+          "1792607186622": null
         }
       },
       {
@@ -1207,78 +1207,9 @@
       "mode": "remind",
       "autoIntervalSec": 300
     },
-    "prodapp_custom_image_models": [
-      {
-        "id": "gemini-3-pro-image-preview",
-        "label": "Nano Banana Pro",
-        "summary": "New Preview image model",
-        "description": "Gemini 3 Pro Image Preview",
-        "stage": "preview"
-      },
-      {
-        "id": "gemini-3.1-flash-image-preview",
-        "label": "Nano Banana 2",
-        "summary": "New Preview image model",
-        "description": "Gemini 3.1 Flash Image Preview.",
-        "stage": "preview"
-      }
-    ],
-    "prodapp_custom_video_models": [
-      {
-        "id": "veo-3.1-fast-generate-preview",
-        "label": "Veo 3.1 fast (preview)",
-        "audio": true,
-        "refImages": true,
-        "resolutions": [
-          "720p",
-          "1080p",
-          "4k"
-        ],
-        "defaultResolution": "720p",
-        "stage": "preview"
-      },
-      {
-        "id": "veo-3.1-generate-preview",
-        "label": "Veo 3.1 (preview)",
-        "audio": true,
-        "refImages": true,
-        "resolutions": [
-          "720p",
-          "1080p",
-          "4k"
-        ],
-        "defaultResolution": "720p",
-        "stage": "preview"
-      },
-      {
-        "id": "veo-3.1-lite-generate-preview",
-        "label": "Veo 3.1 lite (preview)",
-        "audio": true,
-        "refImages": true,
-        "resolutions": [
-          "720p",
-          "1080p",
-          "4k"
-        ],
-        "defaultResolution": "720p",
-        "stage": "preview"
-      }
-    ],
+    "prodapp_custom_image_models": [],
+    "prodapp_custom_video_models": [],
     "prodapp_custom_text_models": [
-      {
-        "id": "gemini-2.5-flash-lite",
-        "label": "Gemini 2.5 Flash-Lite",
-        "summary": "New GA text & multimodal model",
-        "description": "Stable version of Gemini 2.5 Flash-Lite, released in July of 2025",
-        "stage": "ga"
-      },
-      {
-        "id": "gemini-2.5-pro",
-        "label": "Gemini 2.5 Pro",
-        "summary": "New GA text & multimodal model",
-        "description": "Stable release (June 17th, 2025) of Gemini 2.5 Pro",
-        "stage": "ga"
-      },
       {
         "id": "gemini-3.5-transcribe",
         "label": "Gemini 3.5 Transcribe",
@@ -1350,48 +1281,6 @@
         "stage": "preview"
       },
       {
-        "id": "gemini-2.5-computer-use-preview-10-2025",
-        "label": "Gemini 2.5 Computer Use Preview 10-2025",
-        "summary": "New Preview text & multimodal model",
-        "description": "Gemini 2.5 Computer Use Preview 10-2025",
-        "stage": "preview"
-      },
-      {
-        "id": "gemini-3-flash-preview",
-        "label": "Gemini 3 Flash Preview",
-        "summary": "New Preview text & multimodal model",
-        "description": "Gemini 3 Flash Preview",
-        "stage": "preview"
-      },
-      {
-        "id": "gemini-3.1-flash-lite-preview",
-        "label": "Gemini 3.1 Flash Lite Preview",
-        "summary": "New Preview text & multimodal model",
-        "description": "Gemini 3.1 Flash Lite Preview",
-        "stage": "preview"
-      },
-      {
-        "id": "gemini-3.1-flash-live-preview",
-        "label": "Gemini 3.1 Flash Live Preview",
-        "summary": "New Preview text & multimodal model",
-        "description": "Gemini 3.1 Flash Live Preview",
-        "stage": "preview"
-      },
-      {
-        "id": "gemini-3.1-pro-preview",
-        "label": "Gemini 3.1 Pro Preview",
-        "summary": "New Preview text & multimodal model",
-        "description": "Gemini 3.1 Pro Preview",
-        "stage": "preview"
-      },
-      {
-        "id": "gemini-3.1-pro-preview-customtools",
-        "label": "Gemini 3.1 Pro Preview Custom Tools",
-        "summary": "New Preview text & multimodal model",
-        "description": "Gemini 3.1 Pro Preview optimized for custom tool usage",
-        "stage": "preview"
-      },
-      {
         "id": "gemini-3.5-live-translate-preview",
         "label": "Gemini 3.5 Live Translate Preview",
         "summary": "New Preview text & multimodal model",
@@ -1452,7 +1341,7 @@
       "project": "rc-prodapp-test1",
       "location": "us-central1",
       "bucket": "prodapp-bertoapp-oct26",
-      "imageModel": "gemini-3-pro-image-preview",
+      "imageModel": "gemini-3-pro-image",
       "videoModel": "gemini-omni-1.1-flash",
       "videoResolution": "4k",
       "textModel": "gemini-3.8-flash",
