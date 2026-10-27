@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-27T22:39:17.825Z",
+  "exportedAt": "2026-10-27T23:26:28.293Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -310,6 +310,31 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 3",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium close-up, slow zoom in.\nBerto stands framed in sharp analytical focus (without Frantic Manager), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.\n\nLOCATION: THE WAR ROOM — Day. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Mood: High-tech, confident, analytical.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Do not show or introduce Frantic Manager anywhere in this shot. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; all other characters in frame keep their mouths completely closed and silent. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity. While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp. It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 15,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 3,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+        },
+        "id": "d2100605-1db9-433d-b7e7-b3604f7ed3c8",
+        "timestamp": 1793141263723
+      },
       {
         "type": "video",
         "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 3",
@@ -2244,6 +2269,7 @@
     ],
     "prodapp_videos_uistate": {
       "audioTimingVersion": 2,
+      "promptFormatVersion": 5,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
       "selectedSceneName": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
       "selectedStagingId": null,
@@ -2309,19 +2335,18 @@
           "cameraDirection": "medium close-up, slow zoom in",
           "shotType": "",
           "cameraMove": "",
-          "state": "done",
-          "elapsed": 463,
+          "state": "idle",
+          "elapsed": 474,
           "opName": null,
           "videoSrc": null,
           "videoMime": "video/mp4",
           "blobUrl": null,
-          "error": "",
+          "error": "Generation interrupted by navigation",
           "lastFrame": null,
           "promptOverride": null,
           "omniEndFrameMode": "none",
-          "durationSeconds": 15,
+          "durationSeconds": 8,
           "rawVideoBase64": null,
-          "artifactId": "7c7651b9-e7e1-437e-b956-d339b5ea8242",
           "interactionId": "v1_ChdkaHJoYXRHU0Jick1qTWNQcVpHVG1RWRIXTFJ2aGF2V1RFb0taX3VNUDI3UG0yUVE"
         }
       ]
