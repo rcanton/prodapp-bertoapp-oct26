@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-23T20:58:42.192Z",
+  "exportedAt": "2026-10-27T03:06:11.326Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -1692,7 +1692,7 @@
     "prodapp_videos_uistate": {
       "audioTimingVersion": 2,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
+      "selectedSceneName": null,
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -1847,13 +1847,6 @@
         "stage": "ga"
       },
       {
-        "id": "gemini-omni-1.1-flash",
-        "label": "Gemini Omni 1.1 Flash",
-        "summary": "New GA text & multimodal model",
-        "description": "Gemini Omni 1.1 Flash ",
-        "stage": "ga"
-      },
-      {
         "id": "gemini-pro-latest",
         "label": "Gemini Pro Latest",
         "summary": "New GA text & multimodal model",
@@ -1889,13 +1882,6 @@
         "stage": "preview"
       },
       {
-        "id": "gemini-omni-flash-preview",
-        "label": "Gemini Omni Flash Preview",
-        "summary": "New Preview text & multimodal model",
-        "description": "Gemini Omni Flash Preview",
-        "stage": "preview"
-      },
-      {
         "id": "gemini-robotics-er-2-preview",
         "label": "Gemini Robotics-ER 2 Preview",
         "summary": "New Preview text & multimodal model",
@@ -1910,13 +1896,6 @@
         "stage": "preview"
       },
       {
-        "id": "nano-banana-pro-preview",
-        "label": "Nano Banana Pro",
-        "summary": "New Preview text & multimodal model",
-        "description": "Gemini 3 Pro Image Preview",
-        "stage": "preview"
-      },
-      {
         "id": "gemini-3.8-live",
         "label": "Gemini 3.8 Live",
         "summary": "New GA text & multimodal model",
@@ -1928,13 +1907,6 @@
         "label": "Gemini 3.8 Live Extended Thinking",
         "summary": "New GA text & multimodal model",
         "description": "Gemini 3.8 Live Extended Thinking",
-        "stage": "ga"
-      },
-      {
-        "id": "gemini-nano-banana-2.1",
-        "label": "Nano Banana 2.1",
-        "summary": "New GA text & multimodal model",
-        "description": "Gemini Nano Banana 2.1.",
         "stage": "ga"
       }
     ],
