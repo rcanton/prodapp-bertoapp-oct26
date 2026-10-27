@@ -1,10 +1,28 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-27T03:06:18.827Z",
+  "exportedAt": "2026-10-27T12:53:33.460Z",
   "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
   "projectName": "BertoApp-October",
-  "count": 158,
+  "count": 160,
   "events": [
+    {
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "ts": "2026-10-27T03:33:11.078Z",
+      "detail": "{\"key\":\"shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY\",\"stage\":\"05-shotlist\",\"version\":3}",
+      "projectName": "BertoApp-October",
+      "action": "v3",
+      "email": "admin@robertocanton.altostrat.com",
+      "type": "new_version"
+    },
+    {
+      "projectName": "BertoApp-October",
+      "type": "new_version",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"frame:7536f32f-4460-42a4-9e5d-fa90e4cbe1e5\",\"stage\":\"06-master-frames\",\"version\":4}",
+      "action": "v4",
+      "email": "admin@robertocanton.altostrat.com",
+      "ts": "2026-10-27T03:06:29.592Z"
+    },
     {
       "ts": "2026-10-23T19:54:19.224Z",
       "projectName": "BertoApp-October",
