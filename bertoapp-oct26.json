@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-27T03:06:11.326Z",
+  "exportedAt": "2026-10-27T12:53:22.979Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -1372,16 +1372,16 @@
         "updatedAt": 1792612257568
       },
       "shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY": {
-        "status": "locked",
-        "version": 2,
+        "status": "draft",
+        "version": 3,
         "stage": "05-shotlist",
-        "updatedAt": 1792773854719
+        "updatedAt": 1793071990989
       },
       "frame:7536f32f-4460-42a4-9e5d-fa90e4cbe1e5": {
-        "status": "locked",
-        "version": 3,
+        "status": "draft",
+        "version": 4,
         "stage": "06-master-frames",
-        "updatedAt": 1792691258310
+        "updatedAt": 1793070389552
       },
       "frame:48c19cb3-b813-4b46-9fa6-01af8941bb28": {
         "status": "locked",
