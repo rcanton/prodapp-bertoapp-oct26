@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-28T19:34:54.502Z",
+  "exportedAt": "2026-10-28T20:05:48.357Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -335,6 +335,38 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 1",
+        "prompt": "MANDATORY AUDIO DIRECTION — SILENT VISUAL ACTION (NO SPOKEN DIALOGUE):\nThis is a non-speaking visual action shot. No character speaks, whispers, mouths words, lip-syncs, narrates, or vocalizes. Keep mouths naturally closed except for non-speech facial expressions. Generate cinematic ambient sound, room tone, holographic sound effects, and Foley only. Absolute zero spoken dialogue.\n\nMANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nCAMERA: close-up, slow dolly in.\nIn the lower foreground, Frantic Manager clutches his head in sweat-drenched panic as red error diagnostics flicker across his workstation and overhead office lights suddenly dim. Looming directly behind him in sharp focus, Berto stands impassive and heroic with arms crossed and his cape fluttering gently in a mysterious draft, cool blue server lights illuminating his figure.\n\nLOCATION: DIMLY LIT CORPORATE HQ — Day. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Mood: Panicked, dramatic, comedic.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nSILENT VISUAL PERFORMANCE: All characters remain completely silent with mouths naturally closed and zero lip movement, speaking, whispering, or vocalizing.\n\nAudio: Ambient room tone, foley, and sound effects only. No spoken dialogue or vocalizations.",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 1,
+          "voiceCast": "Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus) | Berto: RC-MyVoice (Custom Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            },
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (Custom Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/db018421-9b16-47ac-b0dd-89596276c494.mp4"
+        },
+        "id": "db018421-9b16-47ac-b0dd-89596276c494",
+        "timestamp": 1793217741795
+      },
       {
         "type": "video",
         "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 3",
@@ -868,38 +900,6 @@
         },
         "id": "a995ad36-02c8-4f1b-9570-cefaa3fb544c",
         "timestamp": 1793109374553
-      },
-      {
-        "type": "video",
-        "name": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY — Clip 1",
-        "prompt": "MANDATORY AUDIO DIRECTION — SILENT VISUAL ACTION (NO SPOKEN DIALOGUE):\nThis is a non-speaking visual action shot. No character speaks, whispers, mouths words, lip-syncs, narrates, or vocalizes. Keep mouths naturally closed except for non-speech facial expressions. Generate cinematic ambient sound, room tone, holographic sound effects, and Foley only. Absolute zero spoken dialogue.\n\nMANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nCAMERA: close-up, slow dolly in.\nIn the lower foreground, Frantic Manager clutches his head in sweat-drenched panic as red error diagnostics flicker across his workstation and overhead office lights suddenly dim. Looming directly behind him in sharp focus, Berto stands impassive and heroic with arms crossed and his cape fluttering gently in a mysterious draft, cool blue server lights illuminating his figure.\n\nLOCATION: DIMLY LIT CORPORATE HQ — Day. A corporate command center features polished concrete flooring, exposed dark industrial ceiling rafters, and concrete pillar supports flanked by glass-paneled partition walls. In the center sits an executive workstation desk cluttered with multi-monitor setups, a laptop displaying vibrant error diagnostics, towering stacks of physical spreadsheets, and scattered red-alert printouts. Overhead fluorescent strip fixtures are dimmed low, casting moody shadows across the room while cool blue and amber LED glow emanates from server towers in the background. Mood: Panicked, dramatic, comedic.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nSILENT VISUAL PERFORMANCE: All characters remain completely silent with mouths naturally closed and zero lip movement, speaking, whispering, or vocalizing.\n\nAudio: Ambient room tone, foley, and sound effects only. No spoken dialogue or vocalizations.",
-        "model": "gemini-omni-1.1-flash",
-        "metadata": {
-          "durationSeconds": 8,
-          "aspectRatio": "9:16",
-          "resolution": "4k",
-          "audio": true,
-          "clip": 1,
-          "voiceCast": "Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus) | Berto: RC-MyVoice (Custom Voice Clone · 129 Hz) (en-US-Neural2-I)",
-          "voiceTracks": [
-            {
-              "character": "Frantic Manager / Team Member",
-              "voiceId": "en-US-Chirp3-HD-Orus",
-              "voiceLabel": "Orus (Chirp 3 HD)",
-              "engine": "Google Cloud Chirp 3 HD"
-            },
-            {
-              "character": "Berto",
-              "voiceId": "en-US-Neural2-I",
-              "voiceLabel": "RC-MyVoice (Custom Voice Clone · 129 Hz)",
-              "engine": "Biometric & Reference-Audio TTS Voice Clone"
-            }
-          ],
-          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
-          "gcsBlobName": "clips/440c2e79-2b27-40eb-a74c-8c508139c181.mp4"
-        },
-        "id": "440c2e79-2b27-40eb-a74c-8c508139c181",
-        "timestamp": 1793108640294
       },
       {
         "type": "video",
@@ -2007,10 +2007,10 @@
         "updatedAt": 1793198303376
       },
       "frame:48c19cb3-b813-4b46-9fa6-01af8941bb28": {
-        "status": "approved",
+        "status": "locked",
         "version": 5,
         "stage": "07-main-frames",
-        "updatedAt": 1793209996276
+        "updatedAt": 1793217744121
       },
       "frame:76e6367d-b1be-4bde-aeca-dcc74206a053": {
         "status": "approved",
@@ -2073,16 +2073,16 @@
         "updatedAt": 1792612013828
       },
       "frame:7593a40d-5b96-4bf6-82b5-a145f9084582": {
-        "status": "draft",
+        "status": "approved",
         "version": 2,
         "stage": "07-main-frames",
-        "updatedAt": 1793210295970
+        "updatedAt": 1793216452565
       },
       "frame:6330941a-ce86-4992-babd-65f947924e86": {
-        "status": "draft",
+        "status": "approved",
         "version": 2,
         "stage": "07-main-frames",
-        "updatedAt": 1793210401982
+        "updatedAt": 1793216454885
       },
       "frame:c513ceb4-6244-4fc2-bbb7-fd1f20401a25": {
         "status": "locked",
@@ -2103,22 +2103,16 @@
         "updatedAt": 1792612236835
       },
       "frame:70af44d7-b5bd-4d43-8f23-e37b8a304062": {
-        "status": "draft",
+        "status": "approved",
         "version": 2,
         "stage": "06-master-frames",
-        "updatedAt": 1793211160638
+        "updatedAt": 1793216465749
       },
       "frame:93da1fb6-abb3-46b8-a067-81db9531bfd8": {
         "status": "approved",
-        "version": 1,
+        "version": 2,
         "stage": "07-main-frames",
-        "updatedAt": 1793211251507
-      },
-      "video:440c2e79-2b27-40eb-a74c-8c508139c181": {
-        "status": "approved",
-        "version": 1,
-        "stage": "08-animation",
-        "updatedAt": 1793109160196
+        "updatedAt": 1793216468465
       },
       "frame:910abfff-1f74-445e-94ea-14d46e0acf86": {
         "status": "approved",
@@ -2143,6 +2137,12 @@
         "version": 1,
         "stage": "07-main-frames",
         "updatedAt": 1793211116807
+      },
+      "frame:db85c039-1bb1-40dd-814b-ba6b143cbb2f": {
+        "status": "approved",
+        "version": 1,
+        "stage": "07-main-frames",
+        "updatedAt": 1793216456864
       }
     },
     "prodapp_research": [
@@ -2232,17 +2232,18 @@
         "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
         "sceneName": "Scene 5 — SCENE 5: OUTRO & LOGO REVEAL",
         "clipIndex": 0,
-        "imageUrl": "idb-img:frame:93da1fb6-abb3-46b8-a067-81db9531bfd8:imageUrl:6d5afab49739f90f57c9d8d6",
-        "prompt": "MAIN FRAME — cinematic vertical 9:16 keyframe for clip 1 of the scene \"Scene 5 — SCENE 5: OUTRO & LOGO REVEAL\".\nOUTPUT ONE SINGLE CONTINUOUS CINEMATIC PHOTOGRAPH OF ONE INSTANT — the first frame of the clip. One continuous, full-bleed image with one camera setup. NOT a collage, grid, split screen, diptych, triptych, storyboard, contact sheet, film strip, montage, stacked panels, or inset. No internal borders, gutters, or dividing lines. If the description below implies more than one moment, render only the first.\nPRODUCTION BIBLE & VISUAL DIRECTION (BertoApp): Logline & Tone: When an overworked corporate team drowns in catastrophic operational data, an ultra-confident, deadpan superhero named Berto swoops into the cubicle trenches to deliver diagnostic clarity via holographic app analytics. The visual register collides the sweeping, desaturated chiaroscuro of modern comic-book blockbusters with the high-tempo situational absurdity of corporate satire—treating spreadsheet bottlenecks and stolen breakroom lunches with t | Era, Setting & World: * **Time Period:** Present day / near-future contemporary (2024–2026), grounded in late-stage tech-corporate operations. * **Geography:** A generic Tier-1 tech metropolis (San Francisco / Austin / Frankfurt corridor), completely interior-bound inside an anonymous corporate monolith. * **Socioeconomic Texture:** Hyper-capitalist middle management on the brink of operational collapse, juxtaposed against elite, venture-funded technological poise. *  | Visual Style & Cinematography: * **Cinematography References:** Larry Fong (*Watchmen*, *Batman v Superman*) for hyper-stylized contrast and mythological hero framing; Barry Sonnenfeld (*Men in Black*) and Edgar Wright (*Hot Fuzz*) for dynamic comic timing, whip pans, and deadpan wide shots. * **Lens Feel:** 2.39:1 widescreen anamorphic (Cooke Anamorphic/i Full Frame Plus). Cinematic edge-falloff, horizontal streak flaring on holographic data elements, shallow depth of field i | Color Palette: * **Panic Crimson** (`#B3131B`): Dominates Scenes 1–2. Laptop error alerts, failing dashboard line graphs, manager’s stress flushed skin, and the warning box around the stolen empanada in Scene 4. * **Diagnostic Cyan** (`#00E5FF`): The core BertoApp signature. Volumetric HUD projections from Berto’s eyes, real-time node links, and resolved metric states. * **Corporate Slate** (`#1E222A`): Dominates environment architecture, divider screens, serve | Wardrobe & Styling Direction: * **Berto:** \"Savile Row Vigilante.\" Wears an impeccably tailored charcoal merino wool turtleneck, slim-tapered slate Italian trousers, and matte black leather Chelsea boots. Over this modern executive uniform hangs an architectural, heavy-drape midnight-navy cape with a structured military-style stand collar and matte black metal hardware. The cape behaves with weight and cinematic dignity (never costume satin or flimsy nylon). Grooming is razor | Environment & Lighting Direction: * **Key Architectural Materials:** Scratched industrial laminate, sound-dampening ribbed grey felt, brushed cold-rolled steel, smoked tempered glass, and seamless architectural plaster. * **Set-Dressing Motifs:** * *War Room (Scenes 1–3):* Towering, leaning stacks of 8.5x11 printed spreadsheets, cold dregs in branded corporate mugs, chaotic nests of Ethernet/HDMI cables, crushed energy drink cans, and multi-monitor rigs flashing conflicting warni | Consistency Rules: * **The Cape Is Never a Joke:** Berto’s cape must always be rendered and lit with absolute cinematic respect—heavy textile weight, elegant drape, and atmospheric wind-machine physics. It must never look like a cheap Halloween prop or party gag. * **Diegetic Volumetric HUD:** The BertoApp UI projected from Berto's temple/eyes is a true physical light emitter; it casts visible Diagnostic Cyan (`#00E5FF`) reflections onto actors' faces, eyeglasses, \nMANDATORY MASTER FRAME LIGHTING & ROOM CONTINUITY:\nThis vertical 9:16 frame is an exact camera shot INSIDE the continuous room and moment established by the reference image labelled \"CANONICAL MASTER FRAME & CINEMATIC GROUND TRUTH\".\n1. EXACT LIGHTING & ATMOSPHERE: You MUST replicate the lighting scheme of the Master Frame with 100% precision — the exact key light angle, color temperature (e.g. warm tungsten, cool moonlight, harsh sunlight, practical lamps, candle glow), fill level, shadow density, contrast ratio, and volumetric atmospheric haze or dust. Under NO circumstances should you introduce flat studio lighting, neutral commercial white light, or change the room's lighting mood.\n2. IDENTICAL ROOM ARCHITECTURE & SET DRESSINGS: The room's architecture, wall materials (brick, wallpaper, woodwork, paint color), floor surfaces, window treatments, background furniture, and props must be completely consistent with the Master Frame. This is the exact same room filmed from a tighter or re-angled perspective.\n3. SEAMLESS PRODUCTION STYLE & COLOR GRADE: The cinematic color grade, tonal range, film stock grain, lens depth of field, and aesthetic texture must match the Master Frame so both frames appear to come from the exact same live-action camera roll.\n4. CHARACTER LIGHTING INTEGRATION: While the characters' facial structure and clothing are taken from their labelled identity and costume references, their illumination MUST come directly from the room's established lighting setup in the Master Frame (not the flat lighting of their studio portraits).\nSCENE CONTEXT: Time of day: Unknown · Mood: Decisive, heroic, impactful · Staging: No characters are present as the scene smash-cuts directly to the bold BertoApp logo and promotional tagline display. · Setting: A clean graphic presentation stage features a seamless high-gloss deep navy backdrop framed by dark architectural acoustic fins. Centered on the backdrop is a three-dimensional embossed metallic display panel configured for high-contrast digital projection. Crisp studio edge lights and a focused overhead spotlight illuminate the empty presentation space, creating a sleek, premium corporate look.\nNO CHARACTERS IN FRAME: Show no people, characters, actors, silhouettes, or human figures anywhere in this frame. Specifically, do NOT include or show Frantic Manager / Team Member, Berto — they are not in this shot. Render only the environment, architecture, lighting, and objects described in ACTION IN FRAME.\nCAMERA SHOT & COMPOSITION: medium shot, slow dolly in. Vertical 9:16 composition. This is a single camera setup framing the action within the room.\nACTION IN FRAME (a single frozen moment): On the high-gloss deep navy presentation stage, the three-dimensional embossed metallic BertoApp logo gleams under focused spotlights while the crisp digital tagline projects brightly beneath it. Specular light sweeps across the polished beveled letters against dark acoustic fins as ambient edge lighting settles into a heroic corporate hold, with no characters in frame.\nFINAL RENDER SPECIFICATION: Ultra-photorealistic, filmic grain, 35mm cinematic anamorphic lens aesthetics, seamless visual continuity with the Master Frame.",
+        "imageUrl": "idb-img:frame:93da1fb6-abb3-46b8-a067-81db9531bfd8:imageUrl:054dfc5f652196d644d99203",
+        "prompt": "MAIN FRAME — the definitive vertical 9:16 keyframe for Clip 1 of scene \"Scene 5 — SCENE 5: OUTRO & LOGO REVEAL\".\n\nRender a single continuous cinematic 9:16 still frame inside the attached environment reference image. Preserve the environment's exact room architecture, concrete walls/arches, wall materials, colors, lighting fixtures, windows, monitors, furniture, props, lighting direction, and color grade without alteration. Omit Frantic Manager, Berto from the room and render ONLY  in the foreground, matching 's exact face, hair, age, and outfit from their PRIMARY GROUND TRUTH FACIAL IDENTITY portrait. Output ONE full-bleed vertical 9:16 photograph — NEVER output a collage, grid, split-screen, or multiple panels.\n\nTime of day: Unknown. Mood: Decisive, heroic, impactful\n\nCAMERA SHOT: medium shot, slow dolly in.\n\nACTION IN THIS 9:16 FRAME (single frozen moment): On the high-gloss deep navy presentation stage, the three-dimensional embossed metallic BertoApp logo gleams under focused spotlights while the crisp digital tagline projects brightly beneath it. Specular light sweeps across the polished beveled letters against dark acoustic fins as ambient edge lighting settles into a heroic corporate hold, with no characters in frame.\n\nNO CHARACTERS IN FRAME: Show no people, characters, actors, silhouettes, or human figures anywhere in this frame. Specifically, do NOT include or show Frantic Manager, Berto — they are not in this shot, and you must NEVER copy Frantic Manager or Berto's face, hair, or clothing from the Master Frame. Render only the exact room environment, architecture, lighting, and objects.\n\nStrictly period-accurate to the era of the environment — no anachronistic vehicles, buildings, signage, or technology.\n\nComposition: a cinematic vertical 9:16 shot inside the canonical room with all designated character(s) positioned in the center foreground facing toward the camera (front or 3/4-front view), identical room lighting and color grade, 35mm photorealistic cinema still, razor-sharp facial fidelity.",
         "wardrobeByCharacter": {},
         "id": "93da1fb6-abb3-46b8-a067-81db9531bfd8",
-        "createdAt": 1792612286496
+        "createdAt": 1792612286496,
+        "aspectRatio": "9:16"
       },
       {
         "kind": "master",
         "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
         "sceneName": "Scene 5 — SCENE 5: OUTRO & LOGO REVEAL",
-        "imageUrl": "idb-img:frame:70af44d7-b5bd-4d43-8f23-e37b8a304062:imageUrl:6c294a16f28e7c6ca90f9787",
+        "imageUrl": "idb-img:frame:70af44d7-b5bd-4d43-8f23-e37b8a304062:imageUrl:fe719db0b1b4feccae9b32f3",
         "prompt": "MASTER FRAME — the single definitive 16:9 visual reference for the scene \"Scene 5 — SCENE 5: OUTRO & LOGO REVEAL\".\n\nRender a single continuous cinematic 16:9 still frame inside the CANONICAL LOCATION environment reference image. Preserve the environment's exact architecture, wall materials, colors, lighting fixtures, windows, furniture, and props without alteration.\n\nTime of day: Unknown. Mood: Decisive, heroic, impactful. A clean graphic presentation stage features a seamless high-gloss deep navy backdrop framed by dark architectural acoustic fins. Centered on the backdrop is a three-dimensional embossed metallic display panel configured for high-contrast digital projection. Crisp studio edge lights and a focused overhead spotlight illuminate the empty presentation space, creating a sleek, premium corporate look.\n\nSTAGING & BLOCKING: No characters are present as the scene smash-cuts directly to the bold BertoApp logo and promotional tagline display.\n\nNO CHARACTERS IN FRAME: Render only the canonical environment and lighting with zero people.\n\nStrictly period-accurate to the era of the environment — no anachronistic vehicles, buildings, signage, or technology.\n\nComposition: a cinematic medium-wide 16:9 shot inside the canonical room with all designated character(s) positioned side-by-side in the foreground at equal depth facing toward the camera (front or 3/4-front view), film-quality lighting, 35mm photorealistic cinema still, razor-sharp facial fidelity.",
         "id": "70af44d7-b5bd-4d43-8f23-e37b8a304062",
         "createdAt": 1792612257520,
@@ -2427,7 +2428,7 @@
       "audioTimingVersion": 2,
       "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": null,
+      "selectedSceneName": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -2435,41 +2436,41 @@
       ],
       "castSelectionExplicit": true,
       "costumeChoices": {},
-      "numClips": 5,
+      "numClips": 3,
       "hasExplicitClips": true,
       "clips": [
         {
-          "id": "clip-1793128493938-0",
+          "id": "clip-1793216660827-0",
           "index": 0,
           "scriptPortion": "",
-          "visualDescription": "Inside the high-tech corporate war room illuminated by recessed cool-white ceiling LED panels and louvered daylight, Berto steps calmly up behind Frantic Manager / Team Member at the central dark-wood conference workstation. Frantic Manager / Team Member slumps before his dual monitors in sweat-drenched panic as Berto raises his hand in deliberate focus and taps the side of his temple.",
+          "visualDescription": "In the lower foreground, Frantic Manager / Team Member clutches his thinning hair in sweat-drenched panic as red error diagnostics flicker across his workstation and overhead office lights suddenly dim. Looming directly behind him in sharp focus, Berto stands impassive and heroic with arms crossed and his cape fluttering gently in a mysterious draft, cool blue server lights catching his salt-and-pepper beard.",
+          "cameraDirection": "close-up, slow dolly in",
+          "shotType": "",
+          "cameraMove": "",
+          "state": "done",
+          "elapsed": 191,
+          "opName": null,
+          "videoSrc": null,
+          "videoMime": "video/mp4",
+          "blobUrl": null,
+          "error": "",
+          "lastFrame": null,
+          "promptOverride": null,
+          "omniEndFrameMode": "none",
+          "durationSeconds": 8,
+          "artifactId": "db018421-9b16-47ac-b0dd-89596276c494",
+          "rawVideoBase64": null,
+          "interactionId": "v1_ChdGMVRpYXRqRURJN1RfUFVQMk9pX2lBNBIXRjFUaWF0akVESTdUX1BVUDJPaV9pQTQ"
+        },
+        {
+          "id": "clip-1793216660827-1",
+          "index": 1,
+          "scriptPortion": "BERTO: \"They call upon other heroes when an alien armada attacks.\"",
+          "visualDescription": "Berto strides purposefully toward the viewer across the dimly lit corporate floor, cool blue and amber server glow catching his salt-and-pepper beard as his cape billows behind him (without Frantic Manager / Team Member). He speaks with unwavering cinematic authority directly into the lens, closing the distance as the camera tightens on his heroic expression.",
           "cameraDirection": "medium wide shot, slow dolly in",
           "shotType": "",
           "cameraMove": "",
           "state": "done",
-          "elapsed": 189,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
-          "artifactId": "20b54da0-0f6c-41ee-b83d-6c710a39f895",
-          "rawVideoBase64": null,
-          "interactionId": "v1_ChdiX2pnYXIyUU5NT21qckVQMVkycThBTRIXYl9qZ2FyMlFOTU9tanJFUDFZMnE4QU0"
-        },
-        {
-          "id": "clip-1793128493938-1",
-          "index": 1,
-          "scriptPortion": "BERTO: \"Let's pinpoint the issues using BertoApp.\"",
-          "visualDescription": "From behind the workstation, a futuristic glowing cyan HUD overlay beams directly from the eyes of Berto onto the dual monitors, converting frozen red heatmaps into green operational metrics across the BertoApp Analyze Dashboard. Berto watches the scanning performance scores with confident poise while Frantic Manager / Team Member stares upward at the resolved data in stunned disbelief under the crisp office lighting.",
-          "cameraDirection": "two-shot, camera arcs right",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "done",
           "elapsed": 0,
           "opName": null,
           "videoSrc": null,
@@ -2480,59 +2481,14 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "artifactId": "d121be01-4ab8-449b-a33e-dc17e8cd7d78",
+          "artifactId": "a0c89ba7-88fa-4f2c-9383-6447c9e11bb4",
           "rawVideoBase64": null
         },
         {
-          "id": "clip-1793128493938-2",
+          "id": "clip-1793216660827-2",
           "index": 2,
-          "scriptPortion": "BERTO: \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity.\"",
-          "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
-          "cameraDirection": "medium close-up, slow zoom in",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "done",
-          "elapsed": 205,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
-          "rawVideoBase64": null,
-          "interactionId": "v1_ChdPalBoYXN5RkpialJqckVQeFplMTZBTRIXT2pQaGFzeUZKYmpSanJFUHhaZTE2QU0",
-          "artifactId": "039172d6-8c22-4e8d-8f2c-5e79fdfb82c3",
-          "dialogDelayMs": 0
-        },
-        {
-          "id": "clip-1793198252884-3",
-          "index": 3,
-          "scriptPortion": "BERTO: \"While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp.\"",
-          "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
-          "cameraDirection": "medium shot, subtle camera movement",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "idle",
-          "elapsed": 0,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
-          "rawVideoBase64": null
-        },
-        {
-          "id": "clip-1793198252884-4",
-          "index": 4,
-          "scriptPortion": "BERTO: \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
-          "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
+          "scriptPortion": "BERTO: \"But when your operations are spiraling out of control and nobody knows why? They call Berto.\"",
+          "visualDescription": "Berto strides purposefully toward the viewer across the dimly lit corporate floor, cool blue and amber server glow catching his salt-and-pepper beard as his cape billows behind him (without Frantic Manager / Team Member). He speaks with unwavering cinematic authority directly into the lens, closing the distance as the camera tightens on his heroic expression.",
           "cameraDirection": "medium close-up, slow dolly in",
           "shotType": "",
           "cameraMove": "",
