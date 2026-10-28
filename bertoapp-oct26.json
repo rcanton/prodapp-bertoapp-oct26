@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-28T13:51:41.995Z",
+  "exportedAt": "2026-10-28T15:44:05.042Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -35,9 +35,14 @@
                   "scriptPortion": ""
                 },
                 {
-                  "scriptPortion": "BERTO: They call upon other heroes when an alien armada attacks. But when your operations are spiraling out of control and nobody knows why? They call Berto.",
+                  "scriptPortion": "BERTO: \"They call upon other heroes when an alien armada attacks.\"",
                   "visualDescription": "Berto strides purposefully toward the viewer across the dimly lit corporate floor, cool blue and amber server glow catching his salt-and-pepper beard as his cape billows behind him (without Frantic Manager / Team Member). He speaks with unwavering cinematic authority directly into the lens, closing the distance as the camera tightens on his heroic expression.",
                   "cameraDirection": "medium wide shot, slow dolly in"
+                },
+                {
+                  "scriptPortion": "BERTO: \"But when your operations are spiraling out of control and nobody knows why? They call Berto.\"",
+                  "visualDescription": "Berto strides purposefully toward the viewer across the dimly lit corporate floor, cool blue and amber server glow catching his salt-and-pepper beard as his cape billows behind him (without Frantic Manager / Team Member). He speaks with unwavering cinematic authority directly into the lens, closing the distance as the camera tightens on his heroic expression.",
+                  "cameraDirection": "medium close-up, slow dolly in"
                 }
               ]
             }
@@ -63,9 +68,19 @@
                   "cameraDirection": "two-shot, camera arcs right"
                 },
                 {
-                  "scriptPortion": "BERTO: \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity. While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp. It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+                  "scriptPortion": "BERTO: \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity.\"",
                   "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
                   "cameraDirection": "medium close-up, slow zoom in"
+                },
+                {
+                  "scriptPortion": "BERTO: \"While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp.\"",
+                  "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
+                  "cameraDirection": "medium shot, subtle camera movement"
+                },
+                {
+                  "scriptPortion": "BERTO: \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+                  "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
+                  "cameraDirection": "medium close-up, slow dolly in"
                 }
               ]
             }
@@ -86,8 +101,13 @@
                   "cameraDirection": "medium wide shot, slow dolly in"
                 },
                 {
-                  "scriptPortion": "BERTO: See that? You thought it was a market crash. BertoApp’s Analyze proved it was just Bob from accounting re-routing the workflow to avoid Monday morning meetings. Crisis averted.",
+                  "scriptPortion": "BERTO: \"See that? You thought it was a market crash.\"",
                   "cameraDirection": "two-shot, static camera"
+                },
+                {
+                  "scriptPortion": "BERTO: \"BertoApp’s Analyze proved it was just Bob from accounting re-routing the workflow to avoid Monday morning meetings. Crisis averted.\"",
+                  "cameraDirection": "medium close-up, slow dolly in",
+                  "visualDescription": "BERTO continues speaking with composed intensity."
                 }
               ]
             }
@@ -103,14 +123,19 @@
               "rationale": "The scene is partitioned at the natural comedic beat into two 8-second clips, assigning Clip 1 to Berto's dynamic entrance, floating UI reveal, and 29-word pitch (2.5s stride + 5.5s speech = 8s), and Clip 2 to his pause, glance toward the highlighted fridge, and 20-word empanada punchline (2.5s pause/glance + 5.5s delivery = 8s).",
               "clips": [
                 {
-                  "scriptPortion": "BERTO: You don't need superhuman genetics to dominate your market. You just need the intelligence to see the full picture. Stop guessing your numbers. Unleash the power of Analyze with BertoApp.",
+                  "scriptPortion": "BERTO: \"You don't need superhuman genetics to dominate your market. You just need the intelligence to see the full picture.\"",
                   "visualDescription": "Berto strides into the center of the ultra-modern studio across glossy epoxy flooring as glowing 3D holographic UI charts and trend predictions float around him. Taking a heroic stance under balanced studio key lighting, Berto points directly into the camera lens with a charismatic grin.",
                   "cameraDirection": "wide shot, slow dolly in"
                 },
                 {
-                  "scriptPortion": "BERTO: Now if you’ll excuse me… my analysis just detected that someone stole my empanada from the fridge… and justice is coming.",
+                  "scriptPortion": "BERTO: \"\"Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"\nBERTO: \"Now if you’ll excuse me… my analysis just detected\"",
                   "visualDescription": "Berto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.",
                   "cameraDirection": "medium shot, static camera"
+                },
+                {
+                  "scriptPortion": "BERTO: \"that someone stole my empanada from the fridge… and justice is coming.\"",
+                  "visualDescription": "Berto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.",
+                  "cameraDirection": "medium close-up, slow dolly in"
                 }
               ]
             }
@@ -1976,10 +2001,10 @@
         "updatedAt": 1793071990989
       },
       "frame:7536f32f-4460-42a4-9e5d-fa90e4cbe1e5": {
-        "status": "draft",
+        "status": "locked",
         "version": 4,
         "stage": "06-master-frames",
-        "updatedAt": 1793070389552
+        "updatedAt": 1793198303376
       },
       "frame:48c19cb3-b813-4b46-9fa6-01af8941bb28": {
         "status": "locked",
@@ -2107,6 +2132,20 @@
       }
     ],
     "prodapp_frames": [
+      {
+        "kind": "main",
+        "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
+        "sceneName": "Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY",
+        "clipIndex": 2,
+        "aspectRatio": "9:16",
+        "imageUrl": "idb-img:frame:910abfff-1f74-445e-94ea-14d46e0acf86:imageUrl:85593e18c4ae9f73b17a1ae9",
+        "prompt": "MAIN FRAME — the definitive vertical 9:16 keyframe for Clip 3 of scene \"Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY\".\n\nRender a single continuous cinematic 9:16 still frame inside the CANONICAL MASTER FRAME & CINEMATIC GROUND TRUTH environment reference image. Preserve the environment's exact room architecture, wall materials, colors, lighting fixtures, windows, monitors, furniture, props, lighting direction, and color grade without alteration. Output ONE full-bleed vertical 9:16 photograph — NEVER output a collage, grid, split-screen, or multiple panels.\n\nTime of day: Day. Mood: Panicked, dramatic, comedic\n\nCAMERA SHOT: medium close-up, slow dolly in — framed from the front so the character faces toward the camera (clear front or 3/4-front view).\n\nACTION IN THIS 9:16 FRAME (single frozen moment): Berto strides purposefully toward the viewer across the dimly lit corporate floor, cool blue and amber server glow catching his salt-and-pepper beard as his cape billows behind him (without Frantic Manager). He speaks with unwavering cinematic authority directly into the lens, closing the distance as the camera tightens on his heroic expression. (Stage this moment with Berto facing toward the camera in a clear front or 3/4-front view so their entire face is unobstructed; never cover a face with hands or props and never shoot from behind).\n\nMANDATORY 100% IMAGE-REFERENCE CHARACTER LOCK (1 character):\nThe following designated character(s) MUST appear in this 9:16 frame with clear front or 3/4-front facial visibility: Berto. Do NOT invent extra people and do NOT generate generic AI actors from text descriptions. Specifically, do NOT include or show Frantic Manager — they are not in this shot.\nEach character's physical appearance and clothing are defined EXCLUSIVELY by their attached reference images (\"PRIMARY GROUND TRUTH FACIAL IDENTITY of [Name]\" and \"WARDROBE & COSTUME REFERENCE for [Name]\"). Place those exact people directly into the scene, preserving 100% of their real face, hairline, hair, facial hair, skin tone, age, and wardrobe.\nIgnore the background of the character reference images and illuminate the character(s) naturally inside the room.\nCAMERA BLOCKING & FRONTAL FACE VISIBILITY RULE (CRITICAL):\n- Stage every designated character (Berto) in the FOREGROUND to NEAR-MIDGROUND (vertical 9:16 medium or medium-close-up framing, waist-up or chest-up) so every face is large, sharp, and unmistakable in the 9:16 frame. NEVER push a designated character into the far background as a tiny figure.\n- Every designated character MUST face TOWARD the camera (clear front view or 3/4-front view, never turned away showing only the back of their head or hidden behind hands) with their entire face, eyes, nose, mouth, hairline, and facial hair 100% visible and unobstructed.\n- STRICTLY FORBIDDEN: NEVER render any character from behind, NEVER show the back of a character's head (no rear views or over-the-shoulder back views), and NEVER cover a character's face or head with their hands, arms, or props. Position characters in front of the desk/monitors facing the camera so the viewer clearly sees their facial expression and exact actor likeness.\nDesignated Characters in this Main Frame:\n1. CHARACTER #1 (\"Berto\") — Render the EXACT person shown in the attached reference image(s) for \"Berto\" (\"PRIMARY GROUND TRUTH FACIAL IDENTITY for Berto\" for 100% of their face, hairline, hair, beard/mustache, skin tone, and age, and \"WARDROBE & COSTUME REFERENCE for Berto\" for their clothing garments, colors, cape, jacket, and accessories). CAMERA ANGLE FOR BERTO: Berto's face MUST be turned toward the camera (clear front view or 3/4-front view) and 100% visible — NEVER show Berto from behind or cover their face. Wardrobe continuity: keep Berto in the exact same clothing garments, colors, and materials shown in the reference image. Do not re-dress or restyle them.\n\nStrictly period-accurate to the era of the environment — no anachronistic vehicles, buildings, signage, or technology.\n\nComposition: a cinematic vertical 9:16 shot inside the canonical room with all designated character(s) positioned in the foreground/midground facing toward the camera (front or 3/4-front view), identical room lighting and color grade, 35mm photorealistic cinema still, razor-sharp facial fidelity.",
+        "wardrobeByCharacter": {
+          "1792607186622": null
+        },
+        "id": "910abfff-1f74-445e-94ea-14d46e0acf86",
+        "createdAt": 1793198303303
+      },
       {
         "kind": "main",
         "scriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
@@ -2295,7 +2334,7 @@
     ],
     "prodapp_videos_uistate": {
       "audioTimingVersion": 2,
-      "promptFormatVersion": 5,
+      "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
       "selectedSceneName": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
       "selectedStagingId": null,
@@ -2305,7 +2344,7 @@
       ],
       "castSelectionExplicit": true,
       "costumeChoices": {},
-      "numClips": 3,
+      "numClips": 5,
       "hasExplicitClips": true,
       "clips": [
         {
@@ -2356,7 +2395,7 @@
         {
           "id": "clip-1793128493938-2",
           "index": 2,
-          "scriptPortion": "BERTO: \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity. While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp. It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+          "scriptPortion": "BERTO: \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity.\"",
           "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
           "cameraDirection": "medium close-up, slow zoom in",
           "shotType": "",
@@ -2376,6 +2415,48 @@
           "interactionId": "v1_ChdPalBoYXN5RkpialJqckVQeFplMTZBTRIXT2pQaGFzeUZKYmpSanJFUHhaZTE2QU0",
           "artifactId": "039172d6-8c22-4e8d-8f2c-5e79fdfb82c3",
           "dialogDelayMs": 0
+        },
+        {
+          "id": "clip-1793198252884-3",
+          "index": 3,
+          "scriptPortion": "BERTO: \"While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp.\"",
+          "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
+          "cameraDirection": "medium shot, subtle camera movement",
+          "shotType": "",
+          "cameraMove": "",
+          "state": "idle",
+          "elapsed": 0,
+          "opName": null,
+          "videoSrc": null,
+          "videoMime": "video/mp4",
+          "blobUrl": null,
+          "error": "",
+          "lastFrame": null,
+          "promptOverride": null,
+          "omniEndFrameMode": "none",
+          "durationSeconds": 8,
+          "rawVideoBase64": null
+        },
+        {
+          "id": "clip-1793198252884-4",
+          "index": 4,
+          "scriptPortion": "BERTO: \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+          "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
+          "cameraDirection": "medium close-up, slow dolly in",
+          "shotType": "",
+          "cameraMove": "",
+          "state": "idle",
+          "elapsed": 0,
+          "opName": null,
+          "videoSrc": null,
+          "videoMime": "video/mp4",
+          "blobUrl": null,
+          "error": "",
+          "lastFrame": null,
+          "promptOverride": null,
+          "omniEndFrameMode": "none",
+          "durationSeconds": 8,
+          "rawVideoBase64": null
         }
       ]
     },
