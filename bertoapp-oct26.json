@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T16:09:00.360Z",
+  "exportedAt": "2026-10-29T17:11:35.854Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -2452,10 +2452,10 @@
         "updatedAt": 1792607136941
       },
       "character:1792607215570": {
-        "status": "locked",
-        "version": 1,
+        "status": "draft",
+        "version": 2,
         "stage": "02-characters",
-        "updatedAt": 1792607369201
+        "updatedAt": 1793291270811
       },
       "character:1792607186622": {
         "status": "locked",
@@ -2991,7 +2991,7 @@
       "audioTimingVersion": 2,
       "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": "Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY",
+      "selectedSceneName": null,
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -2999,41 +2999,40 @@
       ],
       "castSelectionExplicit": true,
       "costumeChoices": {},
-      "numClips": 3,
+      "numClips": 2,
       "hasExplicitClips": true,
       "clips": [
         {
-          "id": "clip-1793287036376-0",
+          "id": "clip-1793291416558-0",
           "index": 0,
           "scriptPortion": "",
-          "visualDescription": "At an ergonomic desk in the sunlit corridor outside the glass war room, Berto calmly rotates a computer monitor to display a clean dashboard card reading 'Root Cause Identified: Inefficient Process in Sector B'. Seated across from him, Frantic Manager / Team Member stares at the screen as his flushed face relaxes in shock and his jaw slowly drops in disbelief under the soft overhead lighting.",
+          "visualDescription": "In the lower foreground, Frantic Manager / Team Member clutches his thinning hair in sweat-drenched panic as red error diagnostics flicker across his workstation and overhead office lights suddenly dim. Looming directly behind him in sharp focus, Berto stands impassive and heroic with arms crossed and his cape fluttering gently in a mysterious draft, cool blue server lights catching his salt-and-pepper beard.",
+          "cameraDirection": "close-up, slow dolly in",
+          "shotType": "",
+          "cameraMove": "",
+          "state": "done",
+          "elapsed": 0,
+          "opName": null,
+          "videoSrc": null,
+          "videoMime": "video/mp4",
+          "blobUrl": null,
+          "error": "",
+          "lastFrame": null,
+          "promptOverride": null,
+          "omniEndFrameMode": "none",
+          "durationSeconds": 8,
+          "artifactId": "db018421-9b16-47ac-b0dd-89596276c494",
+          "rawVideoBase64": null
+        },
+        {
+          "id": "clip-1793291416558-1",
+          "index": 1,
+          "scriptPortion": "BERTO: \"They call other heroes when aliens attack. But if operations are spiraling out of control and nobody knows why? They call Berto.\"",
+          "visualDescription": "Berto strides purposefully toward the viewer across the dimly lit corporate floor, cool blue and amber server glow catching his salt-and-pepper beard as his cape billows behind him (without Frantic Manager / Team Member). He speaks with unwavering cinematic authority directly into the lens, closing the distance as the camera tightens on his heroic expression.",
           "cameraDirection": "medium wide shot, slow dolly in",
           "shotType": "",
           "cameraMove": "",
           "state": "done",
-          "elapsed": 206,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
-          "artifactId": "097b555c-0adc-41f8-877c-90790aba1ea8",
-          "rawVideoBase64": null,
-          "interactionId": "v1_ChdrR1BqYXUtcko3S2JfdU1QOHBXb3FBVRIXa0dQamF1LXJKN0tiX3VNUDhwV29xQVU"
-        },
-        {
-          "id": "clip-1793287036376-1",
-          "index": 1,
-          "scriptPortion": "BERTO: \"See that? You thought it was a market crash.\"",
-          "visualDescription": "",
-          "cameraDirection": "two-shot, static camera",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "idle",
           "elapsed": 0,
           "opName": null,
           "videoSrc": null,
@@ -3044,27 +3043,7 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "rawVideoBase64": null
-        },
-        {
-          "id": "clip-1793287036376-2",
-          "index": 2,
-          "scriptPortion": "BERTO: \"BertoApp’s Analyze proved it was just Bob from accounting re-routing the workflow to avoid Monday morning meetings. Crisis averted.\"",
-          "visualDescription": "BERTO continues speaking with composed intensity.",
-          "cameraDirection": "medium close-up, slow dolly in",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "idle",
-          "elapsed": 0,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
+          "artifactId": "5e39b86f-1442-418a-ad1f-a2054a0448aa",
           "rawVideoBase64": null
         }
       ]
