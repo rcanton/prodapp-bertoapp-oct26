@@ -1,10 +1,118 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T14:20:38.446Z",
+  "exportedAt": "2026-10-29T14:58:03.887Z",
   "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
   "projectName": "BertoApp-October",
-  "count": 223,
+  "count": 235,
   "events": [
+    {
+      "ts": "2026-10-29T14:56:37.197Z",
+      "detail": "{\"key\":\"frame:19d0b765-7725-4b68-9aea-759043865354\",\"stage\":\"07-main-frames\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "type": "approval",
+      "action": "locked",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October"
+    },
+    {
+      "type": "approval",
+      "action": "approved",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October",
+      "detail": "{\"key\":\"video:4ccc5214-fe24-4132-aaab-1075ece2d87b\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "ts": "2026-10-29T14:53:08.887Z"
+    },
+    {
+      "action": "locked",
+      "type": "approval",
+      "ts": "2026-10-29T14:51:09.236Z",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "projectName": "BertoApp-October",
+      "detail": "{\"key\":\"frame:c6901fc8-2aeb-42c1-b9c0-01a5eb61ae1e\",\"stage\":\"07-main-frames\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}"
+    },
+    {
+      "ts": "2026-10-29T14:47:37.630Z",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "projectName": "BertoApp-October",
+      "action": "approved",
+      "email": "admin@robertocanton.altostrat.com",
+      "type": "approval",
+      "detail": "{\"key\":\"video:17f26925-f179-445e-a486-c50a31bf3c34\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}"
+    },
+    {
+      "projectName": "BertoApp-October",
+      "action": "locked",
+      "type": "approval",
+      "ts": "2026-10-29T14:45:06.692Z",
+      "detail": "{\"key\":\"frame:e4bf3e08-f80d-407d-aa2e-2c5b23f9849d\",\"stage\":\"07-main-frames\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "email": "admin@robertocanton.altostrat.com"
+    },
+    {
+      "ts": "2026-10-29T14:41:13.776Z",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"video:e2cab106-91c8-43ab-9291-ff82b0f5a0fc\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}",
+      "type": "approval",
+      "projectName": "BertoApp-October",
+      "action": "approved"
+    },
+    {
+      "projectName": "BertoApp-October",
+      "detail": "{\"key\":\"video:d6ccc01c-9114-4e71-a578-6d6f1bc48295\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}",
+      "ts": "2026-10-29T14:41:09.892Z",
+      "email": "admin@robertocanton.altostrat.com",
+      "action": "approved",
+      "type": "approval",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+    },
+    {
+      "detail": "{\"key\":\"shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 2 — SCENE 2: THE POWER OF THE \\\"ANALYZE\\\" VISION - INT. THE WAR ROOM – DAY\",\"stage\":\"05-shotlist\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "action": "locked",
+      "type": "approval",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "ts": "2026-10-29T14:39:10.447Z",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October"
+    },
+    {
+      "action": "approved",
+      "projectName": "BertoApp-October",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY\",\"stage\":\"05-shotlist\",\"from\":\"draft\",\"to\":\"approved\",\"version\":3}",
+      "ts": "2026-10-29T14:35:37.652Z",
+      "email": "admin@robertocanton.altostrat.com",
+      "type": "approval"
+    },
+    {
+      "type": "approval",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October",
+      "detail": "{\"key\":\"shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 2 — SCENE 2: THE POWER OF THE \\\"ANALYZE\\\" VISION - INT. THE WAR ROOM – DAY\",\"stage\":\"05-shotlist\",\"from\":\"draft\",\"to\":\"approved\",\"version\":2}",
+      "ts": "2026-10-29T14:35:18.569Z",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "action": "approved"
+    },
+    {
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "type": "edit",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October",
+      "action": "Shotlist: updated 1",
+      "ts": "2026-10-29T14:35:13.459Z",
+      "detail": "{\"key\":\"prodapp_scripts\",\"created\":[],\"updated\":[\"1db40e4f-dff5-40c0-8dce-d3eb8e6392a7\"],\"deleted\":[]}"
+    },
+    {
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "type": "new_version",
+      "email": "admin@robertocanton.altostrat.com",
+      "ts": "2026-10-29T14:34:51.633Z",
+      "detail": "{\"key\":\"shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 2 — SCENE 2: THE POWER OF THE \\\"ANALYZE\\\" VISION - INT. THE WAR ROOM – DAY\",\"stage\":\"05-shotlist\",\"version\":2}",
+      "action": "v2",
+      "projectName": "BertoApp-October"
+    },
     {
       "ts": "2026-10-29T14:15:15.535Z",
       "email": "admin@robertocanton.altostrat.com",
