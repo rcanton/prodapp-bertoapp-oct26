@@ -1,10 +1,100 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T20:11:41.813Z",
+  "exportedAt": "2026-10-29T20:42:42.665Z",
   "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
   "projectName": "BertoApp-October",
-  "count": 246,
+  "count": 256,
   "events": [
+    {
+      "detail": "{\"key\":\"video:4dd4cf2b-c0a7-4c44-9bc7-e5bad3b321d7\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}",
+      "type": "approval",
+      "ts": "2026-10-29T20:40:21.598Z",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "projectName": "BertoApp-October",
+      "action": "approved",
+      "email": "admin@robertocanton.altostrat.com"
+    },
+    {
+      "email": "admin@robertocanton.altostrat.com",
+      "type": "approval",
+      "ts": "2026-10-29T20:39:28.571Z",
+      "projectName": "BertoApp-October",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"frame:93da1fb6-abb3-46b8-a067-81db9531bfd8\",\"stage\":\"07-main-frames\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "action": "locked"
+    },
+    {
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "ts": "2026-10-29T20:36:35.753Z",
+      "type": "approval",
+      "projectName": "BertoApp-October",
+      "action": "approved",
+      "detail": "{\"key\":\"video:aac3b659-5759-4f2a-8b82-a296e6e3c7dc\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}",
+      "email": "admin@robertocanton.altostrat.com"
+    },
+    {
+      "projectName": "BertoApp-October",
+      "type": "approval",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "action": "locked",
+      "email": "admin@robertocanton.altostrat.com",
+      "detail": "{\"key\":\"frame:eed03df1-888e-4638-b826-b7cf9aa44dcf\",\"stage\":\"07-main-frames\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "ts": "2026-10-29T20:30:10.956Z"
+    },
+    {
+      "ts": "2026-10-29T20:26:47.306Z",
+      "action": "approved",
+      "type": "approval",
+      "projectName": "BertoApp-October",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"video:c280e8c9-d7e1-48be-88f9-a43f054d93c1\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}"
+    },
+    {
+      "detail": "{\"key\":\"shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY\",\"stage\":\"05-shotlist\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "ts": "2026-10-29T20:18:29.262Z",
+      "type": "approval",
+      "action": "locked",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+    },
+    {
+      "ts": "2026-10-29T20:12:55.208Z",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY\",\"stage\":\"05-shotlist\",\"from\":\"draft\",\"to\":\"approved\",\"version\":2}",
+      "projectName": "BertoApp-October",
+      "type": "approval",
+      "email": "admin@robertocanton.altostrat.com",
+      "action": "approved"
+    },
+    {
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "ts": "2026-10-29T20:12:48.304Z",
+      "projectName": "BertoApp-October",
+      "action": "Shotlist: updated 1",
+      "email": "admin@robertocanton.altostrat.com",
+      "detail": "{\"key\":\"prodapp_scripts\",\"created\":[],\"updated\":[\"1db40e4f-dff5-40c0-8dce-d3eb8e6392a7\"],\"deleted\":[]}",
+      "type": "edit"
+    },
+    {
+      "type": "edit",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"prodapp_scripts\",\"created\":[],\"updated\":[\"1db40e4f-dff5-40c0-8dce-d3eb8e6392a7\"],\"deleted\":[]}",
+      "action": "Shotlist: updated 1",
+      "projectName": "BertoApp-October",
+      "ts": "2026-10-29T20:12:34.105Z"
+    },
+    {
+      "ts": "2026-10-29T20:12:04.524Z",
+      "detail": "{\"key\":\"shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY\",\"stage\":\"05-shotlist\",\"version\":2}",
+      "projectName": "BertoApp-October",
+      "email": "admin@robertocanton.altostrat.com",
+      "action": "v2",
+      "type": "new_version",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+    },
     {
       "type": "approval",
       "email": "admin@robertocanton.altostrat.com",
