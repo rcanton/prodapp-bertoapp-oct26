@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T20:11:35.454Z",
+  "exportedAt": "2026-10-29T20:42:36.555Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -123,12 +123,12 @@
                   "cameraDirection": "wide shot, slow dolly in"
                 },
                 {
-                  "scriptPortion": "BERTO: \"\"Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"\nBERTO: \"Now if you’ll excuse me… my analysis just detected\"",
+                  "scriptPortion": "BERTO: \"\"Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"",
                   "visualDescription": "Berto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.",
                   "cameraDirection": "medium shot, static camera"
                 },
                 {
-                  "scriptPortion": "BERTO: \"that someone stole my empanada from the fridge… and justice is coming.\"",
+                  "scriptPortion": "BERTO: \"Now if you’ll excuse me… my analysis just detected that someone stole my empanada from the fridge… and justice is coming.\"",
                   "visualDescription": "Berto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.",
                   "cameraDirection": "medium close-up, slow dolly in"
                 }
@@ -330,6 +330,103 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 5 — SCENE 5: OUTRO & LOGO REVEAL",
+        "prompt": "MANDATORY AUDIO DIRECTION — SILENT VISUAL ACTION (NO SPOKEN DIALOGUE):\nThis is a non-speaking visual action shot. No character speaks, whispers, mouths words, lip-syncs, narrates, or vocalizes. Keep mouths naturally closed except for non-speech facial expressions. Generate cinematic ambient sound, room tone, holographic sound effects, and Foley only. Absolute zero spoken dialogue.\n\nMANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nMANDATORY EMPTY-SET REQUIREMENT:\nShow no people, characters, actors, silhouettes, reflections of people, or human figures anywhere in this clip. Treat any character names, dialogue, actions, people, or figures in the script text below as excluded visual context. The environment must remain completely unoccupied.\n\nCAMERA: medium shot, slow dolly in.\nOn the high-gloss deep navy presentation stage, the three-dimensional embossed metallic BertoApp logo gleams under focused spotlights while the crisp digital tagline projects brightly beneath it. Specular light sweeps across the polished beveled letters against dark acoustic fins as ambient edge lighting settles into a heroic corporate hold, with no characters in frame.\n\nLOCATION: OUTRO & LOGO REVEAL. A clean graphic presentation stage features a seamless high-gloss deep navy backdrop framed by dark architectural acoustic fins. Centered on the backdrop is a three-dimensional embossed metallic display panel configured for high-contrast digital projection. Crisp studio edge lights and a focused overhead spotlight illuminate the empty presentation space, creating a sleek, premium corporate look. Mood: Decisive, heroic, impactful.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Unoccupied environment shot with zero people, actors, silhouettes, or human figures in frame. Maintain the exact architecture, layout, materials, and lighting from the starting frame.\n\nSILENT VISUAL PERFORMANCE: All characters remain completely silent with mouths naturally closed and zero lip movement, speaking, whispering, or vocalizing.\n\nAudio: Ambient room tone, foley, and sound effects only. No spoken dialogue or vocalizations.",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 1,
+          "voiceCast": "",
+          "voiceTracks": [],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/4dd4cf2b-c0a7-4c44-9bc7-e5bad3b321d7.mp4"
+        },
+        "id": "4dd4cf2b-c0a7-4c44-9bc7-e5bad3b321d7",
+        "timestamp": 1793306366634
+      },
+      {
+        "type": "video",
+        "name": "Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY — Clip 3",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium close-up, slow dolly in.\nBerto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.\n\nLOCATION: MODERN SLEEK STUDIO — Day. An ultra-modern, high-key studio space boasts seamless white cyclorama walls, glossy epoxy flooring, and minimalist architectural lines. Floating digital display fixtures and translucent acrylic pedestals are positioned around the open floor, while an open-concept breakroom kitchenette with a stainless-steel refrigerator is visible in the background. The set is flooded with balanced, bright studio key lighting and soft daylight fill that accentuates the pristine aesthetic. Mood: Empowering, upbeat, witty.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; Frantic Manager must remain completely silent with mouth naturally closed and must NEVER speak, mouth words, or lip-sync Berto's dialogue. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"Now if you’ll excuse me… my analysis just detected that someone stole my empanada from the fridge… and justice is coming.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 3,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/aac3b659-5759-4f2a-8b82-a296e6e3c7dc.mp4"
+        },
+        "id": "aac3b659-5759-4f2a-8b82-a296e6e3c7dc",
+        "timestamp": 1793305778242
+      },
+      {
+        "type": "video",
+        "name": "Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium shot, static camera.\nBerto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.\n\nLOCATION: MODERN SLEEK STUDIO — Day. An ultra-modern, high-key studio space boasts seamless white cyclorama walls, glossy epoxy flooring, and minimalist architectural lines. Floating digital display fixtures and translucent acrylic pedestals are positioned around the open floor, while an open-concept breakroom kitchenette with a stainless-steel refrigerator is visible in the background. The set is flooded with balanced, bright studio key lighting and soft daylight fill that accentuates the pristine aesthetic. Mood: Empowering, upbeat, witty.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; Frantic Manager must remain completely silent with mouth naturally closed and must NEVER speak, mouth words, or lip-sync Berto's dialogue. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/c280e8c9-d7e1-48be-88f9-a43f054d93c1.mp4"
+        },
+        "id": "c280e8c9-d7e1-48be-88f9-a43f054d93c1",
+        "timestamp": 1793305392170
+      },
+      {
+        "type": "video",
+        "name": "Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium shot, static camera.\nBerto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.\n\nLOCATION: MODERN SLEEK STUDIO — Day. An ultra-modern, high-key studio space boasts seamless white cyclorama walls, glossy epoxy flooring, and minimalist architectural lines. Floating digital display fixtures and translucent acrylic pedestals are positioned around the open floor, while an open-concept breakroom kitchenette with a stainless-steel refrigerator is visible in the background. The set is flooded with balanced, bright studio key lighting and soft daylight fill that accentuates the pristine aesthetic. Mood: Empowering, upbeat, witty.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; Frantic Manager must remain completely silent with mouth naturally closed and must NEVER speak, mouth words, or lip-sync Berto's dialogue. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/ffeba772-9485-4124-8265-407c26d182d4.mp4"
+        },
+        "id": "ffeba772-9485-4124-8265-407c26d182d4",
+        "timestamp": 1793305104008
+      },
       {
         "type": "video",
         "name": "Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY — Clip 2",
@@ -2659,9 +2756,9 @@
       },
       "shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY": {
         "status": "locked",
-        "version": 1,
+        "version": 2,
         "stage": "05-shotlist",
-        "updatedAt": 1792612128260
+        "updatedAt": 1793305109239
       },
       "shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 5 — SCENE 5: OUTRO & LOGO REVEAL": {
         "status": "locked",
@@ -2736,10 +2833,10 @@
         "updatedAt": 1793216465749
       },
       "frame:93da1fb6-abb3-46b8-a067-81db9531bfd8": {
-        "status": "approved",
+        "status": "locked",
         "version": 2,
         "stage": "07-main-frames",
-        "updatedAt": 1793216468465
+        "updatedAt": 1793306368544
       },
       "frame:910abfff-1f74-445e-94ea-14d46e0acf86": {
         "status": "locked",
@@ -2760,10 +2857,10 @@
         "updatedAt": 1793285797172
       },
       "frame:eed03df1-888e-4638-b826-b7cf9aa44dcf": {
-        "status": "approved",
+        "status": "locked",
         "version": 1,
         "stage": "07-main-frames",
-        "updatedAt": 1793211116807
+        "updatedAt": 1793305810925
       },
       "frame:db85c039-1bb1-40dd-814b-ba6b143cbb2f": {
         "status": "locked",
@@ -2836,6 +2933,24 @@
         "version": 1,
         "stage": "08-animation",
         "updatedAt": 1793302243193
+      },
+      "video:c280e8c9-d7e1-48be-88f9-a43f054d93c1": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793305607276
+      },
+      "video:aac3b659-5759-4f2a-8b82-a296e6e3c7dc": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793306195724
+      },
+      "video:4dd4cf2b-c0a7-4c44-9bc7-e5bad3b321d7": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793306421567
       }
     },
     "prodapp_research": [
@@ -3107,7 +3222,7 @@
       "audioTimingVersion": 2,
       "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": "Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY",
+      "selectedSceneName": "Scene 5 — SCENE 5: OUTRO & LOGO REVEAL",
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -3115,19 +3230,19 @@
       ],
       "castSelectionExplicit": true,
       "costumeChoices": {},
-      "numClips": 3,
+      "numClips": 1,
       "hasExplicitClips": true,
       "clips": [
         {
-          "id": "clip-1793300986574-0",
+          "id": "clip-1793306197396-0",
           "index": 0,
-          "scriptPortion": "BERTO: \"You don't need superhuman genetics to dominate your market. You just need the intelligence to see the full picture.\"",
-          "visualDescription": "Berto strides into the center of the ultra-modern studio across glossy epoxy flooring as glowing 3D holographic UI charts and trend predictions float around him. Taking a heroic stance under balanced studio key lighting, Berto points directly into the camera lens with a charismatic grin.",
-          "cameraDirection": "wide shot, slow dolly in",
+          "scriptPortion": "Turn Data Into Superpowers. Try BertoApp Analyze Today.",
+          "visualDescription": "On the high-gloss deep navy presentation stage, the three-dimensional embossed metallic BertoApp logo gleams under focused spotlights while the crisp digital tagline projects brightly beneath it. Specular light sweeps across the polished beveled letters against dark acoustic fins as ambient edge lighting settles into a heroic corporate hold, with no characters in frame.",
+          "cameraDirection": "medium shot, slow dolly in",
           "shotType": "",
           "cameraMove": "",
           "state": "done",
-          "elapsed": 200,
+          "elapsed": 161,
           "opName": null,
           "videoSrc": null,
           "videoMime": "video/mp4",
@@ -3137,52 +3252,9 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "artifactId": "1e3357bb-e139-41db-acaa-ece4043c1464",
-          "dialogDelayMs": 1084,
+          "artifactId": "4dd4cf2b-c0a7-4c44-9bc7-e5bad3b321d7",
           "rawVideoBase64": null,
-          "interactionId": "v1_ChdDSnJqYXBxd0N2NjczOUlQa2ZLUy1BWRIXQ0pyamFwcXdDdjY3MzlJUGtmS1MtQVk"
-        },
-        {
-          "id": "clip-1793300986574-1",
-          "index": 1,
-          "scriptPortion": "BERTO: \"\"Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"\nBERTO: \"Now if you’ll excuse me… my analysis just detected\"",
-          "visualDescription": "Berto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.",
-          "cameraDirection": "medium shot, static camera",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "idle",
-          "elapsed": 0,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
-          "rawVideoBase64": null
-        },
-        {
-          "id": "clip-1793300986574-2",
-          "index": 2,
-          "scriptPortion": "BERTO: \"that someone stole my empanada from the fridge… and justice is coming.\"",
-          "visualDescription": "Berto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.",
-          "cameraDirection": "medium close-up, slow dolly in",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "idle",
-          "elapsed": 0,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
-          "rawVideoBase64": null
+          "interactionId": "v1_ChdYYTdqYXVfQkM5ZVpqckVQbFpPTnVBcxIXWGE3amF1X0JDOWVaanJFUGxaT051QXM"
         }
       ]
     },
