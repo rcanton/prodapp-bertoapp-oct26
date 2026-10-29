@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T20:42:36.555Z",
+  "exportedAt": "2026-10-29T21:36:50.784Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -3222,7 +3222,7 @@
       "audioTimingVersion": 2,
       "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": "Scene 5 — SCENE 5: OUTRO & LOGO REVEAL",
+      "selectedSceneName": "Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY",
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -3230,19 +3230,19 @@
       ],
       "castSelectionExplicit": true,
       "costumeChoices": {},
-      "numClips": 1,
+      "numClips": 3,
       "hasExplicitClips": true,
       "clips": [
         {
-          "id": "clip-1793306197396-0",
+          "id": "clip-1793309503760-0",
           "index": 0,
-          "scriptPortion": "Turn Data Into Superpowers. Try BertoApp Analyze Today.",
-          "visualDescription": "On the high-gloss deep navy presentation stage, the three-dimensional embossed metallic BertoApp logo gleams under focused spotlights while the crisp digital tagline projects brightly beneath it. Specular light sweeps across the polished beveled letters against dark acoustic fins as ambient edge lighting settles into a heroic corporate hold, with no characters in frame.",
-          "cameraDirection": "medium shot, slow dolly in",
+          "scriptPortion": "BERTO: \"You don't need superhuman genetics to dominate your market. You just need the intelligence to see the full picture.\"",
+          "visualDescription": "Berto strides into the center of the ultra-modern studio across glossy epoxy flooring as glowing 3D holographic UI charts and trend predictions float around him. Taking a heroic stance under balanced studio key lighting, Berto points directly into the camera lens with a charismatic grin.",
+          "cameraDirection": "wide shot, slow dolly in",
           "shotType": "",
           "cameraMove": "",
           "state": "done",
-          "elapsed": 161,
+          "elapsed": 0,
           "opName": null,
           "videoSrc": null,
           "videoMime": "video/mp4",
@@ -3252,9 +3252,52 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "artifactId": "4dd4cf2b-c0a7-4c44-9bc7-e5bad3b321d7",
-          "rawVideoBase64": null,
-          "interactionId": "v1_ChdYYTdqYXVfQkM5ZVpqckVQbFpPTnVBcxIXWGE3amF1X0JDOWVaanJFUGxaT051QXM"
+          "artifactId": "4bc5886c-3a06-4054-93e9-653a5a8d43bd",
+          "rawVideoBase64": null
+        },
+        {
+          "id": "clip-1793309503760-1",
+          "index": 1,
+          "scriptPortion": "BERTO: \"\"Stop guessing your numbers. Unleash the power of Analyze with BertoApp.\"",
+          "visualDescription": "Berto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.",
+          "cameraDirection": "medium shot, static camera",
+          "shotType": "",
+          "cameraMove": "",
+          "state": "done",
+          "elapsed": 0,
+          "opName": null,
+          "videoSrc": null,
+          "videoMime": "video/mp4",
+          "blobUrl": null,
+          "error": "",
+          "lastFrame": null,
+          "promptOverride": null,
+          "omniEndFrameMode": "none",
+          "durationSeconds": 8,
+          "artifactId": "c280e8c9-d7e1-48be-88f9-a43f054d93c1",
+          "rawVideoBase64": null
+        },
+        {
+          "id": "clip-1793309503760-2",
+          "index": 2,
+          "scriptPortion": "BERTO: \"Now if you’ll excuse me… my analysis just detected that someone stole my empanada from the fridge… and justice is coming.\"",
+          "visualDescription": "Berto holds his pose before casting a sharp sideways glance toward the open-concept kitchenette, where a glowing red highlight box tracks a labeled lunch container inside the stainless-steel refrigerator. Under soft daylight fill, Berto turns back toward the camera lens with a deadpan, determined smirk to deliver his final warning.",
+          "cameraDirection": "medium close-up, slow dolly in",
+          "shotType": "",
+          "cameraMove": "",
+          "state": "done",
+          "elapsed": 0,
+          "opName": null,
+          "videoSrc": null,
+          "videoMime": "video/mp4",
+          "blobUrl": null,
+          "error": "",
+          "lastFrame": null,
+          "promptOverride": null,
+          "omniEndFrameMode": "none",
+          "durationSeconds": 8,
+          "artifactId": "aac3b659-5759-4f2a-8b82-a296e6e3c7dc",
+          "rawVideoBase64": null
         }
       ]
     },
