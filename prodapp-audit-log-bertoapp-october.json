@@ -1,10 +1,46 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T15:33:21.676Z",
+  "exportedAt": "2026-10-29T16:09:07.497Z",
   "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
   "projectName": "BertoApp-October",
-  "count": 237,
+  "count": 241,
   "events": [
+    {
+      "detail": "{\"key\":\"frame:db85c039-1bb1-40dd-814b-ba6b143cbb2f\",\"stage\":\"07-main-frames\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October",
+      "type": "approval",
+      "ts": "2026-10-29T16:00:45.738Z",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "action": "locked"
+    },
+    {
+      "detail": "{\"key\":\"video:023edc76-38f5-47f4-9c2e-d7916c48dd93\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}",
+      "action": "approved",
+      "type": "approval",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectName": "BertoApp-October",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "ts": "2026-10-29T15:42:48.429Z"
+    },
+    {
+      "detail": "{\"key\":\"frame:6330941a-ce86-4992-babd-65f947924e86\",\"stage\":\"07-main-frames\",\"from\":\"approved\",\"to\":\"locked\",\"automatic\":true}",
+      "action": "locked",
+      "type": "approval",
+      "ts": "2026-10-29T15:37:22.396Z",
+      "projectName": "BertoApp-October",
+      "email": "admin@robertocanton.altostrat.com",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a"
+    },
+    {
+      "projectName": "BertoApp-October",
+      "action": "approved",
+      "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+      "detail": "{\"key\":\"video:097b555c-0adc-41f8-877c-90790aba1ea8\",\"stage\":\"08-animation\",\"from\":\"draft\",\"to\":\"approved\",\"version\":1}",
+      "type": "approval",
+      "ts": "2026-10-29T15:33:28.396Z",
+      "email": "admin@robertocanton.altostrat.com"
+    },
     {
       "ts": "2026-10-29T15:20:57.946Z",
       "projectName": "BertoApp-October",
