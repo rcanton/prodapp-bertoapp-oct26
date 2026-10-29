@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T14:20:32.100Z",
+  "exportedAt": "2026-10-29T14:57:57.254Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -58,7 +58,7 @@
                   "cameraDirection": "medium wide shot, slow dolly in"
                 },
                 {
-                  "scriptPortion": "BERTO: \"Let's pinpoint the issues using BertoApp.\"",
+                  "scriptPortion": "BERTO: \"Let's look at the issues closely using Berto App.\"",
                   "visualDescription": "From behind the workstation, a futuristic glowing cyan HUD overlay beams directly from the eyes of Berto onto the dual monitors, converting frozen red heatmaps into green operational metrics across the BertoApp Analyze Dashboard. Berto watches the scanning performance scores with confident poise while Frantic Manager / Team Member stares upward at the resolved data in stunned disbelief under the crisp office lighting.",
                   "cameraDirection": "two-shot, camera arcs right"
                 },
@@ -330,6 +330,180 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 5",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium close-up, slow dolly in.\nBerto stands framed in sharp analytical focus (without Frantic Manager), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight illuminates Berto as he delivers his diagnostic insight with effortless superhero poise.\n\nLOCATION: THE WAR ROOM — Day. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Mood: High-tech, confident, analytical.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Do not show or introduce Frantic Manager anywhere in this shot. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; all other characters in frame keep their mouths completely closed and silent. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 5,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/91d69981-2d12-4372-aabd-55eebb37da24.mp4"
+        },
+        "id": "91d69981-2d12-4372-aabd-55eebb37da24",
+        "timestamp": 1793285791433
+      },
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 4",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium shot, subtle camera movement.\nBerto stands framed in sharp analytical focus (without Frantic Manager), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight illuminates Berto as he delivers his diagnostic insight with effortless superhero poise.\n\nLOCATION: THE WAR ROOM — Day. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Mood: High-tech, confident, analytical.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Do not show or introduce Frantic Manager anywhere in this shot. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; all other characters in frame keep their mouths completely closed and silent. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 4,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/4ccc5214-fe24-4132-aaab-1075ece2d87b.mp4"
+        },
+        "id": "4ccc5214-fe24-4132-aaab-1075ece2d87b",
+        "timestamp": 1793285460797
+      },
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 3",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium close-up, slow zoom in.\nBerto stands framed in sharp analytical focus (without Frantic Manager), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight illuminates Berto as he delivers his diagnostic insight with effortless superhero poise.\n\nLOCATION: THE WAR ROOM — Day. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Mood: High-tech, confident, analytical.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Do not show or introduce Frantic Manager anywhere in this shot. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; all other characters in frame keep their mouths completely closed and silent. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 3,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/17f26925-f179-445e-a486-c50a31bf3c34.mp4"
+        },
+        "id": "17f26925-f179-445e-a486-c50a31bf3c34",
+        "timestamp": 1793285079193
+      },
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: two-shot, subtle slow push in maintaining the frontal angle.\nAt the workstation, a futuristic glowing cyan HUD overlay beams directly from the eyes of Berto onto the dual monitors, converting frozen red heatmaps into green operational metrics across the BertoApp Analyze Dashboard. Berto watches the scanning performance scores with confident poise while Frantic Manager stares upward at the resolved data in stunned disbelief under the crisp office lighting.\n\nLOCATION: THE WAR ROOM — Day. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Mood: High-tech, confident, analytical.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; Frantic Manager must remain completely silent with mouth naturally closed and must NEVER speak, mouth words, or lip-sync Berto's dialogue. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"Let's look at the issues closely using Berto App.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I) | Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            },
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/e2cab106-91c8-43ab-9291-ff82b0f5a0fc.mp4"
+        },
+        "id": "e2cab106-91c8-43ab-9291-ff82b0f5a0fc",
+        "timestamp": 1793284726593
+      },
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: two-shot, subtle slow push in maintaining the frontal angle.\nAt the workstation, a futuristic glowing cyan HUD overlay beams directly from the eyes of Berto onto the dual monitors, converting frozen red heatmaps into green operational metrics across the BertoApp Analyze Dashboard. Berto watches the scanning performance scores with confident poise while Frantic Manager stares upward at the resolved data in stunned disbelief under the crisp office lighting.\n\nLOCATION: THE WAR ROOM — Day. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Mood: High-tech, confident, analytical.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; Frantic Manager must remain completely silent with mouth naturally closed and must NEVER speak, mouth words, or lip-sync Berto's dialogue. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"Let's pinpoint the issues using BertoApp.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I) | Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            },
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/5b3b9c49-c017-44b6-a20b-d2c0556dddc9.mp4"
+        },
+        "id": "5b3b9c49-c017-44b6-a20b-d2c0556dddc9",
+        "timestamp": 1793284223860
+      },
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: two-shot, subtle slow push in maintaining the frontal angle.\nAt the workstation, a futuristic glowing cyan HUD overlay beams directly from the eyes of Berto onto the dual monitors, converting frozen red heatmaps into green operational metrics across the BertoApp Analyze Dashboard. Berto watches the scanning performance scores with confident poise while Frantic Manager stares upward at the resolved data in stunned disbelief under the crisp office lighting.\n\nLOCATION: THE WAR ROOM — Day. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Mood: High-tech, confident, analytical.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; Frantic Manager must remain completely silent with mouth naturally closed and must NEVER speak, mouth words, or lip-sync Berto's dialogue. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"Let's look at the issues using Berto App.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I) | Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            },
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/61a769f1-b188-47ae-b188-bc1a58e2994a.mp4"
+        },
+        "id": "61a769f1-b188-47ae-b188-bc1a58e2994a",
+        "timestamp": 1793283985275
+      },
       {
         "type": "video",
         "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 2",
@@ -2190,10 +2364,10 @@
         "updatedAt": 1792612257568
       },
       "shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 1 — SCENE 1: THE CRISIS - INT. DIMLY LIT CORPORATE HQ / COMMAND CENTER – DAY": {
-        "status": "draft",
+        "status": "approved",
         "version": 3,
         "stage": "05-shotlist",
-        "updatedAt": 1793071990989
+        "updatedAt": 1793284537630
       },
       "frame:7536f32f-4460-42a4-9e5d-fa90e4cbe1e5": {
         "status": "locked",
@@ -2215,9 +2389,9 @@
       },
       "shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY": {
         "status": "locked",
-        "version": 1,
+        "version": 2,
         "stage": "05-shotlist",
-        "updatedAt": 1792610524932
+        "updatedAt": 1793284750416
       },
       "shotlist:1db40e4f-dff5-40c0-8dce-d3eb8e6392a7::Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY": {
         "status": "locked",
@@ -2256,10 +2430,10 @@
         "updatedAt": 1793283315506
       },
       "frame:e4bf3e08-f80d-407d-aa2e-2c5b23f9849d": {
-        "status": "approved",
+        "status": "locked",
         "version": 2,
         "stage": "07-main-frames",
-        "updatedAt": 1793210250043
+        "updatedAt": 1793285106663
       },
       "frame:5408de9b-8039-4dfb-b81c-ea87f98ace69": {
         "status": "locked",
@@ -2316,16 +2490,16 @@
         "updatedAt": 1793281960515
       },
       "frame:c6901fc8-2aeb-42c1-b9c0-01a5eb61ae1e": {
-        "status": "approved",
+        "status": "locked",
         "version": 1,
         "stage": "07-main-frames",
-        "updatedAt": 1793210252064
+        "updatedAt": 1793285469150
       },
       "frame:19d0b765-7725-4b68-9aea-759043865354": {
-        "status": "approved",
+        "status": "locked",
         "version": 1,
         "stage": "07-main-frames",
-        "updatedAt": 1793210254262
+        "updatedAt": 1793285797172
       },
       "frame:eed03df1-888e-4638-b826-b7cf9aa44dcf": {
         "status": "approved",
@@ -2350,6 +2524,30 @@
         "version": 1,
         "stage": "08-animation",
         "updatedAt": 1793282836210
+      },
+      "video:d6ccc01c-9114-4e71-a578-6d6f1bc48295": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793284869868
+      },
+      "video:e2cab106-91c8-43ab-9291-ff82b0f5a0fc": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793284873752
+      },
+      "video:17f26925-f179-445e-a486-c50a31bf3c34": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793285257483
+      },
+      "video:4ccc5214-fe24-4132-aaab-1075ece2d87b": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793285588847
       }
     },
     "prodapp_research": [
@@ -2658,13 +2856,13 @@
         {
           "id": "clip-1793282837891-1",
           "index": 1,
-          "scriptPortion": "BERTO: \"Let's pinpoint the issues using BertoApp.\"",
+          "scriptPortion": "BERTO: \"Let's look at the issues closely using Berto App.\"",
           "visualDescription": "From behind the workstation, a futuristic glowing cyan HUD overlay beams directly from the eyes of Berto onto the dual monitors, converting frozen red heatmaps into green operational metrics across the BertoApp Analyze Dashboard. Berto watches the scanning performance scores with confident poise while Frantic Manager / Team Member stares upward at the resolved data in stunned disbelief under the crisp office lighting.",
           "cameraDirection": "two-shot, camera arcs right",
           "shotType": "",
           "cameraMove": "",
           "state": "done",
-          "elapsed": 0,
+          "elapsed": 197,
           "opName": null,
           "videoSrc": null,
           "videoMime": "video/mp4",
@@ -2674,8 +2872,10 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "artifactId": "4f9e52cc-d29e-4488-b2c2-abe64106f386",
-          "rawVideoBase64": null
+          "artifactId": "e2cab106-91c8-43ab-9291-ff82b0f5a0fc",
+          "rawVideoBase64": null,
+          "dialogDelayMs": 1743,
+          "interactionId": "v1_ChcwRm5qYXFfc0VmWFAtOFlQdjRHNzZRTRIXMEZuamFxX3NFZlhQLThZUHY0Rzc2UU0"
         },
         {
           "id": "clip-1793282837891-2",
