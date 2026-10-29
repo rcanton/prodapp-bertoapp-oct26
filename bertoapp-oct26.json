@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T15:33:11.848Z",
+  "exportedAt": "2026-10-29T16:09:00.360Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -330,6 +330,102 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY — Clip 3",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nCAMERA: Medium close-up, steady slow dolly in. BERTO speaks with composed, lighthearted confidence.\n\nLOCATION: STRATEGY ROOM — Day. A sleek modern glass-walled corporate strategy room adjacent to an office corridor. On the desk, a monitor displays digital analytics cards beside organized office accessories and soft daytime illumination from large windows. Mood: Relieved, humorous, triumphant.\n\nPERFORMANCE & CONTINUITY: Rendered as a single unbroken continuous take. Berto delivers his line with charismatic, relaxed professionalism, maintaining natural lip synchronization to the speech while his colleague listens attentively.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; all other characters in frame keep their mouths completely closed and silent. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nDialogue:\nBerto (Tone: Warm, articulate, confident tenor with calm pacing): \"The platform analysis proved it was just Bob in accounting re-routing the workflow to avoid Monday morning meetings. Problem solved.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 3,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I) | Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            },
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/f7f355a8-99a7-4190-8a6f-643c193e8a70.mp4"
+        },
+        "id": "f7f355a8-99a7-4190-8a6f-643c193e8a70",
+        "timestamp": 1793289619191
+      },
+      {
+        "type": "video",
+        "name": "Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: two-shot, static camera.\n\nLOCATION: WAR ROOM — Day. A transitional office zone links a glass-walled war room to a corporate corridor finished with carpet tile flooring and pale gray drywall. An ergonomic office desk holds a swiveling monitor oriented outward displaying a clean digital dashboard card, surrounded by branded stationery, empty coffee mugs, and neat file organizers. Soft daylight from corridor windows washes over the contemporary architectural setting alongside recessed neutral overhead lighting. Mood: Relieved, humorous, triumphant.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; Frantic Manager must remain completely silent with mouth naturally closed and must NEVER speak, mouth words, or lip-sync Berto's dialogue. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"See that? You thought it was a market crash.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I) | Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            },
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/023edc76-38f5-47f4-9c2e-d7916c48dd93.mp4"
+        },
+        "id": "023edc76-38f5-47f4-9c2e-d7916c48dd93",
+        "timestamp": 1793288469019
+      },
+      {
+        "type": "video",
+        "name": "Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY — Clip 2",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n• [Voice Casting & Vocal Continuity - Do not read aloud] Frantic Manager / Team Member: MANDATORY EXACT VOICE — Assigned voice timbre: \"Orus\" (Chirp 3 HD, masculine) — a reference for pitch, resonance and vocal texture only. Vocal characteristics: Punchy, conversational masculine voice. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Character delivery: The Frantic Manager is an overwhelmed corporate professional approximately 40 years old with an average build, fair skin, and thinning, slightly balding dark hair. He is visibly sweating and disheveled, dressed in a rumpled, open-collar business-casual dress shirt with rolled-up sleeves. His face carries a constant expression of sheer panic, wide-eyed exhaustion, and frantic desperation.. Maintain exact voice pitch, timbre, pacing, and vocal register identical to earlier clips.. If Frantic Manager / Team Member speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: two-shot, static camera.\n\nLOCATION: WAR ROOM — Day. A transitional office zone links a glass-walled war room to a corporate corridor finished with carpet tile flooring and pale gray drywall. An ergonomic office desk holds a swiveling monitor oriented outward displaying a clean digital dashboard card, surrounded by branded stationery, empty coffee mugs, and neat file organizers. Soft daylight from corridor windows washes over the contemporary architectural setting alongside recessed neutral overhead lighting. Mood: Relieved, humorous, triumphant.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; Frantic Manager must remain completely silent with mouth naturally closed and must NEVER speak, mouth words, or lip-sync Berto's dialogue. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"See that? You thought it was a market crash.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 2,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I) | Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            },
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/e59b89aa-255e-4f19-9276-42ae32df2690.mp4"
+        },
+        "id": "e59b89aa-255e-4f19-9276-42ae32df2690",
+        "timestamp": 1793288200405
+      },
       {
         "type": "video",
         "name": "Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY — Clip 1",
@@ -2506,10 +2602,10 @@
         "updatedAt": 1793287257906
       },
       "frame:6330941a-ce86-4992-babd-65f947924e86": {
-        "status": "approved",
+        "status": "locked",
         "version": 2,
         "stage": "07-main-frames",
-        "updatedAt": 1793216454885
+        "updatedAt": 1793288242367
       },
       "frame:c513ceb4-6244-4fc2-bbb7-fd1f20401a25": {
         "status": "locked",
@@ -2566,10 +2662,10 @@
         "updatedAt": 1793211116807
       },
       "frame:db85c039-1bb1-40dd-814b-ba6b143cbb2f": {
-        "status": "approved",
+        "status": "locked",
         "version": 1,
         "stage": "07-main-frames",
-        "updatedAt": 1793216456864
+        "updatedAt": 1793289645709
       },
       "video:5e39b86f-1442-418a-ad1f-a2054a0448aa": {
         "status": "approved",
@@ -2612,6 +2708,18 @@
         "version": 1,
         "stage": "08-animation",
         "updatedAt": 1793286307133
+      },
+      "video:097b555c-0adc-41f8-877c-90790aba1ea8": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793288008374
+      },
+      "video:023edc76-38f5-47f4-9c2e-d7916c48dd93": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793288568397
       }
     },
     "prodapp_research": [
