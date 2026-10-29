@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T14:57:57.254Z",
+  "exportedAt": "2026-10-29T15:33:11.848Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -330,6 +330,64 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY — Clip 1",
+        "prompt": "MANDATORY AUDIO DIRECTION — SILENT VISUAL ACTION (NO SPOKEN DIALOGUE):\nThis is a non-speaking visual action shot. No character speaks, whispers, mouths words, lip-syncs, narrates, or vocalizes. Keep mouths naturally closed except for non-speech facial expressions. Generate cinematic ambient sound, room tone, holographic sound effects, and Foley only. Absolute zero spoken dialogue.\n\nMANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nCAMERA: medium wide shot, slow dolly in.\nAt an ergonomic desk in the sunlit corridor outside the glass war room, Berto calmly rotates a computer monitor to display a clean dashboard card reading 'Root Cause Identified: Inefficient Process in Sector B'. Seated across from him, Frantic Manager stares at the screen as his flushed face relaxes in shock and his jaw slowly drops in disbelief under the soft overhead lighting.\n\nLOCATION: WAR ROOM — Day. A transitional office zone links a glass-walled war room to a corporate corridor finished with carpet tile flooring and pale gray drywall. An ergonomic office desk holds a swiveling monitor oriented outward displaying a clean digital dashboard card, surrounded by branded stationery, empty coffee mugs, and neat file organizers. Soft daylight from corridor windows washes over the contemporary architectural setting alongside recessed neutral overhead lighting. Mood: Relieved, humorous, triumphant.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Frantic Manager keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion, strictly forcing the exact user-created character for Frantic Manager without altering or re-synthesizing appearance from text. Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nSILENT VISUAL PERFORMANCE: All characters remain completely silent with mouths naturally closed and zero lip movement, speaking, whispering, or vocalizing.\n\nAudio: Ambient room tone, foley, and sound effects only. No spoken dialogue or vocalizations.",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 1,
+          "voiceCast": "Frantic Manager / Team Member: Orus (Chirp 3 HD) (en-US-Chirp3-HD-Orus) | Berto: RC-MyVoice (Custom Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Frantic Manager / Team Member",
+              "voiceId": "en-US-Chirp3-HD-Orus",
+              "voiceLabel": "Orus (Chirp 3 HD)",
+              "engine": "Google Cloud Chirp 3 HD"
+            },
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (Custom Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/097b555c-0adc-41f8-877c-90790aba1ea8.mp4"
+        },
+        "id": "097b555c-0adc-41f8-877c-90790aba1ea8",
+        "timestamp": 1793287254748
+      },
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 5",
+        "prompt": "MANDATORY LOCATION CONTINUITY — SAME SET IN EVERY CLIP:\nUse the image labeled CANONICAL LOCATION as the exact same physical environment for this clip and every other clip in this scene. Preserve its architecture, layout, materials, props, terrain, lighting direction, weather, and time of day. A new camera angle is not a new location. Do not redesign, relocate, replace, simplify, or add structures.\n\nASSIGNED CHARACTER VOICES (VOCAL CASTING ONLY — DO NOT READ ALOUD):\n• [Voice Casting & Vocal Continuity - Do not read aloud] Berto: MANDATORY EXACT VOICE — Berto's custom recorded voice (masculine, RC-MyVoice (Custom Voice Clone · 129 Hz)). Acoustic and vocal tone profile: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth.. Measured fundamental pitch F0 is 129 Hz. Accent, phonetics and dialect are English (United States) — American English with natural US accent, cadence, and idioms — regardless of the voice's name or origin; the casting reference supplies timbre only and must never introduce a foreign accent. Keep vocal pitch, timbre, resonance, pacing, and delivery 100% identical to the voice established in earlier clips.. If Berto speaks, whispers, mouths words, or makes vocalizations, keep the voice, tone, pitch, and timbre 100% identical to the voice established in earlier clips of this production.\n\nCAMERA: medium close-up, slow dolly in.\nBerto stands framed in sharp analytical focus (without Frantic Manager), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight illuminates Berto as he delivers his diagnostic insight with effortless superhero poise.\n\nLOCATION: THE WAR ROOM — Day. A corporate war room is enclosed by frosted acoustic glass walls and matte-charcoal sound-dampening wall panels. A central dark-wood conference workstation is equipped with desktop monitors, dual-screen setups showing paused data heatmaps, network cabling, and dispersed tech peripherals. Ambient daylight filters through horizontal window louvers, blending with recessed cool-white ceiling LED paneling that illuminates the high-tech interior. Mood: High-tech, confident, analytical.\n\nVISUAL CONTINUITY (DO NOT SPEAK): Berto keeps the exact same face, bone structure, hairline, facial hair, skin tone, hairstyle, age, and outfit shown in the starting frame and reference image throughout all motion and speech, strictly forcing the exact user-created character for Berto without altering or re-synthesizing appearance from text. Do not show or introduce Frantic Manager anywhere in this shot. Maintain the exact physical environment, architecture, layout, props, and lighting direction established in the starting frame. Render as a single continuous unbroken shot from the starting frame with zero cuts, reverse angles, or character replacements; never morph, swap, or introduce uncast people mid-clip.\n\nVISUAL LIP-SYNC: ONLY Berto visibly speaks and moves their lips in this shot; all other characters in frame keep their mouths completely closed and silent. The character speaking the dialogue must visibly articulate the words with natural, frame-accurate lip synchronization matching the spoken speech. Match mouth shapes to the phonemes of the specified dialogue language and dialect, not the original accent of the cast voice. Each speaker articulates only their own exact words; listeners stay silent. Match consonant closures, vowels, pauses, speech onset and ending to the audible delivery.\n\nSPOKEN LANGUAGE (MANDATORY): Every quoted line below is spoken entirely in English (United States) — American English with natural US accent, cadence, and idioms. Voice casting describes timbre, pitch, and vocal texture only; an English voice name or accent must never override this dialogue language and dialect. Deliver each line word for word exactly as written. Do not translate, localise, or code-switch any word, including names, brand names, technical terms, and loanwords. Read every numeral, symbol, and abbreviation aloud in English (United States) (for example, \"40\" is spoken as \"forty\"). No other language is spoken anywhere in this clip.\n\nDialogue:\nBerto (Tone: Warm, intimate Hispanic-accented male tenor voice speaking at around 129 Hz with a deliberate, atmospheric narrative pacing and gentle chest warmth): \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 5,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "engine": "Biometric & Reference-Audio TTS Voice Clone"
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "gcsBlobName": "clips/ba811b62-a69d-46b3-8f42-398d24521167.mp4"
+        },
+        "id": "ba811b62-a69d-46b3-8f42-398d24521167",
+        "timestamp": 1793286090212
+      },
       {
         "type": "video",
         "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 5",
@@ -2442,10 +2500,10 @@
         "updatedAt": 1792612013828
       },
       "frame:7593a40d-5b96-4bf6-82b5-a145f9084582": {
-        "status": "approved",
+        "status": "locked",
         "version": 2,
         "stage": "07-main-frames",
-        "updatedAt": 1793216452565
+        "updatedAt": 1793287257906
       },
       "frame:6330941a-ce86-4992-babd-65f947924e86": {
         "status": "approved",
@@ -2548,6 +2606,12 @@
         "version": 1,
         "stage": "08-animation",
         "updatedAt": 1793285588847
+      },
+      "video:ba811b62-a69d-46b3-8f42-398d24521167": {
+        "status": "approved",
+        "version": 1,
+        "stage": "08-animation",
+        "updatedAt": 1793286307133
       }
     },
     "prodapp_research": [
@@ -2819,7 +2883,7 @@
       "audioTimingVersion": 2,
       "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
+      "selectedSceneName": "Scene 3 — SCENE 3: THE COMEDIC INTERVENTION - INT. WAR ROOM / OFFICE CORRIDOR – DAY",
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -2827,19 +2891,19 @@
       ],
       "castSelectionExplicit": true,
       "costumeChoices": {},
-      "numClips": 5,
+      "numClips": 3,
       "hasExplicitClips": true,
       "clips": [
         {
-          "id": "clip-1793282837891-0",
+          "id": "clip-1793287036376-0",
           "index": 0,
           "scriptPortion": "",
-          "visualDescription": "Inside the high-tech corporate war room illuminated by recessed cool-white ceiling LED panels and louvered daylight, Berto steps calmly up behind Frantic Manager / Team Member at the central dark-wood conference workstation. Frantic Manager / Team Member slumps before his dual monitors in sweat-drenched panic as Berto raises his hand in deliberate focus and taps the side of his temple.",
+          "visualDescription": "At an ergonomic desk in the sunlit corridor outside the glass war room, Berto calmly rotates a computer monitor to display a clean dashboard card reading 'Root Cause Identified: Inefficient Process in Sector B'. Seated across from him, Frantic Manager / Team Member stares at the screen as his flushed face relaxes in shock and his jaw slowly drops in disbelief under the soft overhead lighting.",
           "cameraDirection": "medium wide shot, slow dolly in",
           "shotType": "",
           "cameraMove": "",
           "state": "done",
-          "elapsed": 210,
+          "elapsed": 206,
           "opName": null,
           "videoSrc": null,
           "videoMime": "video/mp4",
@@ -2849,62 +2913,16 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "artifactId": "d6ccc01c-9114-4e71-a578-6d6f1bc48295",
+          "artifactId": "097b555c-0adc-41f8-877c-90790aba1ea8",
           "rawVideoBase64": null,
-          "interactionId": "v1_ChdLMVBqYXR1SkhMYWlfdU1QbDdfeXVBWRIXSzFQamF0dUpITGFpX3VNUGw3X3l1QVk"
+          "interactionId": "v1_ChdrR1BqYXUtcko3S2JfdU1QOHBXb3FBVRIXa0dQamF1LXJKN0tiX3VNUDhwV29xQVU"
         },
         {
-          "id": "clip-1793282837891-1",
+          "id": "clip-1793287036376-1",
           "index": 1,
-          "scriptPortion": "BERTO: \"Let's look at the issues closely using Berto App.\"",
-          "visualDescription": "From behind the workstation, a futuristic glowing cyan HUD overlay beams directly from the eyes of Berto onto the dual monitors, converting frozen red heatmaps into green operational metrics across the BertoApp Analyze Dashboard. Berto watches the scanning performance scores with confident poise while Frantic Manager / Team Member stares upward at the resolved data in stunned disbelief under the crisp office lighting.",
-          "cameraDirection": "two-shot, camera arcs right",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "done",
-          "elapsed": 197,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
-          "artifactId": "e2cab106-91c8-43ab-9291-ff82b0f5a0fc",
-          "rawVideoBase64": null,
-          "dialogDelayMs": 1743,
-          "interactionId": "v1_ChcwRm5qYXFfc0VmWFAtOFlQdjRHNzZRTRIXMEZuamFxX3NFZlhQLThZUHY0Rzc2UU0"
-        },
-        {
-          "id": "clip-1793282837891-2",
-          "index": 2,
-          "scriptPortion": "BERTO: \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity.\"",
-          "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
-          "cameraDirection": "medium close-up, slow zoom in",
-          "shotType": "",
-          "cameraMove": "",
-          "state": "done",
-          "elapsed": 0,
-          "opName": null,
-          "videoSrc": null,
-          "videoMime": "video/mp4",
-          "blobUrl": null,
-          "error": "",
-          "lastFrame": null,
-          "promptOverride": null,
-          "omniEndFrameMode": "none",
-          "durationSeconds": 8,
-          "artifactId": "039172d6-8c22-4e8d-8f2c-5e79fdfb82c3",
-          "rawVideoBase64": null
-        },
-        {
-          "id": "clip-1793282837891-3",
-          "index": 3,
-          "scriptPortion": "BERTO: \"While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp.\"",
-          "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
-          "cameraDirection": "medium shot, subtle camera movement",
+          "scriptPortion": "BERTO: \"See that? You thought it was a market crash.\"",
+          "visualDescription": "",
+          "cameraDirection": "two-shot, static camera",
           "shotType": "",
           "cameraMove": "",
           "state": "idle",
@@ -2921,10 +2939,10 @@
           "rawVideoBase64": null
         },
         {
-          "id": "clip-1793282837891-4",
-          "index": 4,
-          "scriptPortion": "BERTO: \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
-          "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
+          "id": "clip-1793287036376-2",
+          "index": 2,
+          "scriptPortion": "BERTO: \"BertoApp’s Analyze proved it was just Bob from accounting re-routing the workflow to avoid Monday morning meetings. Crisis averted.\"",
+          "visualDescription": "BERTO continues speaking with composed intensity.",
           "cameraDirection": "medium close-up, slow dolly in",
           "shotType": "",
           "cameraMove": "",
