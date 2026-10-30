@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-30T19:53:12.199Z",
+  "exportedAt": "2026-10-30T21:45:37.638Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -330,6 +330,36 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 5 (Lip correction)",
+        "prompt": "BERTO: \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8.04,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 5,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceUsed": "custom-sample",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "text": "It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal."
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "sourceArtifactId": "ba811b62-a69d-46b3-8f42-398d24521167",
+          "dialogLanguage": "en-US",
+          "lipSync": "timed-mouth-edit",
+          "gcsBlobName": "clips/5fa31cc4-376b-497b-a57a-8b296b5fedfc.mp4"
+        },
+        "id": "5fa31cc4-376b-497b-a57a-8b296b5fedfc",
+        "timestamp": 1793390495814
+      },
       {
         "type": "video",
         "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 2 (Lip correction)",
