@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-29T21:36:50.784Z",
+  "exportedAt": "2026-10-30T15:27:13.840Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -3222,7 +3222,7 @@
       "audioTimingVersion": 2,
       "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": "Scene 4 — SCENE 4: THE HEROIC CLOSE & CALL TO ACTION - INT. MODERN SLEEK STUDIO / APP OVERVIEW – DAY",
+      "selectedSceneName": null,
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
