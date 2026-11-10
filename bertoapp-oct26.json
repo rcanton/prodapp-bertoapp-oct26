@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-30T21:45:37.638Z",
+  "exportedAt": "2026-11-10T17:18:01.236Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -330,6 +330,36 @@
       }
     ],
     "prodapp_artifacts": [
+      {
+        "type": "video",
+        "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 5 (Lip correction)",
+        "prompt": "BERTO: \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
+        "model": "gemini-omni-1.1-flash",
+        "metadata": {
+          "durationSeconds": 8.04,
+          "aspectRatio": "9:16",
+          "resolution": "4k",
+          "audio": true,
+          "clip": 5,
+          "voiceCast": "Berto: RC-MyVoice (TTS Voice Clone · 129 Hz) (en-US-Neural2-I)",
+          "voiceTracks": [
+            {
+              "character": "Berto",
+              "voiceId": "en-US-Neural2-I",
+              "voiceUsed": "custom-sample",
+              "voiceLabel": "RC-MyVoice (TTS Voice Clone · 129 Hz)",
+              "text": "It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal."
+            }
+          ],
+          "projectId": "138f6cc3-a0ba-4ab6-8cb0-5b7edf0e465a",
+          "sourceArtifactId": "5fa31cc4-376b-497b-a57a-8b296b5fedfc",
+          "dialogLanguage": "en-US",
+          "lipSync": "timed-mouth-edit",
+          "gcsBlobName": "clips/ed36d13a-a32d-4c1f-81de-4188f343f5e7.mp4"
+        },
+        "id": "ed36d13a-a32d-4c1f-81de-4188f343f5e7",
+        "timestamp": 1793396866987
+      },
       {
         "type": "video",
         "name": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY — Clip 5 (Lip correction)",
@@ -3282,7 +3312,7 @@
       "audioTimingVersion": 2,
       "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
+      "selectedSceneName": null,
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
