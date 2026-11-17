@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-11-10T17:18:01.236Z",
+  "exportedAt": "2026-11-17T17:12:02.416Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -3312,7 +3312,7 @@
       "audioTimingVersion": 2,
       "promptFormatVersion": 6,
       "selectedScriptId": "1db40e4f-dff5-40c0-8dce-d3eb8e6392a7",
-      "selectedSceneName": null,
+      "selectedSceneName": "Scene 2 — SCENE 2: THE POWER OF THE \"ANALYZE\" VISION - INT. THE WAR ROOM – DAY",
       "selectedStagingId": null,
       "selectedCastIds": [
         "1792607215570",
@@ -3324,7 +3324,7 @@
       "hasExplicitClips": true,
       "clips": [
         {
-          "id": "clip-1793388127289-0",
+          "id": "clip-1794609792626-0",
           "index": 0,
           "scriptPortion": "",
           "visualDescription": "Inside the high-tech corporate war room illuminated by recessed cool-white ceiling LED panels and louvered daylight, Berto steps calmly up behind Frantic Manager / Team Member at the central dark-wood conference workstation. Frantic Manager / Team Member slumps before his dual monitors in sweat-drenched panic as Berto raises his hand in deliberate focus and taps the side of his temple.",
@@ -3346,7 +3346,7 @@
           "rawVideoBase64": null
         },
         {
-          "id": "clip-1793388127289-1",
+          "id": "clip-1794609792626-1",
           "index": 1,
           "scriptPortion": "BERTO: \"Let's look at the issues closely using Berto App.\"",
           "visualDescription": "From behind the workstation, a futuristic glowing cyan HUD overlay beams directly from the eyes of Berto onto the dual monitors, converting frozen red heatmaps into green operational metrics across the BertoApp Analyze Dashboard. Berto watches the scanning performance scores with confident poise while Frantic Manager / Team Member stares upward at the resolved data in stunned disbelief under the crisp office lighting.",
@@ -3365,12 +3365,10 @@
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
           "artifactId": "794eb12b-c43b-46c4-8c2a-dfa1a018818a",
-          "rawVideoBase64": null,
-          "dialogDelayMs": 1340,
-          "fitDialogToClip": true
+          "rawVideoBase64": null
         },
         {
-          "id": "clip-1793388127289-2",
+          "id": "clip-1794609792626-2",
           "index": 2,
           "scriptPortion": "BERTO: \"Some heroes shoot lasers from their eyes. My superpower? Pure diagnostic clarity.\"",
           "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
@@ -3392,7 +3390,7 @@
           "rawVideoBase64": null
         },
         {
-          "id": "clip-1793388127289-3",
+          "id": "clip-1794609792626-3",
           "index": 3,
           "scriptPortion": "BERTO: \"While mortals waste 40 hours building pivot tables, I tap into the Analyze engine of BertoApp.\"",
           "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
@@ -3414,7 +3412,7 @@
           "rawVideoBase64": null
         },
         {
-          "id": "clip-1793388127289-4",
+          "id": "clip-1794609792626-4",
           "index": 4,
           "scriptPortion": "BERTO: \"It dissects thousands of raw data points, reveals hidden bottlenecks in three seconds flat, and catches profit leaks before they become fatal.\"",
           "visualDescription": "Berto stands framed in sharp analytical focus (without Frantic Manager / Team Member), gesturing with calm authority toward the glowing holographic performance metrics floating above the workstation. Recessed cool-white ceiling LEDs and soft horizontal daylight accentuate the silver-white beard of Berto as he delivers his diagnostic insight with effortless superhero poise.",
@@ -3432,7 +3430,7 @@
           "promptOverride": null,
           "omniEndFrameMode": "none",
           "durationSeconds": 8,
-          "artifactId": "ba811b62-a69d-46b3-8f42-398d24521167",
+          "artifactId": "ed36d13a-a32d-4c1f-81de-4188f343f5e7",
           "rawVideoBase64": null
         }
       ]
