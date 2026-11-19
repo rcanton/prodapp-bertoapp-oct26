@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-11-18T04:08:53.717Z",
+  "exportedAt": "2026-11-19T19:07:00.769Z",
   "data": {
     "prodapp_scripts": [
       {
@@ -3324,7 +3324,7 @@
       "hasExplicitClips": true,
       "clips": [
         {
-          "id": "clip-1794935815601-0",
+          "id": "clip-1795109810852-0",
           "index": 0,
           "scriptPortion": "",
           "visualDescription": "At an ergonomic desk in the sunlit corridor outside the glass war room, Berto calmly rotates a computer monitor to display a clean dashboard card reading 'Root Cause Identified: Inefficient Process in Sector B'. Seated across from him, Frantic Manager / Team Member stares at the screen as his flushed face relaxes in shock and his jaw slowly drops in disbelief under the soft overhead lighting.",
@@ -3346,7 +3346,7 @@
           "rawVideoBase64": null
         },
         {
-          "id": "clip-1794935815601-1",
+          "id": "clip-1795109810852-1",
           "index": 1,
           "scriptPortion": "BERTO: \"See that? You thought it was a market crash.\"",
           "visualDescription": "",
@@ -3368,7 +3368,7 @@
           "rawVideoBase64": null
         },
         {
-          "id": "clip-1794935815601-2",
+          "id": "clip-1795109810852-2",
           "index": 2,
           "scriptPortion": "BERTO: \"BertoApp’s Analyze proved it was just Bob from accounting re-routing the workflow to avoid Monday morning meetings. Crisis averted.\"",
           "visualDescription": "BERTO continues speaking with composed intensity.",
